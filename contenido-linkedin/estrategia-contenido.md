@@ -4,16 +4,18 @@
 
 > Mientras el Módulo 4 no cierre, cada post se apoya en **evidencia concreta** (un caso, un resultado, una decisión técnica real) — nunca en un pitch de venta ni en una promesa de posicionamiento que todavía no hemos definido por escrito.
 
-## ⚠️ Punto que hay que decidir antes de publicar nada
+## Decisión: perfil único, contenido de doble lectura (2026-07-09)
 
-Alberto tiene, en paralelo, un proyecto de búsqueda de empleo activo (ver su wiki de carrera) apuntando a roles de Head of Data / Data & Analytics Manager, con su propio tracking de métricas de LinkedIn desde julio 2026. Publicar contenido posicionándose como **consultor independiente para pymes** en el mismo perfil que se está usando para buscar un puesto de **Data Lead/Head of Data en una empresa** envía señales contradictorias a las dos audiencias (headhunters vs. potenciales clientes).
+Alberto confirma: quiere buscar empleo activamente a partir de febrero 2027 (coincide con la fase "Entrevistas" de su wiki de carrera) y **no quiere que las publicaciones interfieran con eso**. Su propuesta: publicar en formato "autoridad" que sirva a la vez para reforzar la búsqueda de empleo (como experto) y para vender la consultoría, sin caer en un tono agresivo/vendehumos.
 
-**Opciones a decidir con Alberto (no asumido, no cerrado):**
-1. Un único perfil de LinkedIn, aceptando que ambas narrativas convivan (arriesgado si un reclutador ve "estoy montando mi consultora").
-2. Separar: LinkedIn personal para búsqueda de empleo, y una página de empresa / perfil de marca para la consultora.
-3. Priorizar una de las dos líneas ahora y aplazar la otra (p.ej. arrancar consultoría en paralelo suave, sin volumen agresivo de contenido, hasta decidir si el objetivo real de 2026-2027 es empleo o negocio propio).
+Esto es viable y **encaja exactamente con lo que ya cerramos en el Módulo 1**: el problema que vende Alberto es un "unknown unknown" — el cliente no sabe que el problema existe hasta que se lo enseñan. Eso obliga, de todas formas, a que el contenido sea educativo/evidencia (mostrar un caso, explicar un concepto, enseñar un antes/después), nunca un pitch de venta. Un reclutador que lee "así reduje el time-to-market de campañas a 2 días" lee una señal de competencia para un rol de Head of Data. Un dueño de pyme que lee el mismo post lee una prueba de que Alberto sabe resolver justo su problema. **Es el mismo post para las dos audiencias — no hacen falta dos tonos ni dos perfiles.**
 
-Esto se decide antes de fijar el calendario de publicación real — ver pregunta abierta en `seguimiento/registro-sesiones.md`.
+Por tanto: **un único perfil de LinkedIn**, con esta regla de contenido:
+- Todo post es caso/evidencia/concepto explicado — nunca "contrátame" ni "tengo plazas libres".
+- Ninguna mención explícita de "consultoría", precios, ni disponibilidad — el CTA implícito es "así pienso yo", no una oferta comercial. Eso se activa formalmente en el Módulo 6 (funnel), y ahí es donde se revisa si hace falta algo más explícito (p.ej. un "contáctame" discreto en la bio, no en el post).
+- La bio/titular del perfil sí puede (y probablemente debe) reflejar ambas cosas a la vez ("Data & Analytics Leader — construyo funciones de datos desde cero, y ayudo a pymes a hacer lo mismo a su escala"), porque ahí no hay ambigüedad de intención como sí la hay en un post activo de venta. Esto se termina de aterrizar en el Módulo 6, como hacía el programa original con el bonus de perfil/bio/titular.
+
+**Riesgo a vigilar:** si en algún momento el volumen o el tono de los posts empieza a leerse como "está montando su propio negocio, ya no busca curro", se ajusta de inmediato — prioridad es no dañar la búsqueda de empleo desde ahora hasta que arranque en febrero 2027.
 
 ## Líneas de contenido posibles (borrador, pendiente de validar tras Módulo 1)
 

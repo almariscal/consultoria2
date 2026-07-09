@@ -1,7 +1,7 @@
 # Módulo 1 — Problema
 
 **Fase:** Diagnóstico
-**Estado:** 🟡 En curso (abierto en la sesión de kickoff, 2026-07-09)
+**Estado:** 🟡 Cierre propuesto, pendiente de confirmación de Alberto (sesión 2026-07-09)
 **Sale con:** un problema elegido — qué duele, a quién, cómo se reconoce, qué cuesta no resolverlo.
 
 ---
@@ -38,6 +38,29 @@ No cerramos esto todavía. Se cierra con las respuestas de Alberto abajo.
 4. **¿Cómo se reconoce el problema desde fuera, antes de hablar contigo?** Es decir: ¿qué ve/dice/hace un gerente de pyme que tiene este problema, que tú reconocerías al instante?
 5. **¿Prefieres arrancar con foco horizontal (cualquier pyme con este dolor) o vertical (un sector donde ya tienes autoridad real, como energía)?** — ligado a la tensión que ya está anotada en `materia-prima/evidencia-experiencia.md`.
 
-## Decisión (pendiente)
+## Respuestas de Alberto (2026-07-09)
 
-_(se rellena cuando Alberto responda y cerremos el módulo — problema final elegido, a quién duele, cómo se reconoce, coste de no resolverlo)_
+1. No ha ayudado todavía a ninguna pyme formalmente. Dentro de niba ha dado servicio de facto a *todos* los departamentos (negocio/producto vía reporting, marketing vía Braze/marketing automation, deuda vía gestión y reporting, ventas y gestión de la energía) — es decir, su patrón real no es "especialista de un departamento", es "el que conecta y explota datos para cualquier área que lo necesite".
+2. Se reconoce en **A** (integrar herramientas dispersas y convertirlas en datos explotables) y en **C** ("no confío en mis datos, no sé si necesito un dashboard o un ingeniero"). Explícitamente descarta **B**: no puede dirigirse a empresas de energía por incompatibilidad (cláusula/conflicto con su empleo actual). Esto **cierra la tensión vertical vs. horizontal**: la opción vertical queda descartada por una restricción real, no por preferencia. Foco horizontal, fuera de energía/utilities.
+3. El coste de no resolverlo no es que "duela" de forma reconocible: es que la pyme **ni siquiera sabe que el problema es resoluble**. Pymes familiares, presupuesto acotado, que necesitan optimizar pero desconocen que existe una solución a su alcance.
+4. No hay una señal externa auto-reconocible ("no lo sé, tienen que conocerme"). Confirma el punto 3: esto no es un dolor que el cliente busca activamente (no va a googlear la solución) — es un problema invisible hasta que alguien se lo muestra.
+5. Horizontal, forzado por la incompatibilidad con energía (ver punto 2).
+
+## Síntesis — qué significa esto de verdad
+
+Dos cosas importantes que salen de aquí y que no estaban en los candidatos iniciales:
+
+- **A y C no son alternativas, son las dos caras del mismo problema**: C es el problema tal y como lo vive el cliente (incertidumbre, decisiones a ojo, no sabe qué necesita), A es la causa estructural que lo produce (datos y procesos dispersos entre herramientas sueltas, sin nadie con el perfil o el tiempo para conectarlos). No hay que elegir entre las dos — el problema completo necesita ambas capas.
+- **Esto NO es un problema de dolor reconocido, es un problema de "unknown unknown".** El cliente no tiene el síntoma que le empuje a buscar solución por su cuenta (a diferencia de "se me cae el pelo" → busca clínica capilar). Esto tiene una consecuencia directa e ineludible para todo lo que viene después: **el marketing de esta consultora no puede apoyarse en intención de búsqueda (SEO, anuncios "solución a X")** — tiene que ser un canal de autoridad/exposición que **enseñe al cliente que el problema existe**, antes de venderle nada. Esto confirma (y ahora justifica con datos, no por defecto) que LinkedIn con contenido educativo/autoridad es el canal correcto, no una elección de conveniencia.
+
+## Problema elegido (cierre propuesto)
+
+> **A quién duele:** al dueño/gerente de una pyme de gestión familiar, con presupuesto acotado, sin equipo de datos ni IT dedicado, de cualquier sector excepto energía/utilities.
+>
+> **Qué duele:** toma decisiones a ojo porque sus datos y procesos operativos viven dispersos en herramientas sueltas (hojas de cálculo, Notion, Jira, lo que use cada área) sin conectar entre sí — y no tiene forma de saber si lo que necesita es una herramienta, un informe o un perfil técnico.
+>
+> **Cómo se reconoce:** no se autoreconoce. No hay síntoma que el gerente busque activamente — el problema es invisible hasta que alguien se lo muestra desde fuera (contenido, autoridad, recomendación directa). Esto es una restricción de diseño para todo el go-to-market, no un detalle menor.
+>
+> **Qué cuesta no resolverlo:** presupuesto que podría optimizarse y no se optimiza, decisiones tomadas sin datos o tarde, tiempo de alguien de confianza cruzando información a mano. *(Cualitativo por ahora — pendiente de cuantificar con un caso piloto real; ver tarea abierta en `materia-prima/evidencia-experiencia.md`.)*
+
+**Pendiente para cerrar del todo:** confirmación explícita de Alberto de que esta síntesis es correcta (o qué matizar) antes de pasar a Módulo 2.
