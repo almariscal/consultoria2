@@ -1,7 +1,7 @@
 # Módulo 1 — Problema
 
 **Fase:** Diagnóstico
-**Estado:** 🟡 Cierre propuesto, pendiente de confirmación de Alberto (sesión 2026-07-09)
+**Estado:** 🟢 Cerrado (2026-07-09)
 **Sale con:** un problema elegido — qué duele, a quién, cómo se reconoce, qué cuesta no resolverlo.
 
 ---
@@ -46,6 +46,15 @@ No cerramos esto todavía. Se cierra con las respuestas de Alberto abajo.
 4. No hay una señal externa auto-reconocible ("no lo sé, tienen que conocerme"). Confirma el punto 3: esto no es un dolor que el cliente busca activamente (no va a googlear la solución) — es un problema invisible hasta que alguien se lo muestra.
 5. Horizontal, forzado por la incompatibilidad con energía (ver punto 2).
 
+## Precisión de última hora (2026-07-09, antes de cerrar)
+
+Alberto añade dos matices con ejemplos concretos — **no cambian el problema, lo afinan**:
+
+- **Caso eloficash**: unos compañeros de deuda pidieron un desarrollo a medida para gestionar deuda con proveedores (envío de ficheros, gestión de a quién se lleva a juicio...). Alberto identificó que lo que de verdad necesitaban era comprar eloficash (software ya existente) — la consultoría, en ese caso, fue el diagnóstico y la recomendación, no construir nada. Esto confirma y **amplía la capa C**: la incertidumbre del cliente no es solo "¿dashboard o ingeniero?", es más ampliamente "¿necesito comprar algo que ya existe, que me construyan algo a medida, o que me organicen lo que ya tengo?".
+- **Automatización de procesos y búsquedas (p.ej. webscraping)**, además de la parte de datalake/explotación de datos — esto ya estaba cubierto por la causa estructural (capa A: procesos manuales/dispersos sin nadie que los automatice), se deja explícito para no perderlo.
+
+Importante — esto es **material para el Módulo 2 (Solución)**, no un cambio del problema: el hecho de que la respuesta correcta a veces sea "compra esto" y no "te lo construyo yo" es precisamente lo que puede convertirse en diferencial (un consultor agnóstico, sin incentivo a vender desarrollo si no hace falta) — pero eso se decide y se redacta en el Módulo 2, no aquí. Si esto se coló en el problema, volveríamos al punto de partida: "hago de todo".
+
 ## Síntesis — qué significa esto de verdad
 
 Dos cosas importantes que salen de aquí y que no estaban en los candidatos iniciales:
@@ -57,10 +66,10 @@ Dos cosas importantes que salen de aquí y que no estaban en los candidatos inic
 
 > **A quién duele:** al dueño/gerente de una pyme de gestión familiar, con presupuesto acotado, sin equipo de datos ni IT dedicado, de cualquier sector excepto energía/utilities.
 >
-> **Qué duele:** toma decisiones a ojo porque sus datos y procesos operativos viven dispersos en herramientas sueltas (hojas de cálculo, Notion, Jira, lo que use cada área) sin conectar entre sí — y no tiene forma de saber si lo que necesita es una herramienta, un informe o un perfil técnico.
+> **Qué duele:** toma decisiones a ojo porque sus datos y procesos operativos viven dispersos en herramientas sueltas (hojas de cálculo, Notion, Jira, lo que use cada área) sin conectar ni automatizar — y no tiene forma de saber si lo que necesita es comprar una herramienta que ya existe, un desarrollo/automatización a medida, o simplemente que le organicen lo que ya tiene.
 >
 > **Cómo se reconoce:** no se autoreconoce. No hay síntoma que el gerente busque activamente — el problema es invisible hasta que alguien se lo muestra desde fuera (contenido, autoridad, recomendación directa). Esto es una restricción de diseño para todo el go-to-market, no un detalle menor.
 >
 > **Qué cuesta no resolverlo:** presupuesto que podría optimizarse y no se optimiza, decisiones tomadas sin datos o tarde, tiempo de alguien de confianza cruzando información a mano. *(Cualitativo por ahora — pendiente de cuantificar con un caso piloto real; ver tarea abierta en `materia-prima/evidencia-experiencia.md`.)*
 
-**Pendiente para cerrar del todo:** confirmación explícita de Alberto de que esta síntesis es correcta (o qué matizar) antes de pasar a Módulo 2.
+**Confirmado por Alberto — módulo cerrado.** Continúa en `01-diagnostico/modulo-2-solucion.md`.

@@ -28,6 +28,11 @@ Extraído del CV y la wiki de carrera de Alberto. Reenfocado: aquí no importa l
 - No es un data engineer de formación ni tiene certificación AWS formal — su valor es **criterio + liderazgo + capacidad de especificar y validar**, no picar código de infraestructura él mismo. Esto debe ser explícito en la oferta: ¿va a ejecutar él directamente para pymes (sin equipo detrás), o va a vender criterio/diseño y ejecutar con ayuda (subcontratar implementación puntual)? Esto cambia completamente el formato de la oferta del Módulo 3.
 - Todos sus casos son de una industria concreta (energía retail) y de una sola empresa a la vez (nunca ha tenido varios clientes en paralelo). El Módulo 5 (Audiencia) tiene que decidir si eso es una limitación a ocultar o una historia a contar ("primera pyme como banco de pruebas").
 
+## Casos internos con forma de "consultoría", aunque no fueran para una pyme
+
+- **Caso eloficash (niba, departamento de deuda)**: pidieron un desarrollo a medida para gestionar deuda con proveedores (envío de ficheros, gestión de expedientes a juicio...). Alberto diagnosticó que la necesidad real era comprar un software ya existente (eloficash), no construir nada — la consultoría fue el diagnóstico y la recomendación correcta, ahorrando un desarrollo innecesario. Caso fuerte para Módulo 2: evidencia de que Alberto no vende desarrollo por defecto, vende la solución correcta aunque sea "cómprate esto".
+- **Automatización de vigilancia competitiva con webscraping** (ver logro de "3 agentes de IA" más arriba) — ejemplo de automatización de una búsqueda/proceso manual, no solo de integración de datos.
+
 ## Casos reales de pymes (a rellenar conforme aparezcan)
 
 _(vacío por ahora — cada vez que Alberto haga un proyecto, un favor, o un piloto para una pyme real, se documenta aquí con el mismo formato: qué problema, qué hizo, qué cambió, con cifra si es posible.)_
