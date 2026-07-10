@@ -8,16 +8,15 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 |---|---|
 | 1. Problema | 🟢 Cerrado |
 | 2. Solución | 🟢 Cerrado |
-| 3. Oferta | 🟡 Próximo a abrir |
-| 3. Oferta | ⚪ No iniciado |
+| 3. Oferta | 🟡 En curso |
 | 4. Mensaje | ⚪ No iniciado |
 | 5. Audiencia | ⚪ No iniciado |
 | 6. Canal | ⚪ No iniciado |
 
 ## Preguntas abiertas activas (no cerradas)
 
-1. Conseguir un caso piloto real con una pyme (recursos reales, sin presupuesto/equipo asignado) — prioridad antes de vender en serio, alimenta `materia-prima/evidencia-experiencia.md` y da soporte al Módulo 3.
-2. Formato de ejecución de la oferta — ¿Alberto solo, con ayuda subcontratada, o solo diseño/diagnóstico? Es la primera decisión a tomar al abrir el Módulo 3.
+1. Conseguir un caso piloto real con una pyme, buscándolo activamente en la red (excompañeros, amigos, la consultoría itinerante del compañero data scientist, asociaciones/cámaras de comercio) — Alberto no tiene contacto directo hoy, pero la vía es pedirlo, no fabricarlo. Ver regla en `CLAUDE.md`.
+2. Nombre propio de cada escalón de la oferta (Diagnóstico/Implementación), entregables, duración, precio de la Implementación y garantía — para cerrar el Módulo 3.
 
 ## Decisiones ya cerradas
 
@@ -25,6 +24,10 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - **Problema (Módulo 1), cerrado**: pyme familiar sin equipo de datos/IT, presupuesto acotado, decide a ojo porque tiene datos y procesos dispersos sin conectar/automatizar, y no sabe si necesita comprar algo, que le construyan algo, o que le organicen lo que ya tiene. No autoreconocido — problema tipo "unknown unknown", GTM tiene que ser contenido de autoridad, no intención de búsqueda.
 - **Solución/valor diferencial (Módulo 2), cerrado**: el "enemigo" real es la inercia (caos disperso, no la competencia), no las consultoras/becarios/SaaS. Alberto gana enseñando alternativas que la pyme no conoce (framing de acceso a conocimiento, no de prescripción de compra), decidiendo con criterio agnóstico comprar/construir/organizar, y ejecutando con rigor técnico real. Frase-gancho de venta pulida se aplaza al Módulo 4, apoyada en la Oferta del Módulo 3.
 - **LinkedIn — perfil único**, contenido siempre en formato caso/evidencia (nunca pitch de venta), sirve a la vez a la búsqueda de empleo (activa desde feb 2027) y a la consultoría. Ver `contenido-linkedin/estrategia-contenido.md`.
+- **Formato de ejecución (Módulo 3):** Alberto único punto de contacto, colaboradores (Data Architect parcial, Data Scientist completa) se activan y facturan solo si el proyecto lo requiere. Sin estructura fija.
+- **Estructura de oferta (Módulo 3):** dos escalones — Diagnóstico (entrada, bajo riesgo) → Implementación (proyecto real por horas).
+- **Pricing del Diagnóstico (Módulo 3):** 1-2 clientes fundacionales gratis/precio simbólico a cambio de caso documentado + testimonio real, luego 3.000-8.000€ estándar — rango validado con el programa público Kit Digital (categoría BI y Analítica, subvenciona ~2.000-9.000€ según tamaño de pyme).
+- **Regla no negociable (2026-07-10):** nunca se fabrican casos, cifras o testimonios falsos, aunque nadie los vaya a comprobar — riesgo legal (publicidad engañosa) y reputacional real, agravado por la búsqueda de empleo paralela de Alberto. Añadido a `CLAUDE.md`.
 
 ## Bitácora
 
@@ -50,3 +53,10 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - Se descartó "reportar a C-level" como argumento de autoridad, y se reformuló "te digo qué comprar" (prescriptor, genera barrera) por "te enseño lo que usan las grandes empresas" (acceso a conocimiento).
 - Alberto pidió una versión de gancho de funnel/curiosidad; se rechazó explícitamente hacerlo en este módulo por ser trabajo del Módulo 4 y necesitar la Oferta (Módulo 3) detrás para no sonar a "vendehumos". Queda anotado como pendiente del Módulo 4.
 - **Módulo 2 cerrado.** Próxima sesión: abrir Módulo 3 (Oferta), empezando por decidir el formato de ejecución (Alberto solo / con ayuda subcontratada / solo diagnóstico).
+
+### 2026-07-10 — Módulo 3 (Oferta) en curso
+- Formato de ejecución cerrado: Alberto + Data Architect (parcial, cubre ETLs) + Data Scientist (completa). Se aclaró que "el chico de negocio" es de la consultoría itinerante externa, no del equipo.
+- Estructura de oferta en dos escalones (Diagnóstico → Implementación) confirmada por Alberto.
+- Tensión detectada entre el precio propuesto (3-8k€) y la preocupación de Alberto de "parecer humo" en la primera venta: resuelta separando clientes fundacionales (gratis/simbólico, a cambio de caso real) del precio estándar (3-8k€, validado con datos de Kit Digital).
+- Alberto propuso fabricar referencias de pymes inventadas al no tener contacto directo con ninguna real. **Rechazado explícitamente** — riesgo legal y reputacional, y contradice toda la disciplina de evidencia del proyecto. Se ofrecieron vías reales para conseguir un piloto (red cercana, consultoría itinerante del compañero, asociaciones/cámaras de comercio). Regla añadida a `CLAUDE.md` para que ninguna sesión futura lo plantee como opción.
+- Pendiente para cerrar Módulo 3: nombres de cada escalón, entregables/duración, precio de Implementación, garantía.
