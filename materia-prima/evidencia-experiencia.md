@@ -30,7 +30,7 @@ Extraído del CV y la wiki de carrera de Alberto. Reenfocado: aquí no importa l
 
 ## Casos internos con forma de "consultoría", aunque no fueran para una pyme
 
-- **Caso eloficash (niba, departamento de deuda)**: pidieron un desarrollo a medida para gestionar deuda con proveedores (envío de ficheros, gestión de expedientes a juicio...). Alberto diagnosticó que la necesidad real era comprar un software ya existente (eloficash), no construir nada — la consultoría fue el diagnóstico y la recomendación correcta, ahorrando un desarrollo innecesario. Caso fuerte para Módulo 2: evidencia de que Alberto no vende desarrollo por defecto, vende la solución correcta aunque sea "cómprate esto".
+- **Caso eloficash (niba, departamento de deuda)**: pidieron un desarrollo a medida para gestionar deuda con proveedores (envío de ficheros, gestión de expedientes a juicio...). Alberto diagnosticó que la necesidad real era comprar un software ya existente (eloficash), no construir nada — la consultoría fue el diagnóstico y la recomendación correcta, ahorrando un desarrollo innecesario. Caso fuerte para Módulo 2: evidencia de que Alberto no vende desarrollo por defecto, vende la solución correcta aunque sea "cómprate esto". **Estimación de ahorro (propia de Alberto, no auditada, nadie puede certificarla por escrito): desarrollo evitado de ~300.000–400.000€ (consultores de datos + SAP) frente a la herramienta ya existente, de ~1.500€/mes.**
 - **Automatización de vigilancia competitiva con webscraping** (ver logro de "3 agentes de IA" más arriba) — ejemplo de automatización de una búsqueda/proceso manual, no solo de integración de datos.
 
 ## Casos reales de pymes (a rellenar conforme aparezcan)

@@ -1,7 +1,7 @@
 # Módulo 2 — Solución
 
 **Fase:** Diagnóstico
-**Estado:** 🟡 Abierto (Módulo 1 cerrado el 2026-07-09) — se retoma en la próxima sesión
+**Estado:** 🟢 Cerrado (2026-07-10)
 **Sale con:** tu valor diferencial frente a las alternativas reales del cliente.
 
 ## Punto de partida (heredado del cierre del Módulo 1)
@@ -27,13 +27,29 @@ El caso eloficash (ver `materia-prima/evidencia-experiencia.md`) apunta a un pos
 | **Comprar un SaaS genérico y apañárselas solos** | Compran la herramienta y se quedan atascados en integrarla con lo que ya tienen (o compran la que no toca). | Recomienda con criterio Y sabe integrarlo con lo que la pyme ya usa (Excel, Notion, Jira, CRM...), en vez de dejarles solos tras la recomendación. | Integró Salesforce + SAP + Braze en una sola plataforma en niba; automatización Salesforce→Trustpilot (conectar sistemas ya existentes, no construir uno nuevo). |
 | **Agencia de desarrollo/automatización "hazme esto"** | Construye literalmente lo que le piden, sin cuestionar si es la solución correcta (mismo fallo que el becario, con más precio). | Mismo criterio de diagnóstico agnóstico, aplicado también a automatizaciones (no solo a "comprar vs. construir" sino a "automatizar esto sí, aquello no"). | Sistema de 3 agentes de IA para vigilancia competitiva — automatizó un proceso que antes era manual, en vez de simplemente construir "lo que pedían". |
 
-## Candidato a valor diferencial (a validar con Alberto)
+## Respuestas de Alberto (2026-07-10)
 
-> **No vendo horas de desarrollo ni una lista de tecnologías — vendo el criterio de saber si tu problema se resuelve comprando, construyendo o simplemente organizando lo que ya tienes, y lo ejecuto o lo superviso con el mismo nivel con el que he reportado a un CEO, sin la estructura (ni el precio) de una consultora grande.**
+1. **La alternativa real no es ninguna de las otras 4 — es la inercia.** La mayoría de pymes con este problema no hacen nada: caos disperso en Excels, empleados frustrados atrapados en un círculo vicioso, y nadie sabe lo mal que está la situación porque no tienen con qué compararla. Confirma (con más color) el hallazgo "unknown unknown" del Módulo 1: el trabajo no es ganarle a un competidor, es hacer visible el coste de seguir igual antes de que quepa cualquier alternativa.
+2. Nadie puede certificarlo por escrito, pero la estimación de Alberto: el desarrollo a medida evitado (consultores de datos + SAP) rondaba los **300.000–400.000€**, frente a una herramienta ya existente de **~1.500€/mes (~18.000€/año)** — un ratio de ahorro de en torno a 20x. Se documenta como estimación propia de Alberto, no como cifra auditada.
+3. No existe todavía ningún caso con recursos reales de pyme (sin presupuesto ni equipo asignado). **Gap abierto**, no bloqueante para seguir, pero prioritario: conseguir un piloto real (aunque sea informal/gratis a cambio de testimonio) antes de vender en serio.
+4. La frase candidata no representaba bien a Alberto en dos sentidos, y ambos quedan anotados para el Módulo 4 (Mensaje):
+   - **"Reportar a un CEO" es un flex corporativo, no una prueba de valor para una pyme** — se descarta como argumento de autoridad.
+   - **Decir "te digo si necesitas comprar algo" posiciona a Alberto como prescriptor/vendedor**, lo cual genera barrera de entrada (desconfianza tipo "¿por qué me dice esto, cobra comisión?"). Reformulado como **acceso a conocimiento** ("te enseño lo que usan las empresas grandes que tú no conoces") en vez de consejo de compra — mismo contenido, mejor posicionado.
+   - Alberto pidió después una versión más "gancho de funnel, que genere curiosidad" — se decidió explícitamente **no hacerlo aquí**: eso es trabajo del Módulo 4, y además necesita una Oferta (Módulo 3) detrás para no convertirse en un gancho vacío / tono "vendehumos", que Alberto ya dijo que quiere evitar en LinkedIn. Se deja anotado como tarea pendiente para el Módulo 4, con la oferta ya cerrada.
 
-## Preguntas para cerrar el módulo
+## Valor diferencial — cierre (sustancia, no eslogan)
 
-1. De las 5 alternativas mapeadas, ¿cuál es la que de verdad compite contigo hoy en una pyme real — es decir, cuál es tu "enemigo" principal a batir en el mensaje? (probablemente no las 5 pesan igual).
-2. El caso eloficash es la evidencia más fuerte del diagnóstico agnóstico, pero es un caso interno (dentro de niba, no una pyme cliente, y sin cifra de ahorro). ¿Tienes o puedes conseguir una cifra aproximada de lo que costaba el desarrollo que se evitó, o al menos una confirmación de alguien de ese equipo que lo respalde como testimonio?
-3. ¿Hay algún caso, aunque sea pequeño, en el que hayas operado con recursos reales de pyme (sin presupuesto de 20.000€/mes, sin equipo asignado) — algo bootstrapped de verdad? Si no lo hay, lo anotamos como gap a resolver con un piloto antes del Módulo 3.
-4. ¿Te reconoces en la frase candidata de arriba, o hay algo que suene a "yo" pero no del todo?
+> Frente a la inercia (seguir en el caos porque no saben que hay otra opción), Alberto gana porque enseña alternativas que la pyme no conoce y que usan empresas grandes, decide con criterio si conviene comprar, construir o solo ordenar lo que ya tiene, y si hay que construir lo hace con el mismo rigor con el que ha montado plataformas de datos completas desde cero — sin la estructura ni el precio de una consultora grande.
+
+Esto es sustancia validada, con evidencia detrás (ver mapeo de alternativas arriba y `materia-prima/evidencia-experiencia.md`). La versión pulida, con gancho de venta real, se escribe en el Módulo 4 — no antes.
+
+## Pendiente para el Módulo 4 (Mensaje) — no perder estos hallazgos
+
+- No usar "reporté a C-level" como argumento de autoridad frente a una pyme.
+- Framing de "acceso a conocimiento / lo que usan las grandes empresas" en vez de "te aconsejo qué comprar" — reduce la barrera de desconfianza.
+- Alberto reconoce que tiende a hablar demasiado de detalles técnicos — vigilar en la redacción del mensaje final.
+- La frase-gancho de funnel se escribe ahí, apoyada en la Oferta ya cerrada (Módulo 3), no antes.
+
+## Pendiente para el Módulo 3 (Oferta) / acción paralela
+
+- Conseguir un caso piloto real con una pyme (recursos reales, sin presupuesto/equipo asignado) antes de fijar precio y formato en firme.
