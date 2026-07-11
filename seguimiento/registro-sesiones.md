@@ -8,15 +8,16 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 |---|---|
 | 1. Problema | 🟢 Cerrado |
 | 2. Solución | 🟢 Cerrado |
-| 3. Oferta | 🟡 En curso |
-| 4. Mensaje | ⚪ No iniciado |
+| 3. Oferta | 🟢 Cerrado |
+| 4. Mensaje | 🟡 Próximo a abrir |
 | 5. Audiencia | ⚪ No iniciado |
 | 6. Canal | ⚪ No iniciado |
 
 ## Preguntas abiertas activas (no cerradas)
 
 1. Conseguir un caso piloto real con una pyme, buscándolo activamente en la red (excompañeros, amigos, la consultoría itinerante del compañero data scientist, asociaciones/cámaras de comercio) — Alberto no tiene contacto directo hoy, pero la vía es pedirlo, no fabricarlo. Ver regla en `CLAUDE.md`.
-2. Nombre propio de cada escalón de la oferta (Diagnóstico/Implementación), entregables, duración, precio de la Implementación y garantía — para cerrar el Módulo 3.
+2. Pulir los nombres de trabajo de cada escalón ("Diagnóstico de Datos" / "Implementación") — tarea del Módulo 4.
+3. Explorar registro como "agente digitalizador" (pago vía Kit Digital) — no bloqueante, más adelante.
 
 ## Decisiones ya cerradas
 
@@ -28,6 +29,7 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - **Estructura de oferta (Módulo 3):** dos escalones — Diagnóstico (entrada, bajo riesgo) → Implementación (proyecto real por horas).
 - **Pricing del Diagnóstico (Módulo 3):** 1-2 clientes fundacionales gratis/precio simbólico a cambio de caso documentado + testimonio real, luego 3.000-8.000€ estándar — rango validado con el programa público Kit Digital (categoría BI y Analítica, subvenciona ~2.000-9.000€ según tamaño de pyme).
 - **Regla no negociable (2026-07-10):** nunca se fabrican casos, cifras o testimonios falsos, aunque nadie los vaya a comprobar — riesgo legal (publicidad engañosa) y reputacional real, agravado por la búsqueda de empleo paralela de Alberto. Añadido a `CLAUDE.md`.
+- **Oferta (Módulo 3), cerrada**: dos escalones. "Diagnóstico de Datos" (1-2 semanas, fundacionales gratis/simbólico → 3-8k€ estándar, garantía "no se cobra si no hay recomendación clara") → "Implementación" (comprar/construir-automatizar/organizar, precio cerrado de proyecto calculado a 90-120€/h interno, nunca tarifa visible al cliente; facturación por hitos sin contrato largo). Alcance confirmado: incluye automatización de procesos/pipelines/tareas recurrentes, no solo analítica — ya estaba dentro del problema/solución cerrados, no es ampliación nueva.
 
 ## Bitácora
 
@@ -60,3 +62,5 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - Tensión detectada entre el precio propuesto (3-8k€) y la preocupación de Alberto de "parecer humo" en la primera venta: resuelta separando clientes fundacionales (gratis/simbólico, a cambio de caso real) del precio estándar (3-8k€, validado con datos de Kit Digital).
 - Alberto propuso fabricar referencias de pymes inventadas al no tener contacto directo con ninguna real. **Rechazado explícitamente** — riesgo legal y reputacional, y contradice toda la disciplina de evidencia del proyecto. Se ofrecieron vías reales para conseguir un piloto (red cercana, consultoría itinerante del compañero, asociaciones/cámaras de comercio). Regla añadida a `CLAUDE.md` para que ninguna sesión futura lo plantee como opción.
 - Pendiente para cerrar Módulo 3: nombres de cada escalón, entregables/duración, precio de Implementación, garantía.
+- Cerrada la tarifa interna (90-120€/h, tras señalar que 55€/h infravaloraba el perfil) y resuelta la inconsistencia con el Módulo 2: la Implementación se presenta al cliente como precio cerrado de proyecto, nunca como tarifa/hora. Confirmado que el alcance ya incluía automatización de procesos/pipelines/tareas recurrentes.
+- **Módulo 3 cerrado.** Canvas actualizado con la Oferta completa. Próxima sesión: abrir Módulo 4 (Mensaje) — frase de posicionamiento + narrativa de autoridad, recogiendo los pendientes ya anotados (no usar "reporté a C-level", framing de "acceso a conocimiento", vigilar exceso de detalle técnico, pulir nombres de los escalones).

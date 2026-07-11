@@ -11,7 +11,12 @@ Dueño/gerente de pyme familiar, presupuesto acotado, sin equipo de datos ni IT,
 Frente a la inercia (la alternativa real dominante — caos disperso, no competencia entre proveedores), Alberto gana enseñando alternativas que la pyme no conoce y que usan empresas grandes, decidiendo con criterio agnóstico si conviene comprar, construir o solo ordenar lo que ya tiene, y ejecutando con el mismo rigor con el que ha montado plataformas de datos completas desde cero — sin la estructura ni el precio de una consultora grande. Evidencia ancla: caso eloficash (desarrollo de ~300-400k€ evitado frente a herramienta de ~1.500€/mes, estimación propia).
 
 ## 3. Oferta (nombre, entregables, formato, garantía, precio)
-_(Módulo 3 — pendiente)_
+
+**Formato:** Alberto como único punto de contacto, con colaboradores (Data Architect, Data Scientist) que se activan y facturan solo si el proyecto los requiere — sin estructura fija.
+
+**Escalón 1 — Diagnóstico de Datos** (nombre de trabajo): auditoría + recomendación concreta (comprar/construir-automatizar/organizar), 1-2 semanas. Precio: fundacionales gratis/simbólico → 3.000-8.000€ estándar (validado con Kit Digital). Garantía: no se cobra si no hay recomendación clara y accionable.
+
+**Escalón 2 — Implementación** (nombre de trabajo): ejecuta lo que salga del diagnóstico (comprar+integrar, construir/automatizar —incluye pipelines y tareas recurrentes—, u organizar). Precio cerrado de proyecto (cálculo interno: horas × 90-120€/h, nunca tarifa/hora visible al cliente). Garantía: facturación por hitos, sin contrato largo cerrado de entrada.
 
 ## 4. Frase de posicionamiento
 _(Módulo 4 — pendiente)_
