@@ -11,16 +11,21 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 | 3. Oferta | 🟢 Cerrado |
 | 4. Mensaje | 🟢 Cerrado |
 | 5. Audiencia | 🟢 Cerrado |
-| 6. Canal | 🟡 En curso |
+| 6. Canal | 🟢 Cerrado |
+
+## 🎉 Protocolo de 6 módulos completo (2026-07-11)
+
+A partir de aquí el trabajo es **ejecución**, no diagnóstico: conseguir el piloto, contactar prospectos, validar la automatización de contenido, construir la web, publicar desde septiembre. El canvas (`canvas/positioning-canvas.md`) tiene el resumen completo en una página.
 
 ## Preguntas abiertas activas (no cerradas)
 
-1. Conseguir un caso piloto real con una pyme, buscándolo activamente en la red y en contacto en frío a gestorías/asesorías/cámaras de comercio — Alberto no tiene contacto directo hoy, pero la vía es pedirlo, no fabricarlo. Ver regla en `CLAUDE.md`.
+1. Conseguir un caso piloto real con una pyme — vía red personal + contacto en frío (guiones en `03-gtm/modulo-6-canal.md`, registro en `seguimiento/prospectos.md`). Nunca fabricarlo, ver regla en `CLAUDE.md`.
 2. Explorar registro como "agente digitalizador" — aparcado 2-3 años, requiere 35-70k€ de facturación que hoy no existe.
-3. Generalizar el gancho de LinkedIn del caso de ahorro (sin cifra/empresa identificable) antes de publicarlo — tarea del Módulo 6 (contenido).
+3. Generalizar el gancho de LinkedIn del caso de ahorro (sin cifra/empresa identificable) antes de publicarlo.
 4. Activar la frase de posicionamiento como bio pública solo cuando exista al menos un cliente fundacional.
-5. Módulo 6 (Canal): guion de contacto en frío a gestorías/asesorías, estructura de la web, funnel completo, plan de 30 días de septiembre detallado.
-6. Confirmar cadencia y formato de la tarea recurrente de fuentes de inspiración (IA/datos) antes de activarla.
+5. Confirmar cadencia y formato de la tarea recurrente de fuentes de inspiración (IA/datos), y activarla — prevista para justo después de cerrar el módulo (validación en agosto).
+6. Construir la web, después de que la automatización de fuentes dé señal de qué contenido funciona.
+7. Redactar el copy exacto de cada post de septiembre (hoy solo están los temas, a nivel de esqueleto).
 
 ## Decisiones ya cerradas
 
@@ -35,6 +40,7 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - **Oferta (Módulo 3), cerrada**: dos escalones, "Radiografía de tus Datos" (1-2 semanas, fundacionales gratis/simbólico → 3-8k€ estándar, garantía "no se cobra si no hay recomendación clara") → "Implementación" (comprar/construir-automatizar/organizar, precio cerrado de proyecto calculado a 90-120€/h interno, nunca tarifa visible al cliente; facturación por hitos sin contrato largo). Alcance confirmado: incluye automatización de procesos/pipelines/tareas recurrentes, no solo analítica — ya estaba dentro del problema/solución cerrados, no es ampliación nueva.
 - **Mensaje (Módulo 4), cerrado**: frase de posicionamiento como guion de venta 1:1 (no bio pública hasta tener un cliente fundacional real — afirmar "ayudo a pymes" en presente hoy sería una afirmación no cierta). Narrativa de autoridad centrada en iniciativa propia (vio el hueco, construyó el caso, consiguió recursos) en vez de queja de recursos — evita sonar crítico con su empleador actual. Nombres cerrados: "Radiografía de tus Datos" e "Implementación".
 - **Audiencia (Módulo 5), cerrada**: ICP de pyme ~10-50 empleados, familiar/fundador al mando, con digitalización a medias, en crecimiento. Horizontal, sin obsesión de sector. Hallazgo clave: canal real no es LinkedIn ni boca a boca (red insuficiente de Alberto) sino contacto en frío a gestorías/asesorías/cámaras de comercio, localizables profesionalmente a diferencia de muchas pymes familiares. Categoría de mercado sin etiqueta oficial, descripción simple de boca a boca. Agente digitalizador confirmado inviable ahora (requisito real: 35-70k€ facturados). Marca: opera bajo nombre propio, sin marca aparte.
+- **Canal (Módulo 6), cerrado**: dos guiones de contacto en frío — intermediarios (framing de alianza entre profesionales, no "no busco venderte nada", que generaba rechazo) como canal principal, pyme directa por LinkedIn como secundario/oportunista usando el mecanismo de cliente fundacional. Funnel: prospección → conversación → Radiografía (siempre el punto de entrada de pago) → Implementación si aplica. Plan de contenido: arranque en septiembre 2026, cadencia martes-miércoles-jueves, arco editorial sep-dic (sep=autoridad pura, oct=diagnóstico sin vender, nov=casos reales si hay piloto, dic=posible bio pública). Secuencia de ejecución: cerrar protocolo → validar automatización de fuentes en agosto → construir web con material ya probado → lanzar en septiembre.
 
 ## Bitácora
 
@@ -91,3 +97,12 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - Horizonte del plan de contenido ampliado de 30 días a un arco editorial septiembre-diciembre (30 días sigue siendo el arranque detallado, dentro de un marco más largo).
 - Nueva petición: tarea recurrente para rastrear blogs/fuentes especializadas de IA/datos y traducirlas a lenguaje llano como semillas de contenido — pendiente de confirmar cadencia y formato de entrega antes de activarla.
 - Sesión corta, se retoma mañana: falta guion de contacto en frío, estructura de web, funnel completo, y plan detallado de los 30 días de septiembre.
+
+### 2026-07-11 — Cierre Módulo 6 (Canal) y protocolo completo
+- Alberto corrigió el Guion 1: "no busco venderte nada" generaba rechazo — reescrito con framing de alianza entre profesionales con criterio propio.
+- Añadido Guion 2 (pyme directa por LinkedIn, canal secundario), usando el mecanismo de cliente fundacional.
+- Creada `03-gtm/guia-busqueda-prospectos.md` (cómo encontrar gestorías y pymes que encajen en el ICP) y `seguimiento/prospectos.md` (registro de contactos, para no perder seguimiento).
+- Funnel de adquisición cerrado para las tres vías (intermediarios, contenido, pyme directa) — todas convergen en la Radiografía como punto de entrada de pago.
+- Plan de contenido de septiembre esbozado a nivel de temas (cadencia martes-miércoles-jueves) — el copy exacto se redacta más adelante.
+- Secuencia de ejecución acordada: cerrar protocolo → activar automatización de fuentes en agosto (validación, no uso inmediato) → construir web con material ya probado → lanzamiento en septiembre.
+- **Módulo 6 cerrado. Protocolo de 6 módulos completo.** Canvas (`canvas/positioning-canvas.md`) tiene el resumen entero en una página. A partir de ahora, ejecución: conseguir el piloto, activar la automatización de fuentes, construir la web, contactar prospectos.

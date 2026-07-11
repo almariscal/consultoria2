@@ -41,4 +41,15 @@ Frente a la inercia (la alternativa real dominante — caos disperso, no compete
 **Agente digitalizador (Kit Digital):** aparcado 2-3 años — requiere 70.000€ facturados en 2 años (o 35.000€ en 1 año), que Alberto no tiene todavía.
 
 ## 7. Canal, funnel y plan de contenido
-_(Módulo 6 — pendiente)_
+
+**Canal principal:** contacto en frío a gestorías/asesorías fiscales/cámaras de comercio (alianza entre profesionales, no venta directa) — guion y guía de búsqueda en `03-gtm/modulo-6-canal.md` y `03-gtm/guia-busqueda-prospectos.md`. Canal secundario: mensaje directo a pymes en LinkedIn, ofreciendo directamente la Radiografía fundacional.
+
+**Funnel:** prospección (gestor o pyme directa) → conversación breve → Radiografía de tus Datos (siempre el punto de entrada de pago) → si aplica, Implementación. En paralelo, LinkedIn + blog construyen autoridad sin vender directamente.
+
+**Contenido:** arranque de publicaciones en septiembre 2026 (coincide con la fase de visibilidad de la búsqueda de empleo de Alberto), cadencia martes-miércoles-jueves, arco editorial septiembre-diciembre (septiembre = autoridad pura, octubre = diagnóstico sin vender, noviembre = casos reales si hay piloto, diciembre = posible activación de bio pública). Plan detallado de septiembre en `03-gtm/modulo-6-canal.md`.
+
+**Secuencia de ejecución:** cerrar protocolo (hoy) → activar automatización de fuentes de contenido en agosto (validación) → construir web con material ya validado → lanzamiento en septiembre.
+
+---
+
+**Protocolo de 6 módulos completo (2026-07-11).** A partir de aquí, el trabajo es ejecución (conseguir el piloto, contactar prospectos, publicar), no diagnóstico — seguimiento en `seguimiento/registro-sesiones.md`.
