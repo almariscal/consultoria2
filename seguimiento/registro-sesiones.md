@@ -10,15 +10,16 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 | 2. Solución | 🟢 Cerrado |
 | 3. Oferta | 🟢 Cerrado |
 | 4. Mensaje | 🟢 Cerrado |
-| 5. Audiencia | 🟡 Próximo a abrir |
-| 6. Canal | ⚪ No iniciado |
+| 5. Audiencia | 🟢 Cerrado |
+| 6. Canal | 🟡 Próximo a abrir |
 
 ## Preguntas abiertas activas (no cerradas)
 
-1. Conseguir un caso piloto real con una pyme, buscándolo activamente en la red (excompañeros, amigos, la consultoría itinerante del compañero data scientist, asociaciones/cámaras de comercio) — Alberto no tiene contacto directo hoy, pero la vía es pedirlo, no fabricarlo. Ver regla en `CLAUDE.md`.
-2. Explorar registro como "agente digitalizador" (pago vía Kit Digital) — no bloqueante, más adelante.
+1. Conseguir un caso piloto real con una pyme, buscándolo activamente en la red y en contacto en frío a gestorías/asesorías/cámaras de comercio — Alberto no tiene contacto directo hoy, pero la vía es pedirlo, no fabricarlo. Ver regla en `CLAUDE.md`.
+2. Explorar registro como "agente digitalizador" — aparcado 2-3 años, requiere 35-70k€ de facturación que hoy no existe.
 3. Generalizar el gancho de LinkedIn del caso de ahorro (sin cifra/empresa identificable) antes de publicarlo — tarea del Módulo 6 (contenido).
 4. Activar la frase de posicionamiento como bio pública solo cuando exista al menos un cliente fundacional.
+5. Módulo 6 (Canal): guion de contacto en frío a gestorías/asesorías, estructura de la web, calendario de contenido espejo LinkedIn/blog.
 
 ## Decisiones ya cerradas
 
@@ -32,6 +33,7 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - **Regla no negociable (2026-07-10):** nunca se fabrican casos, cifras o testimonios falsos, aunque nadie los vaya a comprobar — riesgo legal (publicidad engañosa) y reputacional real, agravado por la búsqueda de empleo paralela de Alberto. Añadido a `CLAUDE.md`.
 - **Oferta (Módulo 3), cerrada**: dos escalones, "Radiografía de tus Datos" (1-2 semanas, fundacionales gratis/simbólico → 3-8k€ estándar, garantía "no se cobra si no hay recomendación clara") → "Implementación" (comprar/construir-automatizar/organizar, precio cerrado de proyecto calculado a 90-120€/h interno, nunca tarifa visible al cliente; facturación por hitos sin contrato largo). Alcance confirmado: incluye automatización de procesos/pipelines/tareas recurrentes, no solo analítica — ya estaba dentro del problema/solución cerrados, no es ampliación nueva.
 - **Mensaje (Módulo 4), cerrado**: frase de posicionamiento como guion de venta 1:1 (no bio pública hasta tener un cliente fundacional real — afirmar "ayudo a pymes" en presente hoy sería una afirmación no cierta). Narrativa de autoridad centrada en iniciativa propia (vio el hueco, construyó el caso, consiguió recursos) en vez de queja de recursos — evita sonar crítico con su empleador actual. Nombres cerrados: "Radiografía de tus Datos" e "Implementación".
+- **Audiencia (Módulo 5), cerrada**: ICP de pyme ~10-50 empleados, familiar/fundador al mando, con digitalización a medias, en crecimiento. Horizontal, sin obsesión de sector. Hallazgo clave: canal real no es LinkedIn ni boca a boca (red insuficiente de Alberto) sino contacto en frío a gestorías/asesorías/cámaras de comercio, localizables profesionalmente a diferencia de muchas pymes familiares. Categoría de mercado sin etiqueta oficial, descripción simple de boca a boca. Agente digitalizador confirmado inviable ahora (requisito real: 35-70k€ facturados). Marca: opera bajo nombre propio, sin marca aparte.
 
 ## Bitácora
 
@@ -74,3 +76,11 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - Nombre del Escalón 1 cerrado: "Radiografía de tus Datos" (sustituye "Diagnóstico de Datos" — no presupone que el cliente ya piense en términos de "datos").
 - Alberto expresó incomodidad con publicar la cifra exacta de ahorro (400k€) por posible lectura de compañeros — anotado para generalizar en el Módulo 6, no resuelto ahora.
 - **Módulo 4 cerrado.** Canvas actualizado con Mensaje completo. Próxima sesión: abrir Módulo 5 (Audiencia) — ICP accionable + categoría de mercado.
+
+### 2026-07-10 — Cierre Módulo 5 (Audiencia)
+- Comprobado con datos reales que el registro como agente digitalizador es inviable ahora (35-70k€ de facturación requerida) — confirma la intuición de Alberto, aparcado 2-3 años.
+- ICP cerrado: pyme ~10-50 empleados, familiar, digitalización a medias, en crecimiento, horizontal sin obsesión de sector.
+- Alberto corrigió el plan de canal: descarta boca a boca por red personal insuficiente, prefiere contacto en frío activo a gestorías/asesorías/cámaras de comercio — más tractable porque esos intermediarios sí son localizables profesionalmente. LinkedIn se mantiene como pilar de autoridad, no como canal de venta directa a este ICP.
+- Alberto propone web + blog espejo de LinkedIn para credibilidad y sensación de "empresa viva" — misma disciplina de evidencia que ya rige el contenido.
+- Decisión de marca: opera bajo su propio nombre, sin marca aparte — coherente con el formato de ejecución ya cerrado.
+- **Módulo 5 cerrado.** Canvas actualizado con Audiencia completa. Próxima sesión: abrir Módulo 6 (Canal) — guion de contacto en frío, estructura de web, calendario de contenido.

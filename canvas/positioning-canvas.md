@@ -1,4 +1,4 @@
-# Positioning Canvas — Alberto Mariscal / [nombre de la consultora — pendiente]
+# Positioning Canvas — Alberto Mariscal (opera bajo nombre propio, sin marca aparte)
 
 _Documento vivo. Se rellena módulo a módulo. No se rellena por adelantado — cada sección se completa solo cuando el módulo correspondiente cierra por escrito._
 
@@ -31,7 +31,14 @@ Frente a la inercia (la alternativa real dominante — caos disperso, no compete
 **Nombres de la oferta:** Escalón 1 "Radiografía de tus Datos", Escalón 2 "Implementación".
 
 ## 6. Cliente objetivo (ICP) y categoría de mercado
-_(Módulo 5 — pendiente)_
+
+**ICP:** pyme de ~10-50 empleados, familiar/fundador al mando (decide rápido, sin comité), con algún intento de digitalización desconectado (no 100% en papel), en fase de crecimiento donde el caos empieza a doler. Horizontal, cualquier sector excepto energía/utilities, ligera afinidad con negocios de operación comercial/ventas.
+
+**Dónde se encuentran:** no principalmente en LinkedIn ni por boca a boca (red personal de Alberto insuficiente) — vía intermediarios localizables profesionalmente: gestorías, asesorías fiscales, cámaras de comercio.
+
+**Categoría de mercado:** sin etiqueta oficial — descripción repetible de boca a boca: *"ayuda a pymes a organizar y aprovechar sus datos y automatizar lo que hacen a mano"*.
+
+**Agente digitalizador (Kit Digital):** aparcado 2-3 años — requiere 70.000€ facturados en 2 años (o 35.000€ en 1 año), que Alberto no tiene todavía.
 
 ## 7. Canal, funnel y plan de contenido
 _(Módulo 6 — pendiente)_
