@@ -68,29 +68,44 @@ No activada todavía — se confirma y se pone en marcha en la próxima sesión.
 
 Se descartó explícitamente la frase "no busco venderte nada" (defensiva, genera rechazo) en favor de un framing de alianza entre profesionales con criterio propio. La comisión por referido, si surge, se habla en la conversación de 15 minutos — no en el mensaje frío, para no volverlo transaccional.
 
-### Guion 2 — pyme directa por LinkedIn, canal secundario/oportunista
+### Guion 2 — pyme directa por LinkedIn, canal secundario/oportunista (revisado 2026-07-11)
 
 > Hola [nombre],
 >
-> Soy Alberto Mariscal, llevo años liderando funciones de datos en empresas grandes (Endesa, Iberdrola). Estoy empezando a aplicar lo mismo a pymes: mirar cómo se usan (o no) los datos y procesos del día a día, y decir claramente si conviene comprar algo que ya existe, automatizar, o simplemente poner orden.
+> Soy Alberto Mariscal — vengo de liderar funciones de datos en empresas grandes (Endesa, Iberdrola). Ahora pongo ese mismo criterio al servicio de pymes: te ayudo a ver dónde estás perdiendo tiempo o dinero por cómo usas (o no usas) tus datos y procesos, y decidimos juntos si la solución es comprar algo que ya existe, automatizarlo, o simplemente poner orden.
 >
-> Estoy eligiendo un par de empresas para hacer una primera "Radiografía" gratuita — un diagnóstico corto, sin compromiso — a cambio de poder contar el caso después. Si te interesa ver qué encontraría en [empresa], te lo cuento en 15 minutos, sin coste.
+> Me gustaría conocerte y ver cómo puedo ayudarte a mejorar tus procesos, empezando por un diagnóstico que nos diga exactamente por dónde tirar. ¿Tienes 15 minutos esta semana o la que viene?
 
-Usa directamente el mecanismo de cliente fundacional del Módulo 3. Es secundario porque el Módulo 5 ya estableció que la mayoría del ICP no está en LinkedIn — se usa quirúrgicamente, no como volumen principal.
+Dos ajustes sobre la versión anterior, pedidos por Alberto:
+- **Se quita la mecánica de "estoy eligiendo un par de empresas gratis"** del mensaje frío — restaba valor. Igual que la comisión del Guion 1, el hecho de que sea un cliente fundacional (gratis/simbólico a cambio de caso) se habla en la conversación, no en el primer contacto.
+- **Se mantiene "ahora pongo ese mismo criterio al servicio de pymes"** en vez de "ahora hago lo mismo con pymes" — Alberto pidió sonar más seguro y menos titubeante, lo cual es válido, pero "hago lo mismo con pymes" habría afirmado una práctica ya establecida que hoy no existe (cero clientes) — exactamente lo que Alberto mismo señaló como línea a no cruzar en el Módulo 4. "Pongo mi criterio a tu servicio" suena igual de seguro sin esa afirmación no cierta.
+
+Usa el mismo criterio de fondo del Módulo 3, sin mencionar todavía si es fundacional o de pago. Es secundario porque el Módulo 5 ya estableció que la mayoría del ICP no está en LinkedIn — se usa quirúrgicamente, no como volumen principal.
 
 **Guía de búsqueda de a quién escribir:** `03-gtm/guia-busqueda-prospectos.md`. **Registro de contactos:** `seguimiento/prospectos.md`.
 
 ## Funnel de adquisición (cerrado)
 
+Tres caminos, que convergen todos en el mismo punto de entrada: la Radiografía. Nunca un proyecto grande de entrada — coherente con el Módulo 3.
+
 **Vía intermediarios (canal principal):**
-Prospección con Guion 1 → conversación de 15 min → el gestor entiende el criterio de Alberto → cuando ve un cliente que encaja, lo deriva → contacto directo con la pyme → "Radiografía de tus Datos" → si hay recomendación de proyecto, Implementación.
+1. Alberto escribe al gestor/asesor con el Guion 1.
+2. Conversación de 15 minutos — el gestor entiende el criterio de Alberto (no un pitch de venta, una alianza).
+3. Cuando el gestor ve un cliente que encaja, lo deriva.
+4. Alberto contacta directamente a esa pyme.
+5. Se ofrece la Radiografía de tus Datos.
+6. Si hay recomendación de proyecto, pasa a Implementación.
 
-**Vía contenido (LinkedIn + blog, autoridad en paralelo):**
-Desconocido ve un post (caso/evidencia, nunca venta) → sigue el perfil → interactúa/comenta con el tiempo → busca más (perfil o web) → contacta directamente o llega por una alianza que ya lo tenía en mente → mismo punto de entrada: "Radiografía de tus Datos".
+**Vía contenido (LinkedIn + blog, autoridad en paralelo, no venta directa):**
+1. Un desconocido ve un post (caso/evidencia, nunca venta).
+2. Sigue el perfil.
+3. Con el tiempo, y viendo más contenido, empieza a confiar.
+4. Escribe por DM, o visita la web, o llega igualmente por una alianza que ya lo tenía en mente.
+5. Se ofrece la Radiografía de tus Datos — mismo punto de entrada que las otras vías.
 
-**Vía pyme directa (secundaria):** Guion 2 → respuesta → Radiografía gratuita/fundacional directamente, sin paso intermedio.
-
-En los tres casos, el punto de entrada de pago es siempre el mismo: la Radiografía, nunca un proyecto grande de entrada — coherente con el Módulo 3.
+**Vía pyme directa (secundaria, quirúrgica, no volumen principal):**
+1. Alberto escribe con el Guion 2.
+2. Si responde, se agenda directamente la Radiografía.
 
 ## Plan de contenido — septiembre (30 días, arranque concreto del arco sep-dic)
 
