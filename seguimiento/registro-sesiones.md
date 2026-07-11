@@ -15,7 +15,7 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 
 ## 🎉 Protocolo de 6 módulos completo (2026-07-11)
 
-A partir de aquí el trabajo es **ejecución**, no diagnóstico: conseguir el piloto, contactar prospectos, validar la automatización de contenido, construir la web, publicar desde septiembre. El canvas (`canvas/positioning-canvas.md`) tiene el resumen completo en una página.
+A partir de aquí el trabajo es **ejecución**, no diagnóstico: conseguir el piloto, contactar prospectos, validar la automatización de contenido, construir la web, publicar desde septiembre. El canvas (`canvas/positioning-canvas.md`) tiene el resumen completo en una página. Hoja de ruta mes a mes en `seguimiento/roadmap-jul-dic-2026.md`. Seguimiento de contactos reales en `seguimiento/prospectos.md`, aprendizajes en `seguimiento/aprendizajes-venta.md`.
 
 ## Preguntas abiertas activas (no cerradas)
 
@@ -106,3 +106,10 @@ A partir de aquí el trabajo es **ejecución**, no diagnóstico: conseguir el pi
 - Plan de contenido de septiembre esbozado a nivel de temas (cadencia martes-miércoles-jueves) — el copy exacto se redacta más adelante.
 - Secuencia de ejecución acordada: cerrar protocolo → activar automatización de fuentes en agosto (validación, no uso inmediato) → construir web con material ya probado → lanzamiento en septiembre.
 - **Módulo 6 cerrado. Protocolo de 6 módulos completo.** Canvas (`canvas/positioning-canvas.md`) tiene el resumen entero en una página. A partir de ahora, ejecución: conseguir el piloto, activar la automatización de fuentes, construir la web, contactar prospectos.
+
+### 2026-07-11 — Pulido de guiones + roadmap de ejecución
+- Revisión lingüística de los dos guiones de contacto en frío: "Iberdrola" → "niba (Grupo Iberdrola)" en ambos; Guion 2 pasa de tú a vosotros (más natural al hablar de la empresa del interlocutor, y suaviza "estás perdiendo tiempo/dinero" a "se os está escapando"); Guion 1 se mantiene en tú (alianza profesional, no señala ningún problema); ambos con "tendrías/tendríais" en vez de presente directo, más cortés en un primer contacto.
+- Creado `seguimiento/roadmap-jul-dic-2026.md`: hitos mes a mes de julio a diciembre 2026, con el punto de fricción de diciembre (activación de bio pública vs. inicio de entrevistas de trabajo) marcado para revisar más adelante, no resuelto ahora.
+- Extendido `seguimiento/prospectos.md` con columna de resultado y explicado el mecanismo: Alberto reporta cada contacto real en la conversación, Claude lo registra.
+- Creado `seguimiento/aprendizajes-venta.md` para sintetizar, cuando haya suficiente patrón de respuestas, qué enfoques funcionan de verdad — para ajustar los guiones con datos reales, no solo intuición.
+- Regla de seguimiento añadida a `CLAUDE.md` como instrucción permanente, no solo de esta sesión.

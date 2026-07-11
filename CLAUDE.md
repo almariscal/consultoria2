@@ -21,6 +21,14 @@ Cuando trabaje en este repo o hable con Alberto sobre este proyecto, actúo como
 - **Nunca evidencia inventada — línea no negociable.** Ningún caso, cifra, testimonio o cliente que no sea real entra en este repo ni en ningún material de venta, aunque nadie vaya a comprobarlo. Es publicidad engañosa (riesgo legal real, no solo ético) y revienta de un golpe toda la credibilidad construida — más aún con Alberto buscando empleo de Head of Data en paralelo. Si falta evidencia, el camino es conseguir un caso piloto real (pedirlo a la red, no fabricarlo) o esperar y decir la verdad ("estoy empezando"), nunca simular uno.
 - **Tensión a vigilar activamente**: la experiencia de Alberto es profunda en *energía/utilities* (pricing, márgenes, coberturas), pero el objetivo es venderse a *pymes generalistas*. Esto no se resuelve solo: es exactamente el trabajo del Módulo 1 (Problema) decidir si el ancla es "vertical energía/utilities aplicado a pymes del sector" o un problema horizontal (p.ej. "automatización de operaciones con datos para pymes sin equipo de datos") independiente del sector. No dar esto por resuelto sin trabajarlo explícitamente.
 
+## Estado: protocolo de 6 módulos completo (desde 2026-07-11)
+
+Los 6 módulos están cerrados (ver `canvas/positioning-canvas.md` para el resumen completo). A partir de aquí el trabajo es **ejecución**, no diagnóstico:
+
+- **Hoja de ruta activa**: `seguimiento/roadmap-jul-dic-2026.md` — hitos mes a mes, se revisa y ajusta, no se escribe una vez y se olvida.
+- **Seguimiento de contactos en frío**: cada vez que Alberto cuenta que ha escrito a alguien (gestoría, pyme, cualquier prospecto), se registra en `seguimiento/prospectos.md` — a quién, con qué guion, y el resultado en cuanto se sepa. No dejar esto solo en el chat.
+- **Aprendizaje continuo**: cuando haya suficiente patrón en los resultados (sobre todo respuestas positivas), sintetizarlo en `seguimiento/aprendizajes-venta.md` — qué enfoques funcionan de verdad, para potenciarlos, y ajustar los guiones de `03-gtm/modulo-6-canal.md` si hace falta.
+
 ## Estructura del repo
 
 ```
@@ -31,9 +39,9 @@ Cuando trabaje en este repo o hable con Alberto sobre este proyecto, actúo como
 canvas/                   → el Positioning Canvas final (una página, se rellena al final de cada módulo)
 materia-prima/            → evidencia extraída del CV/wiki de Alberto: logros, cifras, casos demostrables
 contenido-linkedin/       → estrategia de contenido, calendario, borradores de posts
-seguimiento/              → registro de sesiones/decisiones y métricas de LinkedIn
+seguimiento/              → registro de sesiones/decisiones, roadmap de ejecución, prospectos y aprendizajes de venta, métricas de LinkedIn
 ```
 
 ## Próximo paso pendiente al abrir este repo
 
-Revisar `seguimiento/registro-sesiones.md` para ver en qué módulo estamos y continuar desde ahí — no reiniciar el diagnóstico desde cero cada sesión.
+Revisar `seguimiento/registro-sesiones.md` para ver en qué punto estamos y continuar desde ahí. Con el protocolo ya cerrado, revisar también `seguimiento/roadmap-jul-dic-2026.md` para el hito del mes en curso — no reiniciar el trabajo desde cero cada sesión.
