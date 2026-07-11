@@ -60,25 +60,28 @@ No activada todavía — se confirma y se pone en marcha en la próxima sesión.
 >
 > Hola [nombre],
 >
-> Soy Alberto Mariscal — vengo de liderar funciones de datos en empresas grandes (Endesa, Iberdrola) y ahora ayudo a pymes a poner orden en cómo usan su información: qué comprar, qué automatizar, qué simplemente organizar.
+> Soy Alberto Mariscal — he liderado funciones de datos en empresas grandes (Endesa, niba — Grupo Iberdrola) y ahora ayudo a pymes a poner orden en cómo usan su información: qué comprar, qué automatizar, qué simplemente organizar.
 >
 > Te escribo porque quiero construir alianzas con profesionales que, como tú, tenéis relación directa y de confianza con muchas pymes, y estáis en una posición privilegiada para detectar cuándo un cliente tiene este tipo de problema, aunque él mismo todavía no lo sepa.
 >
-> Me gustaría contarte en 15 minutos a qué me dedico exactamente, para que tengas criterio propio de cuándo puede encajarte con algún cliente — y ver si tiene sentido colaborar. ¿Tienes un hueco esta semana o la que viene?
+> Me gustaría contarte en 15 minutos a qué me dedico exactamente, para que tengas criterio propio de cuándo puede encajarte con algún cliente — y ver si tiene sentido colaborar. ¿Tendrías un hueco esta semana o la que viene?
 
-Se descartó explícitamente la frase "no busco venderte nada" (defensiva, genera rechazo) en favor de un framing de alianza entre profesionales con criterio propio. La comisión por referido, si surge, se habla en la conversación de 15 minutos — no en el mensaje frío, para no volverlo transaccional.
+Se descartó explícitamente la frase "no busco venderte nada" (defensiva, genera rechazo) en favor de un framing de alianza entre profesionales con criterio propio. La comisión por referido, si surge, se habla en la conversación de 15 minutos — no en el mensaje frío, para no volverlo transaccional. Se mantiene el registro "tú" (alianza profesional, no señala ningún problema del interlocutor) — a diferencia del Guion 2, corregido a "vosotros" tras el ajuste de tono de abajo. "Iberdrola" corregido a "niba (Grupo Iberdrola)" — es la empresa real donde trabaja Alberto, Iberdrola es el grupo.
 
 ### Guion 2 — pyme directa por LinkedIn, canal secundario/oportunista (revisado 2026-07-11)
 
 > Hola [nombre],
 >
-> Soy Alberto Mariscal — vengo de liderar funciones de datos en empresas grandes (Endesa, Iberdrola). Ahora pongo ese mismo criterio al servicio de pymes: te ayudo a ver dónde estás perdiendo tiempo o dinero por cómo usas (o no usas) tus datos y procesos, y decidimos juntos si la solución es comprar algo que ya existe, automatizarlo, o simplemente poner orden.
+> Soy Alberto Mariscal — he liderado funciones de datos en empresas grandes (Endesa, niba — Grupo Iberdrola). Ahora pongo ese mismo criterio al servicio de pymes: os ayudo a ver si se os está escapando tiempo o dinero por cómo usáis (o no usáis) vuestros datos y procesos, y decidimos juntos si la solución es comprar algo que ya existe, automatizarlo, o simplemente poner orden.
 >
-> Me gustaría conocerte y ver cómo puedo ayudarte a mejorar tus procesos, empezando por un diagnóstico que nos diga exactamente por dónde tirar. ¿Tienes 15 minutos esta semana o la que viene?
+> Me gustaría conoceros y ver cómo puedo ayudaros a mejorar vuestros procesos, empezando por un diagnóstico que nos diga con claridad cuáles son los siguientes pasos. ¿Tendríais 15 minutos esta semana o la que viene?
 
-Dos ajustes sobre la versión anterior, pedidos por Alberto:
+Ajustes sobre la versión anterior, pedidos por Alberto:
 - **Se quita la mecánica de "estoy eligiendo un par de empresas gratis"** del mensaje frío — restaba valor. Igual que la comisión del Guion 1, el hecho de que sea un cliente fundacional (gratis/simbólico a cambio de caso) se habla en la conversación, no en el primer contacto.
 - **Se mantiene "ahora pongo ese mismo criterio al servicio de pymes"** en vez de "ahora hago lo mismo con pymes" — Alberto pidió sonar más seguro y menos titubeante, lo cual es válido, pero "hago lo mismo con pymes" habría afirmado una práctica ya establecida que hoy no existe (cero clientes) — exactamente lo que Alberto mismo señaló como línea a no cruzar en el Módulo 4. "Pongo mi criterio a tu servicio" suena igual de seguro sin esa afirmación no cierta.
+- **"Por dónde tirar" → "cuáles son los siguientes pasos"** — el original sonaba coloquial/informal.
+- **"Tú/te" → "vosotros/os"**: aunque el mensaje se dirige a una persona con nombre, el contenido habla de su empresa (sus procesos, sus datos), y en español de negocios es natural tratar a esa persona como representante de "vosotros" (él y su empresa). Además, este cambio suaviza el tono: "os ayudo a ver si se os está escapando..." es menos directo/acusador que "te ayudo a ver dónde estás perdiendo...", que sonaba a señalar un fallo personal a un desconocido.
+- **"Iberdrola" → "niba (Grupo Iberdrola)"**, igual que en el Guion 1.
 
 Usa el mismo criterio de fondo del Módulo 3, sin mencionar todavía si es fundacional o de pago. Es secundario porque el Módulo 5 ya estableció que la mayoría del ICP no está en LinkedIn — se usa quirúrgicamente, no como volumen principal.
 
