@@ -11,7 +11,7 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 | 3. Oferta | 🟢 Cerrado |
 | 4. Mensaje | 🟢 Cerrado |
 | 5. Audiencia | 🟢 Cerrado |
-| 6. Canal | 🟡 Próximo a abrir |
+| 6. Canal | 🟡 En curso |
 
 ## Preguntas abiertas activas (no cerradas)
 
@@ -19,7 +19,8 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 2. Explorar registro como "agente digitalizador" — aparcado 2-3 años, requiere 35-70k€ de facturación que hoy no existe.
 3. Generalizar el gancho de LinkedIn del caso de ahorro (sin cifra/empresa identificable) antes de publicarlo — tarea del Módulo 6 (contenido).
 4. Activar la frase de posicionamiento como bio pública solo cuando exista al menos un cliente fundacional.
-5. Módulo 6 (Canal): guion de contacto en frío a gestorías/asesorías, estructura de la web, calendario de contenido espejo LinkedIn/blog.
+5. Módulo 6 (Canal): guion de contacto en frío a gestorías/asesorías, estructura de la web, funnel completo, plan de 30 días de septiembre detallado.
+6. Confirmar cadencia y formato de la tarea recurrente de fuentes de inspiración (IA/datos) antes de activarla.
 
 ## Decisiones ya cerradas
 
@@ -84,3 +85,9 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - Alberto propone web + blog espejo de LinkedIn para credibilidad y sensación de "empresa viva" — misma disciplina de evidencia que ya rige el contenido.
 - Decisión de marca: opera bajo su propio nombre, sin marca aparte — coherente con el formato de ejecución ya cerrado.
 - **Módulo 5 cerrado.** Canvas actualizado con Audiencia completa. Próxima sesión: abrir Módulo 6 (Canal) — guion de contacto en frío, estructura de web, calendario de contenido.
+
+### 2026-07-11 — Módulo 6 (Canal) en curso, sesión corta de planificación
+- Fecha de arranque de publicaciones confirmada: septiembre 2026 — coincide con la fase "Visibilidad" de la propia hoja de ruta de búsqueda de empleo de Alberto y con su baja de paternidad prevista en agosto.
+- Horizonte del plan de contenido ampliado de 30 días a un arco editorial septiembre-diciembre (30 días sigue siendo el arranque detallado, dentro de un marco más largo).
+- Nueva petición: tarea recurrente para rastrear blogs/fuentes especializadas de IA/datos y traducirlas a lenguaje llano como semillas de contenido — pendiente de confirmar cadencia y formato de entrega antes de activarla.
+- Sesión corta, se retoma mañana: falta guion de contacto en frío, estructura de web, funnel completo, y plan detallado de los 30 días de septiembre.
