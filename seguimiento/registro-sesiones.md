@@ -9,15 +9,16 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 | 1. Problema | 🟢 Cerrado |
 | 2. Solución | 🟢 Cerrado |
 | 3. Oferta | 🟢 Cerrado |
-| 4. Mensaje | 🟡 Próximo a abrir |
-| 5. Audiencia | ⚪ No iniciado |
+| 4. Mensaje | 🟢 Cerrado |
+| 5. Audiencia | 🟡 Próximo a abrir |
 | 6. Canal | ⚪ No iniciado |
 
 ## Preguntas abiertas activas (no cerradas)
 
 1. Conseguir un caso piloto real con una pyme, buscándolo activamente en la red (excompañeros, amigos, la consultoría itinerante del compañero data scientist, asociaciones/cámaras de comercio) — Alberto no tiene contacto directo hoy, pero la vía es pedirlo, no fabricarlo. Ver regla en `CLAUDE.md`.
-2. Pulir los nombres de trabajo de cada escalón ("Diagnóstico de Datos" / "Implementación") — tarea del Módulo 4.
-3. Explorar registro como "agente digitalizador" (pago vía Kit Digital) — no bloqueante, más adelante.
+2. Explorar registro como "agente digitalizador" (pago vía Kit Digital) — no bloqueante, más adelante.
+3. Generalizar el gancho de LinkedIn del caso de ahorro (sin cifra/empresa identificable) antes de publicarlo — tarea del Módulo 6 (contenido).
+4. Activar la frase de posicionamiento como bio pública solo cuando exista al menos un cliente fundacional.
 
 ## Decisiones ya cerradas
 
@@ -29,7 +30,8 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - **Estructura de oferta (Módulo 3):** dos escalones — Diagnóstico (entrada, bajo riesgo) → Implementación (proyecto real por horas).
 - **Pricing del Diagnóstico (Módulo 3):** 1-2 clientes fundacionales gratis/precio simbólico a cambio de caso documentado + testimonio real, luego 3.000-8.000€ estándar — rango validado con el programa público Kit Digital (categoría BI y Analítica, subvenciona ~2.000-9.000€ según tamaño de pyme).
 - **Regla no negociable (2026-07-10):** nunca se fabrican casos, cifras o testimonios falsos, aunque nadie los vaya a comprobar — riesgo legal (publicidad engañosa) y reputacional real, agravado por la búsqueda de empleo paralela de Alberto. Añadido a `CLAUDE.md`.
-- **Oferta (Módulo 3), cerrada**: dos escalones. "Diagnóstico de Datos" (1-2 semanas, fundacionales gratis/simbólico → 3-8k€ estándar, garantía "no se cobra si no hay recomendación clara") → "Implementación" (comprar/construir-automatizar/organizar, precio cerrado de proyecto calculado a 90-120€/h interno, nunca tarifa visible al cliente; facturación por hitos sin contrato largo). Alcance confirmado: incluye automatización de procesos/pipelines/tareas recurrentes, no solo analítica — ya estaba dentro del problema/solución cerrados, no es ampliación nueva.
+- **Oferta (Módulo 3), cerrada**: dos escalones, "Radiografía de tus Datos" (1-2 semanas, fundacionales gratis/simbólico → 3-8k€ estándar, garantía "no se cobra si no hay recomendación clara") → "Implementación" (comprar/construir-automatizar/organizar, precio cerrado de proyecto calculado a 90-120€/h interno, nunca tarifa visible al cliente; facturación por hitos sin contrato largo). Alcance confirmado: incluye automatización de procesos/pipelines/tareas recurrentes, no solo analítica — ya estaba dentro del problema/solución cerrados, no es ampliación nueva.
+- **Mensaje (Módulo 4), cerrado**: frase de posicionamiento como guion de venta 1:1 (no bio pública hasta tener un cliente fundacional real — afirmar "ayudo a pymes" en presente hoy sería una afirmación no cierta). Narrativa de autoridad centrada en iniciativa propia (vio el hueco, construyó el caso, consiguió recursos) en vez de queja de recursos — evita sonar crítico con su empleador actual. Nombres cerrados: "Radiografía de tus Datos" e "Implementación".
 
 ## Bitácora
 
@@ -64,3 +66,11 @@ Estado vivo del proceso. Se actualiza cada vez que trabajamos, aunque sea de for
 - Pendiente para cerrar Módulo 3: nombres de cada escalón, entregables/duración, precio de Implementación, garantía.
 - Cerrada la tarifa interna (90-120€/h, tras señalar que 55€/h infravaloraba el perfil) y resuelta la inconsistencia con el Módulo 2: la Implementación se presenta al cliente como precio cerrado de proyecto, nunca como tarifa/hora. Confirmado que el alcance ya incluía automatización de procesos/pipelines/tareas recurrentes.
 - **Módulo 3 cerrado.** Canvas actualizado con la Oferta completa. Próxima sesión: abrir Módulo 4 (Mensaje) — frase de posicionamiento + narrativa de autoridad, recogiendo los pendientes ya anotados (no usar "reporté a C-level", framing de "acceso a conocimiento", vigilar exceso de detalle técnico, pulir nombres de los escalones).
+
+### 2026-07-10 — Cierre Módulo 4 (Mensaje)
+- Alberto compartió su LinkedIn actual (100% orientado a búsqueda de Head of Data en energía, Open to Work en modo solo-reclutadores) — confirma que hoy no hay conflicto con la consultoría porque ahí no aparece nada de eso todavía.
+- Alberto señaló que "ayudo a pymes" en presente sería una afirmación no cierta (cero clientes todavía) — mismo principio que la regla de no inventar evidencia, aplicado correctamente por iniciativa propia. Resuelto: la frase de posicionamiento es guion de venta 1:1, no bio pública, hasta tener un cliente fundacional.
+- Alberto señaló que "sin el equipo ni los recursos que ese trabajo debería tener" en la narrativa sonaba a crítica de su empresa actual — reescrita para centrarse en iniciativa propia (vio el hueco, construyó el caso, consiguió recursos), más fiel a su trayectoria real y sin riesgo.
+- Nombre del Escalón 1 cerrado: "Radiografía de tus Datos" (sustituye "Diagnóstico de Datos" — no presupone que el cliente ya piense en términos de "datos").
+- Alberto expresó incomodidad con publicar la cifra exacta de ahorro (400k€) por posible lectura de compañeros — anotado para generalizar en el Módulo 6, no resuelto ahora.
+- **Módulo 4 cerrado.** Canvas actualizado con Mensaje completo. Próxima sesión: abrir Módulo 5 (Audiencia) — ICP accionable + categoría de mercado.
