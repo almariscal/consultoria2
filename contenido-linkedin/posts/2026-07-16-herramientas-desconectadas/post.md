@@ -1,4 +1,4 @@
-# Post — No es que falte gente, es que nadie ha conectado las piezas
+# Post — Tu analítica no crece añadiendo gente, crece conectando los datos que ya tienes
 
 **Estado:** Listo para publicar
 **Fecha prevista:** jueves 2026-07-16
@@ -7,13 +7,13 @@
 
 ---
 
-Cuando una pyme me dice "necesitamos contratar a alguien para esto", casi siempre reviso antes si el problema es realmente de personas.
+Cuando una pyme quiere mejorar su capacidad de análisis, la primera idea suele ser contratar a alguien que se dedique a ello.
 
-La mayoría de las veces no lo es. El problema es que cada herramienta que usan —el CRM, la hoja de cálculo de ventas, el programa de contabilidad— vive en su propio mundo, sin hablarse entre ellas. Así que alguien tiene que pasar horas copiando datos de un sitio a otro a mano, cada semana, para que el resto de la empresa pueda tomar decisiones.
+Pero la mayoría de las veces el problema no es de personas: es que cada área usa su propia herramienta —CRM, hojas de cálculo, contabilidad— sin que se hablen entre sí. Así que cualquier análisis serio empieza igual: juntar datos a mano, herramienta a herramienta, antes de poder sacar ninguna conclusión.
 
-Eso no se arregla con una persona más. Se arregla conectando lo que ya tienes.
+Eso no se arregla con una persona más analizando a mano. Se arregla conectando lo que esas herramientas ya generan, para que cualquiera pueda ver el conjunto sin tener que montarlo cada vez.
 
-Antes de contratar, vale la pena preguntarse: ¿el trabajo que quiero cubrir existe porque falta gente, o porque nadie ha conectado las piezas?
+La pregunta antes de ampliar el equipo: ¿falta gente que analice, o falta conectar lo que ya tienes para poder analizarlo?
 
 ---
 
