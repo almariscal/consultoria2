@@ -9,6 +9,7 @@ Dos tablas: **Backlog** (borradores listos o en curso, sin publicar todavía) e 
 | Estado | Título/Tema | Carpeta | Fecha prevista | Notas |
 |---|---|---|---|---|
 | Listo | ¿Qué es un datalake? | `posts/2026-07-14-datalake/` | 2026-07-14 (mar) | Primera ejecución de prueba, publicado antes de septiembre por buen resultado en el borrador. Incluye `frase.png` y `diagrama.png` |
+| Listo | No es que falte gente, es que nadie ha conectado las piezas | `posts/2026-07-16-herramientas-desconectadas/` | 2026-07-16 (jue) | Semana de prueba martes-jueves (sin miércoles); la semana que viene se decide con datos reales si se añaden más días |
 | Idea sin desarrollar | Herramientas gratis/baratas de IA para automatizar tareas en una pyme (n8n, Zapier free, Claude/ChatGPT, Canva IA) | — | — | Salido de una búsqueda real de prueba (2026-07-12) — pendiente de convertir en post |
 
 ## Inventario (publicado)
