@@ -40,6 +40,11 @@ Colores que transmiten confianza y tecnología, sin caer en lo genérico-corpora
 1. **Cita/idea fuerte** — fondo oscuro, una frase corta con una palabra clave resaltada en color de acento. Para conceptos o reflexiones.
 2. **Concepto/comparación** — fondo claro, título + subtítulo + visual simple (antes/después, dos columnas). Para explicar algo con claridad.
 3. **Dato/cifra destacada** (a usar cuando haya una cifra real que mostrar) — número grande como protagonista, contexto breve alrededor.
+4. **Diagrama de proceso/flujo** — vía Mermaid (flowchart, sequence), útil para contenido de automatización (mostrar un pipeline, un antes/después de un proceso con pasos). Se aplica la misma paleta y tipografía que el resto — no el estilo por defecto de Mermaid.
+
+## Motor de generación (decidido 2026-07-12)
+
+**HTML/CSS renderizado con Chromium headless (Playwright), capturado a PNG.** Es gratuito y ya integrado en el flujo de trabajo. Se probó generación vía API de Google (Nano Banana / Nano Banana Pro / Nano Banana 2 / Imagen 4) y **se descartó**: todos esos modelos tienen cuota gratuita de 0 peticiones — requieren facturación activada en Google Cloud, con coste real por imagen. Mermaid se integra con el mismo mecanismo (se carga la librería vía CDN dentro del HTML y se captura igual), así que no hace falta una herramienta nueva.
 
 ## Qué evitar (para no parecer genérico o "hecho con IA sin criterio")
 
