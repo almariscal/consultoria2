@@ -3,7 +3,7 @@
 **Estado:** Listo para publicar
 **Fecha prevista:** martes 2026-07-14
 **Línea de contenido:** Concepto explicado en llano (arranque del plan de septiembre, publicado antes por buen resultado en la práctica)
-**Imágenes:** v2 generadas siguiendo `contenido-linkedin/guia-estilo-visual.md` (cita / concepto-comparación), enviadas a Alberto — elige o combina, gestión suya. v1 descartada por calidad/diseño básico y por etiquetar prematuramente "para pymes" en la imagen.
+**Imágenes:** `frase.png` (tarjeta-cita, la elegida por Alberto para acompañar el texto) y `diagrama.png` (red de conexión convergiendo, versión mejorada tras feedback) — ambas en esta misma carpeta, siguiendo `contenido-linkedin/guia-estilo-visual.md`.
 
 ---
 

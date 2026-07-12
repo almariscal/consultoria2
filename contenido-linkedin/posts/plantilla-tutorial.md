@@ -21,4 +21,4 @@ Explicación breve, en lenguaje llano.
 
 ---
 
-_(Cada tutorial real se guarda como archivo aparte en esta carpeta, p.ej. `2026-09-tutorial-nombre.md`, y se referencia desde `contenido-linkedin/calendario.md` cuando se publique.)_
+_(Cada tutorial real se guarda en su propia carpeta, `posts/YYYY-MM-DD-tema/`, con el texto en `post.md` y las capturas/imágenes dentro de esa misma carpeta — misma convención que el resto de posts. Se referencia desde `contenido-linkedin/calendario.md` cuando se publique.)_
