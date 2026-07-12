@@ -27,6 +27,10 @@ Por tanto: **un único perfil de LinkedIn**, con esta regla de contenido:
 
 Publicación: martes, miércoles y jueves, a partir de septiembre 2026 (Módulo 6, `03-gtm/modulo-6-canal.md`).
 
+**Hora recomendada: 8:00-9:00 (hora de Madrid).** Es cuando más se revisa LinkedIn antes de empezar el día — válido tanto para dueños de pyme como para reclutadores (la otra audiencia del mismo perfil). Es una recomendación estándar, no basada en datos propios todavía — se ajusta en cuanto haya unas semanas de métricas reales de Alberto.
+
+**Semana de prueba (14-18 julio 2026):** solo martes y jueves, sin miércoles, para tener una primera muestra de datos antes de decidir si se amplía a los 3 días — ver resultados en `contenido-linkedin/calendario.md` (Inventario) y decisión la semana siguiente.
+
 ## Fuente de material: búsqueda automática diaria (activa desde 2026-07-12)
 
 Tarea programada (Routine) que corre todos los días a las 7:00 (hora de Madrid), en una sesión nueva cada vez: busca en blogs especializados, foros, X y medios de actualidad (español e inglés) 3-5 novedades de IA/datos, las traduce a lenguaje llano pensado para dueños de pyme, y las añade a `contenido-linkedin/fuentes/YYYY-MM.md`.
