@@ -25,4 +25,12 @@ Por tanto: **un único perfil de LinkedIn**, con esta regla de contenido:
 
 ## Cadencia
 
-Pendiente de fijar — no fijar frecuencia hasta resolver el punto del perfil único vs. separado.
+Publicación: martes, miércoles y jueves, a partir de septiembre 2026 (Módulo 6, `03-gtm/modulo-6-canal.md`).
+
+## Fuente de material: búsqueda automática diaria (activa desde 2026-07-12)
+
+Tarea programada (Routine) que corre todos los días a las 7:00 (hora de Madrid), en una sesión nueva cada vez: busca en blogs especializados, foros, X y medios de actualidad (español e inglés) 3-5 novedades de IA/datos, las traduce a lenguaje llano pensado para dueños de pyme, y las añade a `contenido-linkedin/fuentes/YYYY-MM.md`.
+
+**Por qué está separado de este documento**: es material bruto de trabajo, no una decisión de estrategia — así no se mezcla con la documentación pensada (ver `contenido-linkedin/fuentes/README.md`). Cuando algo de ahí se convierte en un post real, se referencia desde `contenido-linkedin/calendario.md`.
+
+Activada nada más cerrar el Módulo 6, para tener semanas de validación (julio-agosto) antes de depender de ella en el lanzamiento de septiembre — no para usar el material ya, sino para comprobar que lo que genera es realmente bueno.

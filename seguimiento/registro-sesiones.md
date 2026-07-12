@@ -113,3 +113,9 @@ A partir de aquí el trabajo es **ejecución**, no diagnóstico: conseguir el pi
 - Extendido `seguimiento/prospectos.md` con columna de resultado y explicado el mecanismo: Alberto reporta cada contacto real en la conversación, Claude lo registra.
 - Creado `seguimiento/aprendizajes-venta.md` para sintetizar, cuando haya suficiente patrón de respuestas, qué enfoques funcionan de verdad — para ajustar los guiones con datos reales, no solo intuición.
 - Regla de seguimiento añadida a `CLAUDE.md` como instrucción permanente, no solo de esta sesión.
+
+### 2026-07-12 — Activada la búsqueda diaria de fuentes de contenido
+- Creada `contenido-linkedin/fuentes/` (con README explicando que es material bruto, deliberadamente separado de la documentación estratégica).
+- Activada una Routine real (no solo un plan escrito): todos los días a las 7:00 (hora de Madrid) se abre una sesión nueva que busca en blogs/foros/X/actualidad (ES+EN) 3-5 novedades de IA/datos, las traduce a lenguaje llano para pyme, y las añade a `contenido-linkedin/fuentes/YYYY-MM.md`, con commit y push automáticos a esta rama. Trigger ID: `trig_01NT6bZYLKMMYk9fJvb2ESHa`.
+- Documentado en `contenido-linkedin/estrategia-contenido.md` y `CLAUDE.md` — la tarea nunca debe tocar canvas, módulos, materia-prima ni seguimiento, solo su propia carpeta.
+- Corre durante julio-agosto como periodo de validación (ver `seguimiento/roadmap-jul-dic-2026.md`), antes de depender de ella para el lanzamiento de septiembre.

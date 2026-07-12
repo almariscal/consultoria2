@@ -28,6 +28,7 @@ Los 6 módulos están cerrados (ver `canvas/positioning-canvas.md` para el resum
 - **Hoja de ruta activa**: `seguimiento/roadmap-jul-dic-2026.md` — hitos mes a mes, se revisa y ajusta, no se escribe una vez y se olvida.
 - **Seguimiento de contactos en frío**: cada vez que Alberto cuenta que ha escrito a alguien (gestoría, pyme, cualquier prospecto), se registra en `seguimiento/prospectos.md` — a quién, con qué guion, y el resultado en cuanto se sepa. No dejar esto solo en el chat.
 - **Aprendizaje continuo**: cuando haya suficiente patrón en los resultados (sobre todo respuestas positivas), sintetizarlo en `seguimiento/aprendizajes-venta.md` — qué enfoques funcionan de verdad, para potenciarlos, y ajustar los guiones de `03-gtm/modulo-6-canal.md` si hace falta.
+- **Búsqueda diaria de fuentes de contenido (Routine activa)**: cada día, una sesión automática busca novedades de IA/datos y las añade a `contenido-linkedin/fuentes/YYYY-MM.md` — es material bruto, deliberadamente separado del resto de la documentación. Nunca debe tocar el canvas, los módulos, materia-prima ni seguimiento.
 
 ## Estructura del repo
 
@@ -38,7 +39,7 @@ Los 6 módulos están cerrados (ver `canvas/positioning-canvas.md` para el resum
 03-gtm/                   → módulo 6 (Canal)
 canvas/                   → el Positioning Canvas final (una página, se rellena al final de cada módulo)
 materia-prima/            → evidencia extraída del CV/wiki de Alberto: logros, cifras, casos demostrables
-contenido-linkedin/       → estrategia de contenido, calendario, borradores de posts
+contenido-linkedin/       → estrategia de contenido, calendario, borradores de posts, y fuentes/ (material bruto de una búsqueda diaria automática, ver más abajo)
 seguimiento/              → registro de sesiones/decisiones, roadmap de ejecución, prospectos y aprendizajes de venta, métricas de LinkedIn
 ```
 
