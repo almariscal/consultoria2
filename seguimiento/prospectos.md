@@ -48,14 +48,16 @@ Contacto distinto de las gestorías: no es canal indirecto, es reconexión con u
 
 > Hi Georg,
 >
-> Not sure you'll remember me — I worked at Vadotech [in Granada, around 20XX] as [tu rol], back when you were running things there. Good to see you're still deep in the testing world; I noticed you're now with Scan Global Logistics' automotive testing operation in Granada.
+> Not sure you'll remember me — I worked at Vadotech back in 2018, when you were running things there. Good to see you're still deep in the testing world; I noticed you're now with Scan Global Logistics' automotive testing operation in Granada.
 >
-> Since then I've been building data and automation systems — most recently setting up the entire data function for an energy company from scratch — and I've just started my own consultancy helping smaller companies get more out of the data and processes they already run.
+> Since then I've been working in digitalisation and automation — helping companies cut manual work and make better decisions using data, process optimisation and AI. Most recently I set up the entire data function for an energy company from scratch, and I've just started my own consultancy doing that kind of work for smaller companies.
 >
 > I'd genuinely like to reconnect and hear what you're up to these days. Would you be open to a short call over the next couple of weeks? No agenda beyond catching up — though running turn-key testing projects sounds like exactly the kind of moving-parts operation I love geeking out about.
 >
 > Best,
 > Alberto
+
+**Decisión sobre la landing (2026-07-15):** NO enviar la landing (`almariscal.github.io/almariscal-web/`) en el primer mensaje — contradice el "sin agenda", está en español y enfocada a pymes generalistas (desalineada con Georg, alemán, testing automoción, conversación en inglés). La reu es el pitch. Si responde con interés, entonces sí pasarla con una línea de encuadre en inglés. `almariscal.github.io/` (raíz) da 404, no hay segunda landing.
 
 **Quickwins como munición para la reu (NO para el DM), adaptados a SGL Automotive Testing (operación llave en mano, no OEM), de más sólido a más especulativo:**
 1. **Visibilidad operativa del proyecto llave en mano** — su producto es coordinar muchas piezas (vehículos, conductores, transportes, vuelos, por cliente). Si vive en Excel+email, un panel de estado compartido y de cara al cliente = alto valor y ayuda a Georg a vender. El más fuerte.
