@@ -54,7 +54,7 @@ Contacto distinto de las gestorías: no es canal indirecto, es reconexión con u
 >
 > Not sure you'll remember me — I worked at Vadotech back in 2018, when you were running things there. Good to see you're still deep in the testing world; I noticed you're now with Scan Global Logistics' automotive testing operation in Granada.
 >
-> Since then I've been working in digitalisation and automation — helping companies cut manual work and make better decisions using data, process optimisation and AI. Most recently I set up the entire data function for an energy company from scratch, and I've just started my own consultancy doing that kind of work for smaller companies.
+> Since then I've been working in digitalisation and automation — helping companies cut manual work and make better decisions using data, process optimisation and AI. Most recently I set up the entire data function for an energy company from scratch, and I've just started my own consultancy to do that kind of work for smaller companies.
 >
 > I'll be honest: I'm building up my portfolio with a handful of first projects right now, and I have a strong feeling there's real value I could bring to an operation like yours. I'd love to reconnect, hear what you're up to, and see whether it's worth exploring together. Would you be open to a short call over the next couple of weeks?
 >
@@ -90,14 +90,16 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 
 **Gancho concreto (2026-07-15):** cada mensaje incluye un ejemplo tangible y personalizado de quick win, en condicional ("could be / might be") — ilustra, no promete algo sin scopear, y nunca métrica inventada.
 
+**Corrección de honestidad (2026-07-15):** quitado "we help small Brussels associations" — implica un historial con asociaciones que aún NO existe (evidencia inventada, línea roja del repo). Reemplazado por intención + partnership + fase inicial honesta ("I want to help / we want to partner", "I'm just starting out / just getting started, taking on a few first partners on favourable terms"). Encima refuerza el ángulo de condiciones de primer cliente.
+
 ### 1 · CEJA (Marion Picot, SG) — LinkedIn — MARCA PERSONAL — enviar landing personal
 > Hi Marion,
 >
 > Keeping 33 national members aligned while following an agenda as relentless as the CAP — with a small team — is genuinely hard, and most of it still lands as manual monitoring and briefings.
 >
-> That's the load I help small associations take off their plate. For CEJA it could be as concrete as an automated weekly CAP digest — the week's relevant EU developments gathered and drafted for your members, without anyone compiling it by hand. (I built the data function from scratch for a company in the Iberdrola group before starting this.)
+> That's exactly the kind of load I want to help associations like CEJA lift. For you it could be as concrete as an automated weekly CAP digest — the week's relevant EU developments gathered and drafted for your members, without anyone compiling it by hand. (I built the data function from scratch for a company in the Iberdrola group before starting this.)
 >
-> I'm taking on a few first projects on favourable terms to build my portfolio. Could I borrow 20 minutes to hear how CEJA handles this today?
+> I'm just starting out and looking to partner with a few first organisations on favourable terms. Could I borrow 20 minutes to hear how CEJA handles this today?
 >
 > Best, Alberto Mariscal
 > *(a quick overview: [landing personal])*
@@ -107,9 +109,9 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Covering an agenda as busy as LULUCF, deforestation and biodiversity — and briefing your national members on all of it — is a lot to carry with a lean secretariat, and most of it still happens by hand.
 >
-> That's the kind of work I help small associations lighten. For CEPF that might be a live tracker that watches the forest files you care about and flags every relevant change automatically, so nothing slips and your briefings half-write themselves. (Before this I built the data function from scratch for a company in the Iberdrola group.)
+> That's exactly the kind of work I want to help associations like CEPF lighten. For you that might be a live tracker that watches the forest files you care about and flags every relevant change automatically, so nothing slips and your briefings half-write themselves. (Before this I built the data function from scratch for a company in the Iberdrola group.)
 >
-> I'm doing a few first projects on favourable terms to build my portfolio. Would 20 minutes to hear how you manage it today be worth it?
+> I'm just starting out and looking to partner with a few first organisations on favourable terms. Would 20 minutes to hear how you manage it today be worth it?
 >
 > Best, Alberto Mariscal
 > *(a quick overview: [landing personal])*
@@ -119,9 +121,9 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Following a trade agenda as broad as agri-food — and keeping members updated on every twist — is a serious amount of work for a small secretariat, and most of it is still done manually.
 >
-> At Optimouse we help small Brussels associations take that load off. For CELCAA it could be an automated member update — the week's trade and regulatory moves gathered and drafted for you, ready to send instead of assembled by hand. (I'm Alberto Mariscal, the founder — I built the data function for a company in the Iberdrola group before this.)
+> At Optimouse we want to partner with associations like CELCAA to take that load off. For you it could be an automated member update — the week's trade and regulatory moves gathered and drafted for you, ready to send instead of assembled by hand. (I'm Alberto Mariscal, the founder — I built the data function for a company in the Iberdrola group before this.)
 >
-> We're taking on a few first projects on favourable terms to build our track record. Could we grab 20 minutes so I can hear how CELCAA handles it today?
+> We're just getting started and taking on a few first partners on favourable terms. Could we grab 20 minutes so I can hear how CELCAA handles it today?
 >
 > Best, Alberto — Optimouse
 > *([landing Optimouse] · optimouse.eu)*
@@ -131,9 +133,9 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Speaking for mountain regions across such a broad, multisectoral agenda — with EU-funded project admin on top — is a heavy load for a small team, and a lot of it still comes down to manual monitoring and reporting.
 >
-> At Optimouse we help small Brussels associations lighten exactly that. For Euromontana it might be pulling your EU project data together into the reports funders ask for automatically, so reporting stops eating whole days. (I'm Alberto Mariscal, the founder; I built the data function for a company in the Iberdrola group before this.)
+> At Optimouse we want to partner with associations like Euromontana to lighten exactly that. For you it might be pulling your EU project data together into the reports funders ask for automatically, so reporting stops eating whole days. (I'm Alberto Mariscal, the founder; I built the data function for a company in the Iberdrola group before this.)
 >
-> We're doing a few first projects on favourable terms to build our portfolio. Would 20 minutes to see how Euromontana handles it today be worth it?
+> We're just getting started and taking on a few first partners on favourable terms. Would 20 minutes to see how Euromontana handles it today be worth it?
 >
 > Best, Alberto — Optimouse
 > *([landing Optimouse] · optimouse.eu)*
