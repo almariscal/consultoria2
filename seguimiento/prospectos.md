@@ -88,12 +88,14 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 
 **Enfoque de copy (2026-07-15): empatía primero, no "I run…".** Abrir reconociendo lo difícil que es SU trabajo (anclado en algo real suyo, no halago genérico) → "eso es justo lo que ayudo a quitar de encima" con un X concreto → credibilidad en una línea, no liderando → petición de 20 min a bajo coste (portfolio). Objetivo: reu, no venta en el mensaje.
 
+**Gancho concreto (2026-07-15):** cada mensaje incluye un ejemplo tangible y personalizado de quick win, en condicional ("could be / might be") — ilustra, no promete algo sin scopear, y nunca métrica inventada.
+
 ### 1 · CEJA (Marion Picot, SG) — LinkedIn — MARCA PERSONAL — enviar landing personal
 > Hi Marion,
 >
-> Keeping 33 national members aligned while following an agenda as relentless as the CAP — with a small team — is genuinely hard, and most of it still lands as manual monitoring, briefings and reporting.
+> Keeping 33 national members aligned while following an agenda as relentless as the CAP — with a small team — is genuinely hard, and most of it still lands as manual monitoring and briefings.
 >
-> That's exactly the load I help small associations take off their plate: turning scattered policy updates and member comms into something semi-automated, so the team's hours go to advocacy, not admin. (I built the data function from scratch for a company in the Iberdrola group before starting this.)
+> That's the load I help small associations take off their plate. For CEJA it could be as concrete as an automated weekly CAP digest — the week's relevant EU developments gathered and drafted for your members, without anyone compiling it by hand. (I built the data function from scratch for a company in the Iberdrola group before starting this.)
 >
 > I'm taking on a few first projects on favourable terms to build my portfolio. Could I borrow 20 minutes to hear how CEJA handles this today?
 >
@@ -105,7 +107,7 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Covering an agenda as busy as LULUCF, deforestation and biodiversity — and briefing your national members on all of it — is a lot to carry with a lean secretariat, and most of it still happens by hand.
 >
-> That's the kind of work I help small associations lighten: turning constant EU-file monitoring and member reporting into something that largely runs itself, so your time goes to the positions that matter, not the paperwork. (Before this I built the data function from scratch for a company in the Iberdrola group.)
+> That's the kind of work I help small associations lighten. For CEPF that might be a live tracker that watches the forest files you care about and flags every relevant change automatically, so nothing slips and your briefings half-write themselves. (Before this I built the data function from scratch for a company in the Iberdrola group.)
 >
 > I'm doing a few first projects on favourable terms to build my portfolio. Would 20 minutes to hear how you manage it today be worth it?
 >
@@ -117,7 +119,7 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Following a trade agenda as broad as agri-food — and keeping members updated on every twist — is a serious amount of work for a small secretariat, and most of it is still done manually.
 >
-> At Optimouse we help small Brussels associations take that load off: member comms, policy monitoring and reporting that largely run on their own. (I'm Alberto Mariscal, the founder — I built the data function for a company in the Iberdrola group before this.)
+> At Optimouse we help small Brussels associations take that load off. For CELCAA it could be an automated member update — the week's trade and regulatory moves gathered and drafted for you, ready to send instead of assembled by hand. (I'm Alberto Mariscal, the founder — I built the data function for a company in the Iberdrola group before this.)
 >
 > We're taking on a few first projects on favourable terms to build our track record. Could we grab 20 minutes so I can hear how CELCAA handles it today?
 >
@@ -129,7 +131,7 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Speaking for mountain regions across such a broad, multisectoral agenda — with EU-funded project admin on top — is a heavy load for a small team, and a lot of it still comes down to manual monitoring and reporting.
 >
-> At Optimouse we help small Brussels associations lighten exactly that: member comms, policy tracking and the project reporting that eats so many hours, largely automated. (I'm Alberto Mariscal, the founder; I built the data function for a company in the Iberdrola group before this.)
+> At Optimouse we help small Brussels associations lighten exactly that. For Euromontana it might be pulling your EU project data together into the reports funders ask for automatically, so reporting stops eating whole days. (I'm Alberto Mariscal, the founder; I built the data function for a company in the Iberdrola group before this.)
 >
 > We're doing a few first projects on favourable terms to build our portfolio. Would 20 minutes to see how Euromontana handles it today be worth it?
 >
