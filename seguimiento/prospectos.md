@@ -12,7 +12,7 @@ Seguimiento de contacto en frío — ver guiones y guía de búsqueda en `03-gtm
 | — | CEPF – Confederation of European Forest Owners | Propietarios forestales; secretariado pequeño (European Forestry House, Bruselas) | LinkedIn a Fanny-Pomme Langue (Secretary General — verificar) | Pendiente de enviar | **Experimento Bruselas / A/B.** Rama PERSONAL. Punto dulce. Ángulo: agenda forestal (LULUCF/deforestación/biodiversidad) + briefing a socios manual. Enviar landing personal |
 | — | CELCAA – European Liaison Committee for Agri-food Trade | Comité de enlace comercio agroalimentario; secretariado pequeño (lobby Bruselas) | LinkedIn a Pascale Rouhier (Secretary General — verificar) | Pendiente de enviar | **Experimento Bruselas / A/B.** Rama OPTIMOUSE (Alberto como fundador nombrado). Punto dulce. Ángulo: policy monitoring + comunicación a socios. Enviar landing Optimouse |
 | — | Euromontana – European Association of Mountain Areas | Multisectorial de regiones de montaña + gestión de proyectos UE; equipo pequeño (Bruselas) | LinkedIn al Director (verificar — posiblemente Guillaume Corradino) | Pendiente de enviar | **Experimento Bruselas / A/B.** Rama OPTIMOUSE. Punto dulce. Ángulo: agenda amplia + admin de proyectos UE. Enviar landing Optimouse. **RESERVA (logo para más adelante, demasiado grandes para arranque): CEPI (Jori Ringman), CECIMO (Filip Geerts), COCERAL (Iliana Axiotiades, secretariat@coceral.com).** Clúster: CEJA/CEPF/CELCAA/Euromontana colaboran entre sí → un caso cerrado = intro caliente a las demás |
-| — | Georg Gross-Hardt / Scan Global Logistics – Automotive Testing (Granada) | Contacto directo templado (se conocieron en Vadotech, donde Georg dirigía y Alberto trabajó) — posible cliente / nodo de red | Mensaje reconexión en inglés, por LinkedIn | Pendiente de enviar | **YA NO está en Vadotech**: ahora en SGL Automotive Testing, Granada (operación llave en mano: transporte de vehículos de prueba, logística de combustible, vuelos/IATA propia, conductores endurance, testing térmico/altitud/ADAS). Rol comercial/relación ("& Sales", networker). SGL = grupo logístico global danés; entrada realista = la unidad de Granada, no el grupo. Su producto es COORDINAR piezas móviles → quickwin #1 = visibilidad operativa del proyecto. Primer mensaje SIN quickwins: solo romper hielo + reu |
+| — | Georg Gross-Hardt / Scan Global Logistics – Automotive Testing (Granada) | Contacto directo templado (se conocieron en Vadotech, donde Georg dirigía y Alberto trabajó) — posible cliente / nodo de red | Mensaje reconexión en inglés, por LinkedIn | **Enviado 2026-07-15 — sin respuesta aún** | **YA NO está en Vadotech**: ahora en SGL Automotive Testing, Granada (operación llave en mano: transporte de vehículos de prueba, logística de combustible, vuelos/IATA propia, conductores endurance, testing térmico/altitud/ADAS). Rol comercial/relación ("& Sales", networker). SGL = grupo logístico global danés; entrada realista = la unidad de Granada, no el grupo. Su producto es COORDINAR piezas móviles → quickwin #1 = visibilidad operativa del proyecto. Primer mensaje SIN quickwins: solo romper hielo + reu |
 
 ## Mensajes en preparación (texto completo)
 
@@ -88,18 +88,16 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 
 **Enfoque de copy (2026-07-15): empatía primero, no "I run…".** Abrir reconociendo lo difícil que es SU trabajo (anclado en algo real suyo, no halago genérico) → "eso es justo lo que ayudo a quitar de encima" con un X concreto → credibilidad en una línea, no liderando → petición de 20 min a bajo coste (portfolio). Objetivo: reu, no venta en el mensaje.
 
-**Gancho concreto (2026-07-15):** cada mensaje incluye un ejemplo tangible y personalizado de quick win, en condicional ("could be / might be") — ilustra, no promete algo sin scopear, y nunca métrica inventada.
-
-**Corrección de honestidad (2026-07-15):** quitado "we help small Brussels associations" — implica un historial con asociaciones que aún NO existe (evidencia inventada, línea roja del repo). Reemplazado por intención + partnership + fase inicial honesta ("I want to help / we want to partner", "I'm just starting out / just getting started, taking on a few first partners on favourable terms"). Encima refuerza el ángulo de condiciones de primer cliente.
+**Evolución del copy (2026-07-15):** (1) fuera "for you it could be [cosa]" — sonaba a folleto y a vender widget antes de diagnosticar; reemplazado por "what's now possible / what's changed…" que describe la TRANSFORMACIÓN, no el producto. (2) Zanahoria más ambiciosa que un "weekly digest": una capacidad (equipo pequeño que rinde como uno 10x mayor / membresía indispensable / liberar a la gente de incidencia del papeleo). (3) Cierre consultivo que invita a autodiagnóstico ("where this could help most"). Sigue en condicional y sin métrica inventada ni historial falso.
 
 ### 1 · CEJA (Marion Picot, SG) — LinkedIn — MARCA PERSONAL — enviar landing personal
 > Hi Marion,
 >
-> Keeping 33 national members aligned while following an agenda as relentless as the CAP — with a small team — is genuinely hard, and most of it still lands as manual monitoring and briefings.
+> Keeping 33 national members aligned while following an agenda as relentless as the CAP — with a small team — is genuinely hard, and most of it still runs on manual monitoring and briefings.
 >
-> That's exactly the kind of load I want to help associations like CEJA lift. For you it could be as concrete as an automated weekly CAP digest — the week's relevant EU developments gathered and drafted for your members, without anyone compiling it by hand. (I built the data function from scratch for a company in the Iberdrola group before starting this.)
+> The good news is how much of that grind can now run largely on its own: enough for a small secretariat to stay on top of the entire CAP agenda and make its members feel better informed than bodies many times its size — with the team's hours going to advocacy, not admin. (I built the data function from scratch for a company in the Iberdrola group before starting this.)
 >
-> I'm just starting out and looking to partner with a few first organisations on favourable terms. Could I borrow 20 minutes to hear how CEJA handles this today?
+> I'm just starting out and looking to partner with a few first organisations on favourable terms. Could I borrow 20 minutes to hear how CEJA works today and where this could help most?
 >
 > Best, Alberto Mariscal
 > *(a quick overview: [landing personal])*
@@ -107,11 +105,11 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 ### 2 · CEPF (Fanny-Pomme Langue, SG) — LinkedIn — MARCA PERSONAL — enviar landing personal
 > Hi Fanny-Pomme,
 >
-> Covering an agenda as busy as LULUCF, deforestation and biodiversity — and briefing your national members on all of it — is a lot to carry with a lean secretariat, and most of it still happens by hand.
+> Covering a forest agenda as busy as LULUCF, deforestation and biodiversity — and briefing your national members on all of it — is a lot to carry with a lean secretariat, and most of it still happens by hand.
 >
-> That's exactly the kind of work I want to help associations like CEPF lighten. For you that might be a live tracker that watches the forest files you care about and flags every relevant change automatically, so nothing slips and your briefings half-write themselves. (Before this I built the data function from scratch for a company in the Iberdrola group.)
+> What's changed is how much of that can now run quietly in the background: an agenda this size watched continuously, the moves that matter surfaced early, and briefings that half-write themselves — so a small team catches what counts before it slips and spends its energy on positions, not paperwork. (Before this I built the data function from scratch for a company in the Iberdrola group.)
 >
-> I'm just starting out and looking to partner with a few first organisations on favourable terms. Would 20 minutes to hear how you manage it today be worth it?
+> I'm just starting out and looking to partner with a few first organisations on favourable terms. Could I borrow 20 minutes to hear how CEPF works today and where it might help most?
 >
 > Best, Alberto Mariscal
 > *(a quick overview: [landing personal])*
@@ -121,9 +119,9 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Following a trade agenda as broad as agri-food — and keeping members updated on every twist — is a serious amount of work for a small secretariat, and most of it is still done manually.
 >
-> At Optimouse we want to partner with associations like CELCAA to take that load off. For you it could be an automated member update — the week's trade and regulatory moves gathered and drafted for you, ready to send instead of assembled by hand. (I'm Alberto Mariscal, the founder — I built the data function for a company in the Iberdrola group before this.)
+> What's now possible is turning that constant flow into intelligence your members genuinely rely on — the whole trade-and-regulatory picture watched continuously and delivered to them without your team assembling it by hand. For a membership body, that's the kind of thing that makes belonging feel indispensable. (I'm Alberto Mariscal, the founder — I built the data function for a company in the Iberdrola group before this.)
 >
-> We're just getting started and taking on a few first partners on favourable terms. Could we grab 20 minutes so I can hear how CELCAA handles it today?
+> At Optimouse we're just getting started and taking on a few first partners on favourable terms. Could we grab 20 minutes so I can hear how CELCAA works today and where it could help most?
 >
 > Best, Alberto — Optimouse
 > *([landing Optimouse] · optimouse.eu)*
@@ -133,9 +131,9 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Speaking for mountain regions across such a broad, multisectoral agenda — with EU-funded project admin on top — is a heavy load for a small team, and a lot of it still comes down to manual monitoring and reporting.
 >
-> At Optimouse we want to partner with associations like Euromontana to lighten exactly that. For you it might be pulling your EU project data together into the reports funders ask for automatically, so reporting stops eating whole days. (I'm Alberto Mariscal, the founder; I built the data function for a company in the Iberdrola group before this.)
+> What's changed is how much of that back-office weight can now lift on its own — the monitoring, the member updates, and the project reporting funders demand — so the people you hired for advocacy and projects actually spend their time there, not on paperwork. (I'm Alberto Mariscal, the founder; I built the data function for a company in the Iberdrola group before this.)
 >
-> We're just getting started and taking on a few first partners on favourable terms. Would 20 minutes to see how Euromontana handles it today be worth it?
+> At Optimouse we're just getting started and taking on a few first partners on favourable terms. Would 20 minutes to hear how Euromontana works today and where this could help most be worth it?
 >
 > Best, Alberto — Optimouse
 > *([landing Optimouse] · optimouse.eu)*
