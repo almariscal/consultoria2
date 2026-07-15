@@ -88,7 +88,7 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 
 **Enfoque de copy (2026-07-15): empatía primero, no "I run…".** Abrir reconociendo lo difícil que es SU trabajo (anclado en algo real suyo, no halago genérico) → "eso es justo lo que ayudo a quitar de encima" con un X concreto → credibilidad en una línea, no liderando → petición de 20 min a bajo coste (portfolio). Objetivo: reu, no venta en el mensaje.
 
-**Evolución del copy (2026-07-15):** (1) fuera "for you it could be [cosa]" — sonaba a folleto y a vender widget antes de diagnosticar; reemplazado por "what's now possible / what's changed…" que describe la TRANSFORMACIÓN, no el producto. (2) Zanahoria más ambiciosa que un "weekly digest": una capacidad (equipo pequeño que rinde como uno 10x mayor / membresía indispensable / liberar a la gente de incidencia del papeleo). (3) Cierre consultivo que invita a autodiagnóstico ("where this could help most"). Sigue en condicional y sin métrica inventada ni historial falso. (4) **Fuera "on favourable terms"** — anunciar descuento en frío ancla como barato y suena a súplica; el precio se habla en la reu (Módulo 6). Reemplazado por selectividad + trato cercano ("just a few first partners… working closely/hands-on with each"): la fase inicial vende como oportunidad y atención personal, no como rebaja.
+**Evolución del copy (2026-07-15):** (1) fuera "for you it could be [cosa]" — sonaba a folleto y a vender widget antes de diagnosticar; reemplazado por "what's now possible / what's changed…" que describe la TRANSFORMACIÓN, no el producto. (2) Zanahoria más ambiciosa que un "weekly digest": una capacidad (equipo pequeño que rinde como uno 10x mayor / membresía indispensable / liberar a la gente de incidencia del papeleo). (3) Cierre consultivo que invita a autodiagnóstico ("where this could help most"). Sigue en condicional y sin métrica inventada ni historial falso. (4) **Fuera "on favourable terms"** — anunciar descuento en frío ancla como barato y suena a súplica; el precio se habla en la reu (Módulo 6). Reemplazado por selectividad + trato cercano ("just a few first partners… working closely/hands-on with each"): la fase inicial vende como oportunidad y atención personal, no como rebaja. (5) **Fuera también la mención de "empezar"/"first partners" por completo** — no hace falta confesar que arrancas; suena junior. Honestidad intacta (no afirmar experiencia inexistente ≠ obligación de confesar que empiezas — honestidad por omisión). Los mensajes van directos empatía → posibilidad+credibilidad → petición. En Optimouse la marca se nombra en el paréntesis ("founder of Optimouse").
 
 ### 1 · CEJA (Marion Picot, SG) — LinkedIn — MARCA PERSONAL — enviar landing personal
 > Hi Marion,
@@ -97,7 +97,7 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > The good news is how much of that grind can now run largely on its own: enough for a small secretariat to stay on top of the entire CAP agenda and make its members feel better informed than bodies many times its size — with the team's hours going to advocacy, not admin. (I built the data function from scratch for a company in the Iberdrola group before starting this.)
 >
-> I'm taking on just a few first partners right now and working closely with each. Could I borrow 20 minutes to hear how CEJA works today and where this could help most?
+> Could I borrow 20 minutes to hear how CEJA works today and where this could help most?
 >
 > Best, Alberto Mariscal
 > *(a quick overview: [landing personal])*
@@ -109,7 +109,7 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > What's changed is how much of that can now run quietly in the background: an agenda this size watched continuously, the moves that matter surfaced early, and briefings that half-write themselves — so a small team catches what counts before it slips and spends its energy on positions, not paperwork. (Before this I built the data function from scratch for a company in the Iberdrola group.)
 >
-> I'm taking on just a few first partners right now and working closely with each. Could I borrow 20 minutes to hear how CEPF works today and where it might help most?
+> Could I borrow 20 minutes to hear how CEPF works today and where it might help most?
 >
 > Best, Alberto Mariscal
 > *(a quick overview: [landing personal])*
@@ -119,9 +119,9 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Following a trade agenda as broad as agri-food — and keeping members updated on every twist — is a serious amount of work for a small secretariat, and most of it is still done manually.
 >
-> What's now possible is turning that constant flow into intelligence your members genuinely rely on — the whole trade-and-regulatory picture watched continuously and delivered to them without your team assembling it by hand. For a membership body, that's the kind of thing that makes belonging feel indispensable. (I'm Alberto Mariscal, the founder — I built the data function for a company in the Iberdrola group before this.)
+> What's now possible is turning that constant flow into intelligence your members genuinely rely on — the whole trade-and-regulatory picture watched continuously and delivered to them without your team assembling it by hand. For a membership body, that's the kind of thing that makes belonging feel indispensable. (I'm Alberto Mariscal, founder of Optimouse — I built the data function for a company in the Iberdrola group before this.)
 >
-> At Optimouse we're taking on a small number of first partners and working hands-on with each. Could we grab 20 minutes so I can hear how CELCAA works today and where it could help most?
+> Could we grab 20 minutes so I can hear how CELCAA works today and where it could help most?
 >
 > Best, Alberto — Optimouse
 > *([landing Optimouse] · optimouse.eu)*
@@ -131,9 +131,9 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 >
 > Speaking for mountain regions across such a broad, multisectoral agenda — with EU-funded project admin on top — is a heavy load for a small team, and a lot of it still comes down to manual monitoring and reporting.
 >
-> What's changed is how much of that back-office weight can now lift on its own — the monitoring, the member updates, and the project reporting funders demand — so the people you hired for advocacy and projects actually spend their time there, not on paperwork. (I'm Alberto Mariscal, the founder; I built the data function for a company in the Iberdrola group before this.)
+> What's changed is how much of that back-office weight can now lift on its own — the monitoring, the member updates, and the project reporting funders demand — so the people you hired for advocacy and projects actually spend their time there, not on paperwork. (I'm Alberto Mariscal, founder of Optimouse; I built the data function for a company in the Iberdrola group before this.)
 >
-> At Optimouse we're taking on a small number of first partners and working hands-on with each. Would 20 minutes to hear how Euromontana works today and where this could help most be worth it?
+> Would 20 minutes to hear how Euromontana works today and where this could help most be worth it?
 >
 > Best, Alberto — Optimouse
 > *([landing Optimouse] · optimouse.eu)*
