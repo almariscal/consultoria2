@@ -8,7 +8,7 @@ Seguimiento de contacto en frío — ver guiones y guía de búsqueda en `03-gtm
 |---|---|---|---|---|---|
 | — | Carlos García García / MZG Asesores | Gestoría (300+ clientes pyme) | Guion 1 personalizado, por email | Pendiente de enviar | Socio director área fiscal. Poca actividad en LinkedIn (~30 seguidores) — email en vez de LinkedIn |
 | — | Lola (Dolores) Ferrer Garcerán / Arrabe Integra | Gestoría/asesoría (empresa familiar, 50 años, orientada a proyectos tecnológicos e innovadores) | Guion 1 personalizado, por LinkedIn | Pendiente de enviar | Socia directora. Lanzó recientemente Arrabe Integra Capital — perfil abierto a colaboraciones nuevas |
-| — | Georg Gross-Hardt / Vadotech (testing de vehículos) | Contacto directo templado (ex-jefe de Alberto en Vadotech) — posible cliente / puerta a Vadotech / nodo de red | Mensaje reconexión en inglés, por LinkedIn | Pendiente de enviar | Se define como "Freelancer – Passionate Networker", basado en Granada, postea sobre referral marketing. Vadotech es parte de AB Dynamics (grupo cotizado LSE) desde 2021 → cuidado con vender "plataforma de datos", terreno realista = operación local + dolores manuales. Primer mensaje SIN quickwins: solo romper hielo + reu. Quickwins guardados como munición para la conversación (ver notas de sesión) |
+| — | Georg Gross-Hardt / Scan Global Logistics – Automotive Testing (Granada) | Contacto directo templado (se conocieron en Vadotech, donde Georg dirigía y Alberto trabajó) — posible cliente / nodo de red | Mensaje reconexión en inglés, por LinkedIn | Pendiente de enviar | **YA NO está en Vadotech**: ahora en SGL Automotive Testing, Granada (operación llave en mano: transporte de vehículos de prueba, logística de combustible, vuelos/IATA propia, conductores endurance, testing térmico/altitud/ADAS). Rol comercial/relación ("& Sales", networker). SGL = grupo logístico global danés; entrada realista = la unidad de Granada, no el grupo. Su producto es COORDINAR piezas móviles → quickwin #1 = visibilidad operativa del proyecto. Primer mensaje SIN quickwins: solo romper hielo + reu |
 
 ## Mensajes en preparación (texto completo)
 
@@ -42,25 +42,25 @@ Seguimiento de contacto en frío — ver guiones y guía de búsqueda en `03-gtm
 > Un saludo,
 > Alberto
 
-### LinkedIn a Georg Gross-Hardt (Vadotech) — EN INGLÉS
+### LinkedIn a Georg Gross-Hardt (Scan Global Logistics – Automotive Testing) — EN INGLÉS
 
-Contacto distinto de las gestorías: no es canal indirecto, es reconexión con un ex-jefe. Objetivo del primer mensaje: **solo romper hielo + conseguir la reu**. Sin quickwins dentro (sería vender aprovechando un conocido). `[slots]` a rellenar por Alberto: cuándo estuvo en Vadotech y en qué rol.
+Contacto distinto de las gestorías: no es canal indirecto, es reconexión con un ex-jefe (se conocieron en Vadotech). **Ojo: ya no está en Vadotech, ahora en SGL Automotive Testing (Granada).** Objetivo del primer mensaje: **solo romper hielo + conseguir la reu**. Sin quickwins dentro (sería vender aprovechando un conocido). `[slots]` a rellenar por Alberto: cuándo estuvo en Vadotech y en qué rol.
 
 > Hi Georg,
 >
-> Not sure you'll remember me — I worked at Vadotech [in Granada, around 20XX] as [tu rol], back when you were running things there. I've kept an eye on the company since; the AB Dynamics move looked like a strong step.
+> Not sure you'll remember me — I worked at Vadotech [in Granada, around 20XX] as [tu rol], back when you were running things there. Good to see you're still deep in the testing world; I noticed you're now with Scan Global Logistics' automotive testing operation in Granada.
 >
-> Since then I've been building data and automation systems — most recently setting up the entire data function for an energy company from scratch — and I've just started my own consultancy helping smaller companies get more out of the data they already generate.
+> Since then I've been building data and automation systems — most recently setting up the entire data function for an energy company from scratch — and I've just started my own consultancy helping smaller companies get more out of the data and processes they already run.
 >
-> I'd genuinely like to reconnect and hear what you're up to these days. Would you be open to a short call over the next couple of weeks? No agenda beyond catching up — though I have a feeling we'd have plenty to compare notes on.
+> I'd genuinely like to reconnect and hear what you're up to these days. Would you be open to a short call over the next couple of weeks? No agenda beyond catching up — though running turn-key testing projects sounds like exactly the kind of moving-parts operation I love geeking out about.
 >
 > Best,
 > Alberto
 
-**Quickwins como munición para la reu (NO para el DM), ordenados de más sólido a más especulativo:**
-1. **Automatización de reporting de pruebas** — el producto de Vadotech es el informe al OEM ("197 procesos de carga documentados"). Si se compila a mano → es el patrón probado de Alberto (Endesa: reporting manual → pipelines SQL). El más fuerte.
-2. **Documento no estructurado → dato** (hojas de inspección, logs de carga, facturas de logística) — apoyado en el caso de IA de facturas de competidores.
-3. **Dashboard operativo de flota/logística** (utilización, coste/margen por programa) — encaja con el perfil bisagra negocio-técnico. Más especulativo.
-4. **Mini-CRM de referidos para el propio Georg** si va por libre — habla su idioma (referral marketing); solo si la conversación lo pide.
+**Quickwins como munición para la reu (NO para el DM), adaptados a SGL Automotive Testing (operación llave en mano, no OEM), de más sólido a más especulativo:**
+1. **Visibilidad operativa del proyecto llave en mano** — su producto es coordinar muchas piezas (vehículos, conductores, transportes, vuelos, por cliente). Si vive en Excel+email, un panel de estado compartido y de cara al cliente = alto valor y ayuda a Georg a vender. El más fuerte.
+2. **Automatización de presupuestos/propuestas** — paquetes con muchos componentes de coste (transporte, combustible, conductores, viajes); cotizar rápido y consistente ayuda a cerrar. Encaja con sensibilidad a pricing.
+3. **Coste/margen por proyecto** — operación intensiva en logística, muchas líneas de coste; margen por campaña. Perfil bisagra.
+4. **Documento no estructurado → dato** (papeleo de transporte, tickets de combustible, aduanas, logs de prueba) — apoyado en el caso de IA de facturas de competidores.
 
-Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo montáis hoy el informe al OEM?") y descubrir el resto preguntando. Ojo AB Dynamics: no vender plataforma, foco en operación local + dolores manuales.
+Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis hoy la visibilidad de un proyecto llave en mano con vehículos y conductores por todo el mapa?") y descubrir el resto preguntando. Ojo SGL: grupo grande, no vender plataforma; foco en la unidad de Granada y sus dolores manuales.
