@@ -8,10 +8,10 @@ Seguimiento de contacto en frío — ver guiones y guía de búsqueda en `03-gtm
 |---|---|---|---|---|---|
 | — | Carlos García García / MZG Asesores | Gestoría (300+ clientes pyme) | Guion 1 personalizado, por email | Pendiente de enviar | Socio director área fiscal. Poca actividad en LinkedIn (~30 seguidores) — email en vez de LinkedIn |
 | — | Lola (Dolores) Ferrer Garcerán / Arrabe Integra | Gestoría/asesoría (empresa familiar, 50 años, orientada a proyectos tecnológicos e innovadores) | Guion 1 personalizado, por LinkedIn | Pendiente de enviar | Socia directora. Lanzó recientemente Arrabe Integra Capital — perfil abierto a colaboraciones nuevas |
-| — | CEPI – Confederation of European Paper Industries | Federación sectorial UE (lobby Bruselas) — pyme-tipo con fondos de cuotas, poca madurez digital | LinkedIn a Jori Ringman (Director General — verificar cargo) | Pendiente de enviar | **Experimento Bruselas / A/B de marca.** Rama MARCA PERSONAL. Ángulo: monitoreo regulatorio (packaging/deforestación/energía) + reporting a socios manual. Enviar landing personal |
-| — | COCERAL – comercio europeo de cereales/oleaginosas/arroz | Federación de comercio de commodities agrícolas (lobby Bruselas) | LinkedIn a Iliana Axiotiades (Secretary General — verificar); fallback secretariat@coceral.com | Pendiente de enviar | **Experimento Bruselas / A/B.** Rama MARCA PERSONAL. Ángulo: tracking normativa+mercado → circulares a socios manual. Enviar landing personal |
-| — | CECIMO – European Assoc. of the Machine Tool Industries | Federación industrial UE (publica estadística de mercado) | LinkedIn a Filip Geerts (Director General — verificar) | Pendiente de enviar | **Experimento Bruselas / A/B.** Rama MARCA OPTIMICE (Alberto como fundador nombrado). Ángulo: CRM socios + wrangling manual de datos de mercado. Enviar landing Optimice |
-| — | CELCAA – European Liaison Committee for Agri-food Trade | Comité de enlace comercio agroalimentario (secretariado pequeño, lobby Bruselas) | LinkedIn a Pascale Rouhier (Secretary General — verificar) | Pendiente de enviar | **Experimento Bruselas / A/B.** Rama MARCA OPTIMICE. Ángulo: secretariado pequeño, mucho tiempo en policy monitoring + comunicación a socios. Enviar landing Optimice |
+| — | CEJA – European Council of Young Farmers | ~33 asociaciones nacionales de jóvenes agricultores; secretariado pequeño (lobby Bruselas) | LinkedIn a Marion Picot (Secretary General — verificar) | Pendiente de enviar | **Experimento Bruselas / A/B de marca.** Rama PERSONAL. Punto dulce (equipo pequeño, decide solo). Ángulo: monitoreo CAP + updates a 33 socios manual. Enviar landing personal |
+| — | CEPF – Confederation of European Forest Owners | Propietarios forestales; secretariado pequeño (European Forestry House, Bruselas) | LinkedIn a Fanny-Pomme Langue (Secretary General — verificar) | Pendiente de enviar | **Experimento Bruselas / A/B.** Rama PERSONAL. Punto dulce. Ángulo: agenda forestal (LULUCF/deforestación/biodiversidad) + briefing a socios manual. Enviar landing personal |
+| — | CELCAA – European Liaison Committee for Agri-food Trade | Comité de enlace comercio agroalimentario; secretariado pequeño (lobby Bruselas) | LinkedIn a Pascale Rouhier (Secretary General — verificar) | Pendiente de enviar | **Experimento Bruselas / A/B.** Rama OPTIMICE (Alberto como fundador nombrado). Punto dulce. Ángulo: policy monitoring + comunicación a socios. Enviar landing Optimice |
+| — | Euromontana – European Association of Mountain Areas | Multisectorial de regiones de montaña + gestión de proyectos UE; equipo pequeño (Bruselas) | LinkedIn al Director (verificar — posiblemente Guillaume Corradino) | Pendiente de enviar | **Experimento Bruselas / A/B.** Rama OPTIMICE. Punto dulce. Ángulo: agenda amplia + admin de proyectos UE. Enviar landing Optimice. **RESERVA (logo para más adelante, demasiado grandes para arranque): CEPI (Jori Ringman), CECIMO (Filip Geerts), COCERAL (Iliana Axiotiades, secretariat@coceral.com).** Clúster: CEJA/CEPF/CELCAA/Euromontana colaboran entre sí → un caso cerrado = intro caliente a las demás |
 | — | Georg Gross-Hardt / Scan Global Logistics – Automotive Testing (Granada) | Contacto directo templado (se conocieron en Vadotech, donde Georg dirigía y Alberto trabajó) — posible cliente / nodo de red | Mensaje reconexión en inglés, por LinkedIn | Pendiente de enviar | **YA NO está en Vadotech**: ahora en SGL Automotive Testing, Granada (operación llave en mano: transporte de vehículos de prueba, logística de combustible, vuelos/IATA propia, conductores endurance, testing térmico/altitud/ADAS). Rol comercial/relación ("& Sales", networker). SGL = grupo logístico global danés; entrada realista = la unidad de Granada, no el grupo. Su producto es COORDINAR piezas móviles → quickwin #1 = visibilidad operativa del proyecto. Primer mensaje SIN quickwins: solo romper hielo + reu |
 
 ## Mensajes en preparación (texto completo)
@@ -77,6 +77,8 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 
 **Origen**: recomendación de un contacto — escribir a organizaciones registradas en el Parlamento Europeo/grupos de presión, que suelen tener fondos (cuotas de socios) pero poca madurez digital. **A quién SÍ**: federaciones/asociaciones sectoriales ("Confederation/Council/Committee of…"), no las consultoras de public affairs (ésas son las sofisticadas / competencia).
 
+**Pivote de objetivos (2026-07-15)**: se descartan las federaciones grandes (CEPI/CECIMO/COCERAL → reserva de logo) y se apunta al **punto dulce**: secretariados pequeños que sienten el dolor y deciden solos, pero con presupuesto de cuotas real. Filtro recomendado: FTE bajo + banda de presupuesto modesta en lobbyfacts.eu. Tanda definitiva: CEJA, CEPF, CELCAA, Euromontana — clúster rural/uso del suelo que **colabora entre sí** (un caso = intro caliente a las demás).
+
 **Reglas del experimento (importantes — decididas con "Raúl"):**
 - **NO envío masivo automático desde cuenta anónima.** Este público es el más obsesionado con transparencia/cumplimiento/reputación → un blast templado quema la marca y cae en spam; automatizar LinkedIn viola ToS. La automatización va en la PREPARACIÓN (research, borrador, seguimiento), no en el envío. 3-5 mensajes/día MUY personalizados, no cientos.
 - **A/B de marca**: 2 con marca personal (nombre + evidencia por delante), 2 con Optimice (marca por delante, Alberto como fundador nombrado — anonimia total NO, mata la confianza en este público). Reparto cruzado (cada marca 1 federación industrial + 1 agroalimentaria) para aislar el efecto marca. Medir tasa de respuesta por marca.
@@ -84,42 +86,42 @@ Titular de la reu: llegar solo con la #1 en forma de pregunta ("¿cómo lleváis
 
 **Mensajes (English):**
 
-### 1 · CEPI (Jori Ringman, DG) — LinkedIn — MARCA PERSONAL — enviar landing personal
-> Hi Jori,
+### 1 · CEJA (Marion Picot, SG) — LinkedIn — MARCA PERSONAL — enviar landing personal
+> Hi Marion,
 >
-> I run a small data & automation consultancy; before that I built the data function from scratch for a company in the Iberdrola group. I've started working with Brussels associations because the same pattern keeps repeating: regulatory monitoring, member reporting and stakeholder tracking still done largely by hand.
+> I run a small data & automation consultancy; before that I built the data function from scratch for a company in the Iberdrola group. I've started working with Brussels associations because small secretariats carry a huge load by hand — policy monitoring, keeping members updated, reporting.
 >
-> CEPI sits on one of the heaviest regulatory agendas out there — packaging, deforestation, energy. Turning that constant flow into something your members receive automatically is very doable. I'm building my portfolio with a few first projects, so terms are favourable, and I'd value 20 minutes to see how you handle it today. Open to a short call?
->
-> Best, Alberto Mariscal
-> *(quick overview: [landing personal])*
-
-### 2 · COCERAL (Iliana Axiotiades, SG) — LinkedIn — MARCA PERSONAL — enviar landing personal
-> Hi Iliana,
->
-> I run a small data & automation consultancy; before that I built the data function from scratch for a company in the Iberdrola group. I've started working with trade associations because so much of the work — tracking regulation and market developments, then turning it into member circulars — is still done manually, line by line.
->
-> For a commodities trade body like COCERAL that's a constant load, and a good part of it can be semi-automated so your team spends time on judgement, not copy-paste. I'm building my portfolio with a few first projects, so terms are favourable. Would 20 minutes to learn how you do it today be worth it?
+> With 30-odd national members and the whole CAP agenda to follow, I'd guess a lot of CEJA's time goes into watching policy and turning it into updates your members can use. A good part of that can be semi-automated, so your team spends its time on advocacy, not admin. I'm building my portfolio with a few first projects, so terms are favourable — would 20 minutes to see how you work today be worth it?
 >
 > Best, Alberto Mariscal
 > *(quick overview: [landing personal])*
 
-### 3 · CECIMO (Filip Geerts, DG) — LinkedIn — MARCA OPTIMICE — enviar landing Optimice
-> Hi Filip,
+### 2 · CEPF (Fanny-Pomme Langue, SG) — LinkedIn — MARCA PERSONAL — enviar landing personal
+> Hi Fanny-Pomme,
 >
-> I'm reaching out from Optimice — we help trade and membership organisations cut the manual work behind their day-to-day: member CRM, regulatory monitoring, reporting, and turning scattered data into something usable. (I'm Alberto Mariscal, the founder — I previously built the data function for a company in the Iberdrola group.)
+> I run a small data & automation consultancy; before that I built the data function from scratch for a company in the Iberdrola group. I keep seeing small Brussels secretariats doing heavy manual work — monitoring EU files, coordinating national members, pulling reporting together.
 >
-> CECIMO puts out real economic and market intelligence for the machine-tool sector, which usually means a lot of manual data wrangling behind the scenes — exactly what we streamline. We're taking on a few first projects on favourable terms to build our track record. Would 20 minutes be worth it to see if it fits?
+> CEPF sits across a busy forest agenda (LULUCF, deforestation, biodiversity) with a lean team, so I'd imagine a lot of hours go into tracking it all and briefing members. Much of that can run semi-automatically. I'm building my portfolio with a few first projects, so terms are favourable. Worth 20 minutes to hear how you handle it today?
+>
+> Best, Alberto Mariscal
+> *(quick overview: [landing personal])*
+
+### 3 · CELCAA (Pascale Rouhier, SG) — LinkedIn — MARCA OPTIMICE — enviar landing Optimice
+> Hi Pascale,
+>
+> I'm reaching out from Optimice — we help small Brussels associations run leaner by automating the repetitive parts: member CRM and communications, policy monitoring, reporting. (I'm Alberto Mariscal, the founder; before this I built the data function for a company in the Iberdrola group.)
+>
+> With a small secretariat covering a broad agri-food trade agenda, I'd imagine a lot of hours go into watching policy and keeping members updated — and much of that can run semi-automatically. We're taking on a few first projects on favourable terms to build our track record. Would a short call be worth 20 minutes?
 >
 > Best, Alberto — Optimice
 > *([landing Optimice])*
 
-### 4 · CELCAA (Pascale Rouhier, SG) — LinkedIn — MARCA OPTIMICE — enviar landing Optimice
-> Hi Pascale,
+### 4 · Euromontana (Director — verificar, poss. Guillaume Corradino) — LinkedIn — MARCA OPTIMICE — enviar landing Optimice
+> Hi [name],
 >
-> I'm from Optimice — we help Brussels associations run leaner by automating the repetitive parts: member CRM and communications, policy monitoring, and reporting. (I'm Alberto Mariscal, the founder; I built the data function for a company in the Iberdrola group before this.)
+> I'm from Optimice — we help small Brussels associations cut the manual work behind the day-to-day: member CRM and communications, policy monitoring, and the reporting that EU-funded projects demand. (I'm Alberto Mariscal, the founder — I built the data function for a company in the Iberdrola group before this.)
 >
-> With a small secretariat covering a broad agri-food trade agenda, I'd imagine a lot of hours go into watching policy and keeping members updated — and much of that can run semi-automatically. We're doing a few first projects on favourable terms to build our portfolio. Would a short call be worth 20 minutes of your time?
+> Euromontana covers a broad, multisectoral agenda for mountain regions with a small team, plus project admin on top — exactly the kind of load that can be semi-automated. We're doing a few first projects on favourable terms to build our portfolio. Would 20 minutes be worth it to see if it fits?
 >
 > Best, Alberto — Optimice
 > *([landing Optimice])*
