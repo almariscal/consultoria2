@@ -52,12 +52,12 @@ Contacto distinto de las gestorías: no es canal indirecto, es reconexión con u
 >
 > Since then I've been working in digitalisation and automation — helping companies cut manual work and make better decisions using data, process optimisation and AI. Most recently I set up the entire data function for an energy company from scratch, and I've just started my own consultancy doing that kind of work for smaller companies.
 >
-> I'd genuinely like to reconnect and hear what you're up to these days. Would you be open to a short call over the next couple of weeks? No agenda beyond catching up — though running turn-key testing projects sounds like exactly the kind of moving-parts operation I love geeking out about.
+> I'll be honest: I'm building up my portfolio with a handful of first projects right now, and I have a strong feeling there's real value I could bring to an operation like yours. I'd love to reconnect, hear what you're up to, and see whether it's worth exploring together. Would you be open to a short call over the next couple of weeks?
 >
 > Best,
 > Alberto
 
-**Decisión sobre la landing (2026-07-15):** NO enviar la landing (`almariscal.github.io/almariscal-web/`) en el primer mensaje — contradice el "sin agenda", está en español y enfocada a pymes generalistas (desalineada con Georg, alemán, testing automoción, conversación en inglés). La reu es el pitch. Si responde con interés, entonces sí pasarla con una línea de encuadre en inglés. `almariscal.github.io/` (raíz) da 404, no hay segunda landing.
+**Decisión sobre la landing (2026-07-15):** NO enviar ninguna landing en el primer mensaje — contradice el "sin agenda" y la reu es el pitch. Si responde con interés, entonces sí, con una línea de encuadre en inglés. Hay DOS landings vivas: (a) `almariscal.github.io/almariscal-web/` — personal, español, pyme; (b) `almariscal.github.io/optimice/` — marca "Optimice", español + **versión inglés disponible**, pyme. Para Georg, Optimice/en es mejor candidata (resuelve el idioma). **Pendiente aparte:** tener 2 landings (una personal, una de marca) contradice la decisión del Módulo 5 ("Alberto en nombre propio, sin marca aparte") — revisar en sesión dedicada, no dejar ambas vivas apuntando a estrategias distintas.
 
 **Quickwins como munición para la reu (NO para el DM), adaptados a SGL Automotive Testing (operación llave en mano, no OEM), de más sólido a más especulativo:**
 1. **Visibilidad operativa del proyecto llave en mano** — su producto es coordinar muchas piezas (vehículos, conductores, transportes, vuelos, por cliente). Si vive en Excel+email, un panel de estado compartido y de cara al cliente = alto valor y ayuda a Georg a vender. El más fuerte.
