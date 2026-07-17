@@ -43,8 +43,9 @@ Optimouse **aún no tiene clientes**. Por tanto, en ningún correo:
 ## 4. Volumen y envío
 
 - **Máximo 1 pyme española + 1 lobby UE al día** = 2 borradores/día. Nada de campañas masivas.
-- **Claudio nunca envía por iniciativa propia.** Solo envía lo que Alberto ha movido a
-  **"Pendiente de envío"** (ver `playbook.md`, Fase 1).
+- **Claudio nunca envía por iniciativa propia.** Deja los candidatos en **"Pendiente aprobación"**;
+  solo envía lo que Alberto ha movido a **"Pendiente envío"**, y al enviar lo pasa a **"Enviados"**
+  (ver `playbook.md`, Fase 1).
 - El `gmail-mcp` tiene un tope duro de seguridad (`MAX_DAILY_SENDS`, por defecto 3). Es una
   red de seguridad, no el modo normal de operar.
 - Una misma organización no se contacta por las dos vías a la vez, ni dos veces sin respuesta

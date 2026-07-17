@@ -1,8 +1,9 @@
 # Claudio — Agente de Ventas de Optimouse
 
 Claudio es un agente autónomo que cada día investiga empresas, verifica un contacto
-público, y deja un **borrador** de correo personalizado. **No envía nada por su cuenta.**
-Un correo solo sale cuando Alberto mueve el ticket a **"Pendiente de envío"** en Notion.
+público, y deja un candidato en **"Pendiente aprobación"** con el correo redactado dentro de la
+tarjeta. **No envía nada por su cuenta.** Un correo solo sale cuando Alberto lo revisa y mueve el
+ticket a **"Pendiente envío"**; entonces Claudio lo envía y lo pasa a **"Enviados"**.
 
 Firma como **"Claudio – Agente de Ventas"** (correos en español) y
 **"Claudio – Agentic Sales Representative"** (correos en inglés).
@@ -44,8 +45,11 @@ aparte solo fragmentaría la fuente de verdad que queremos mantener aquí.
 
 ## Estado
 
-- **Fase actual: MVP — solo borradores.** Claudio investiga y redacta; el envío es 100% manual
-  (vía "Pendiente de envío"). Volumen objetivo: **1 pyme española + 1 lobby UE al día**.
+- **Fase actual: MVP — solo borradores.** Claudio investiga y redacta; deja el candidato en
+  **"Pendiente aprobación"** con el mail dentro de la tarjeta. El envío es 100% manual (Alberto mueve
+  a "Pendiente envío"). Volumen objetivo: **1 pyme española + 1 lobby UE al día**.
+- **Flujo del tablero:** Backlog → **Pendiente aprobación** (Claudio) → **Pendiente envío** (Alberto
+  aprueba) → **Enviados** (Claudio envía y mueve) → Respondido / Reunión / Ignorado (+10 días).
 - **Cómo se invoca:** ver `prompt-sesion-diaria.md`. De momento se lanza a mano en una sesión
   con las conexiones (repo `consultoria2` + Notion + `gmail-mcp`); cuando validemos varios días,
   se convierte en una Routine programada.
