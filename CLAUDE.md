@@ -42,7 +42,17 @@ canvas/                   → el Positioning Canvas final (una página, se relle
 materia-prima/            → evidencia extraída del CV/wiki de Alberto: logros, cifras, casos demostrables
 contenido-linkedin/       → estrategia de contenido, calendario, borradores de posts, y fuentes/ (material bruto de una búsqueda diaria automática, ver más abajo)
 seguimiento/              → registro de sesiones/decisiones, roadmap de ejecución, prospectos y aprendizajes de venta, métricas de LinkedIn
+agente-ventas-claudio/    → cerebro del agente autónomo de ventas "Claudio" (marca Optimouse): playbook, tono, ICP, guardarraíles, plantillas y el prompt de la sesión diaria (ver más abajo)
 ```
+
+## Agente autónomo de ventas "Claudio" (desde 2026-07-17)
+
+Bajo la marca **Optimouse** (la vía anónima, no la marca personal de Alberto) opera **Claudio**, un agente que a diario investiga empresas, verifica un contacto público y deja **borradores** de correo personalizados. Su documentación vive en `agente-ventas-claudio/` (este repo es el cerebro; las "manos" son el `gmail-mcp` de `almariscal/mcp-servers`; el CRM es un tablero de Notion).
+
+- **MVP: solo borradores.** Claudio nunca envía por iniciativa propia. Un correo solo sale cuando Alberto mueve el ticket de Notion al estado **"Pendiente de envío"**; Claudio lee entonces los comentarios del ticket, ajusta y envía.
+- **Dos vías, 1 borrador de cada al día**: pymes españolas (ES) y lobbys/organizaciones europeas vía el Registro de Transparencia de la UE (EN).
+- **Reglas no negociables** (`agente-ventas-claudio/guardrails.md`): contacto verificado o no se escribe (jamás emails inventados); cero evidencia fabricada (misma línea roja del repo); GDPR/LSSI en cada correo.
+- Claudio, igual que la Routine de fuentes de contenido, **solo toca su territorio** (la base Prospectos de Notion y los borradores de Gmail): nunca el canvas, los módulos, materia-prima ni el resto de seguimiento.
 
 ## Próximo paso pendiente al abrir este repo
 
