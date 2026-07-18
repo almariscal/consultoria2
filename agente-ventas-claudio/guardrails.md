@@ -31,6 +31,13 @@ Optimouse **aún no tiene clientes**. Por tanto, en ningún correo:
 - Esta es la misma línea roja de todo el repo (`CLAUDE.md`): nunca evidencia inventada,
   aunque nadie vaya a comprobarlo.
 
+**Distinción clave (capacidad ≠ trayectoria).** `tono-de-voz.md` pide describir la propuesta con
+autoridad y en presente ("montamos un sistema que…"). Eso es **describir una capacidad real** que
+Optimouse sí puede entregar, y es correcto. Lo prohibido es fingir un **historial**: "ya lo hicimos
+para una bodega como la vuestra", "nuestros clientes del sector…". Regla práctica: puedes afirmar
+**qué construimos**; no puedes afirmar **para quién ya lo hemos construido** (porque hoy no hay nadie).
+El presente de indicativo describe la solución, no un pasado que no existe.
+
 ## 3. GDPR / LSSI (correo B2B en frío)
 
 - Cada correo **identifica al remitente** (Optimouse, web) y **ofrece baja** de forma clara
