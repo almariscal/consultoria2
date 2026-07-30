@@ -1,8 +1,8 @@
-# Post — No ganará el que tenga la mejor app, sino el que te deje conectarla
+# Post — Cada vez más clientes van a querer sus datos fuera, y las empresas tendrán que adaptarse
 
 **Estado:** Listo para publicar
 **Fecha prevista:** jueves 2026-08-06 (el martes 04/08 va el post de "cada departamento con su propio reporting")
-**Línea de contenido:** Caso/evidencia real + reflexión. Segunda parte natural del post del DNI (23/07): si cualquiera puede construirse su herramienta, los proveedores de servicios (banca, seguros, gestorías, software de gestión) dejan de competir por su interfaz y pasan a competir por cuántas conexiones hacia fuera te permiten. Doble lectura: reclutador (Head of Data) lee criterio de arquitectura e integración; dueño de pyme lee un criterio de compra para su próximo proveedor. No es pitch de venta.
+**Línea de contenido:** Caso/evidencia real + reflexión. Segunda parte natural del post del DNI (23/07): si cualquiera puede construirse su herramienta con IA, cada vez más clientes van a querer sus datos fuera para hacerlo, y las empresas que los guardan tendrán que adaptarse y permitir cada vez más extracción. El foco es esa **tendencia de demanda**, no un sector concreto (no es un post sobre banca; Revolut es solo el ejemplo verificable). Doble lectura: reclutador (Head of Data) lee criterio de arquitectura e integración; dueño de pyme lee un criterio de compra para su próximo proveedor. No es pitch de venta.
 **Imágenes:** `frase.png` — tarjeta-cita sobre fondo azul noche, siguiendo `contenido-linkedin/guia-estilo-visual.md`.
 **Proyecto referenciado:** `almariscal/seguimiento_economico` — herramienta local para unificar inversiones repartidas en varias plataformas. **Repositorio privado: no se enlaza** (contiene la estructura de sus finanzas personales). A diferencia del post del DNI, aquí no hay enlace en comentarios; el post se sostiene solo con la historia.
 **Privacidad (decisión de Alberto, 30/07):** no se dan detalles de las plataformas concretas que usa — ni nombres, ni cuántas, ni el desglose por tipo. Se habla de "varias plataformas" y de "cada entidad", sin más. Mantener esta regla en futuras versiones del post.
@@ -24,7 +24,7 @@ Con una excepción: hace unas semanas Revolut conectó su plataforma de cripto a
 
 Lo relevante no es el trading con IA. Es la decisión de fondo: Revolut ha aceptado que su app deje de ser el único sitio desde el que se usan sus datos.
 
-Y creo que ahí está la siguiente competición. Si hoy cualquiera se monta en una tarde la herramienta que necesita, tu banco, tu aseguradora o tu gestoría ya no ganan por tener la mejor pantalla. Ganan por dejarte conectar lo que guardan con todo lo demás.
+Y creo que ahí está lo que viene. Si hoy cualquiera se monta en una tarde la herramienta que necesita, cada vez más clientes van a querer sus datos fuera: para cruzarlos con otros, para automatizar algo, para poder preguntarle a un asistente. Y las empresas que los guardan van a tener que adaptarse y dejar salir cada vez más.
 
 Y esto no va de cripto, va de tu empresa. Piensa en el ERP, el CRM, el TPV, el programa de la gestoría. ¿Cuántos te dejan sacar tus datos sin que alguien los copie a mano en un Excel el último viernes de mes? Ese trabajo manual es un impuesto que pagas todos los meses y no aparece en ninguna factura.
 
