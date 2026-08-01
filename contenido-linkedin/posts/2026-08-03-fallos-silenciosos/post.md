@@ -1,29 +1,28 @@
-# Post — Un fallo puede estar cinco años dentro sin dar un solo error
+# Post — Cómo validar algo que siempre parece correcto
 
 **Estado:** Listo para publicar
 **Fecha prevista:** lunes 2026-08-03
-**Línea de contenido:** **Actualidad comentada**, en formato **didáctico** (ver `estrategia-contenido.md`). El caso Coldcard se usa para enseñar un concepto —*funcionar y estar bien no son lo mismo*— y termina en tres comprobaciones que el lector puede hacer esta semana. Doble lectura: reclutador lee criterio de observabilidad y calidad de dato; dueño de pyme se lleva una lista accionable. No es pitch de venta.
-**Imágenes:** `frase.png` — **fondo claro** (primera vez; hasta ahora todas las tarjetas eran azul noche) con las tres comprobaciones numeradas. Es una tarjeta pensada para **guardarse**, no para citarse: en LinkedIn el guardado pesa mucho y una lista aplicable se guarda; una frase bonita no.
+**Línea de contenido:** **Actualidad comentada**, en formato **didáctico** (ver `estrategia-contenido.md`). El caso Coldcard es el arranque, pero el cuerpo del post es **cómo se valida y se corrige la IA**. Doble lectura: reclutador lee criterio serio de evaluación y observabilidad de modelos (competencia directa de Head of Data); dueño de pyme se lleva un método aplicable. No es pitch de venta.
+**Imágenes:** `frase.png` — fondo claro, cuatro pasos de validación numerados. Tarjeta pensada para **guardarse**.
 
-## Tercera reescritura tras feedback de Alberto (2026-08-01)
+## Cuarta versión: el giro a IA (feedback de Alberto, 2026-08-01)
 
-Alberto: *"no me gusta ni la imagen y el post demasiado artificial, quiero que sea más educativo y didáctico pero que el algoritmo lo premie"*. Qué se ha cambiado y por qué:
+Alberto: *"floja la reflexión, igual mejor enlazarlo con la IA, y cómo se valida y corrige"*. Tenía razón y el giro mejora el post entero:
 
-- **El problema era el registro, no el contenido.** La versión anterior estaba escrita como ensayo: analogía de apertura literaria ("Imagínate una caja fuerte…"), giros retóricos de transición ("Y aquí es donde esto deja de ir de bitcoin", "la parte que me interesa"), párrafos en tríada simétrica. Todo eso se lee como texto *construido para producir un efecto*, que es exactamente la sensación de artificial. **Ahora el post explica en vez de sugerir**: dice lo que pasó, por qué nadie lo vio, y qué hacer.
-- **Estructura con secciones cortas** ("Qué pasó", "Por qué nadie lo vio", "Dónde tienes tú lo mismo", "Tres comprobaciones"). Es escaneable, sostiene la lectura hasta el final y da un cierre accionable.
-- **Lo que hace que el algoritmo lo premie no es un truco, es la utilidad**: las tres comprobaciones son guardables y la pregunta final ("¿cuál de las tres no habéis hecho nunca?") se puede responder en tres palabras, que es lo que genera comentarios. El gancho va en las **dos primeras líneas**, antes del corte de "ver más".
-- **La analogía de la caja fuerte se conserva**, pero ya no abre el post: pasa a estar dentro de la explicación técnica, que es donde hace falta.
-- **Nota para Alberto**: en el punto 3 me he quedado corto a propósito. Si tu experiencia lo sostiene —y creo que sí, montando funciones de datos desde cero—, la frase natural sería *"es la que más veces me he encontrado"*. No la he puesto porque no me consta por escrito; si es cierta, dila tú, que gana mucho.
+- **El puente es real, no forzado**, y esto es lo que lo sostiene: el fallo de Coldcard **no producía errores, producía resultados plausibles**. Llaves que parecían aleatorias, funcionaban y restauraban bien. Ese es, exactamente, el modo de fallo de un modelo de lenguaje: no devuelve un error, devuelve una respuesta bien escrita y segura. Una cifra inventada tiene el mismo aspecto que una buena. **No hay pantalla roja en ninguno de los dos casos.**
+- **La reflexión anterior era floja porque era genérica** ("revisa tus copias, recalcula tus números"). Servía para cualquiera y no usaba nada de lo que Alberto sabe. El cuerpo ahora es evaluación de modelos, que es terreno suyo: medir contra verdad conocida, volver a medir por deriva del proveedor, permitir la abstención, y cruzar por una segunda vía.
+- **Se recupera el apunte sobre IA que se había cortado**, ahora sí con función: cierra el círculo (la IA es lo que hay que validar y a la vez lo que está encontrando fallos latentes de años). Sigue **etiquetado como hipótesis**, porque no está confirmado.
+- **Punto 2, el que más se salta la gente**: el proveedor actualiza el modelo por debajo y nadie avisa. Mismo prompt, mismo proceso, resultados distintos. Es un fallo silencioso idéntico al de Coldcard, y por eso encaja tan bien con el arranque.
 
 ## Hechos verificados (2026-08-01)
 
 Fuente primaria: [aviso de seguridad de Coinkite](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/) y su [análisis técnico](https://blog.coinkite.com/entropy-technical-backgrounder/).
 
-- **Qué falló**: el generador de números aleatorios de las carteras físicas COLDCARD no era lo bastante aleatorio al crear la semilla. Coinkite estima ~72 bits de entropía efectiva en Mk4/Mk5/Q frente a los 128 que debería tener una semilla BIP-39 de 12 palabras; peor en Mk2/Mk3.
+- **Qué falló**: el generador de números aleatorios de las carteras físicas COLDCARD no era lo bastante aleatorio al crear la semilla (~72 bits de entropía efectiva en Mk4/Mk5/Q frente a los 128 de una semilla BIP-39 de 12 palabras; peor en Mk2/Mk3).
 - **Desde cuándo**: firmware posterior a marzo de 2021 — unos cinco años.
-- **El robo**: 30 de julio, 01:10–01:51 UTC (41 minutos), empezando por las carteras mayores.
-- **Cifra**: se movió en dos días, de ~594 BTC (~38 M$) a [~1.158 BTC (~75 M$) según Galaxy Research](https://www.cryptotimes.io/2026/08/01/coldcard-hack-hits-75m-after-alleged-second-attack-wave-galaxy-research/) tras una segunda oleada. **En el post se usa "unos 70 millones", conservadora. Revisar el lunes antes de publicar.**
-- **Estado**: los fondos siguen sin moverse. Coinkite publicó firmware corregido el 31/07.
+- **El robo**: 30 de julio, 01:10–01:51 UTC (41 minutos).
+- **Cifra**: se movió de ~594 BTC (~38 M$) a [~1.158 BTC (~75 M$) según Galaxy Research](https://www.cryptotimes.io/2026/08/01/coldcard-hack-hits-75m-after-alleged-second-attack-wave-galaxy-research/) tras una segunda oleada. **Se usa "unos 70 millones". Revisar el lunes antes de publicar.**
+- **Hipótesis, no hecho**: NVK, cofundador de Coldcard, apunta a que la revisión de código asistida por IA encuentra fallos latentes más rápido que los expertos humanos. [Bitcoin Magazine](https://bitcoinmagazine.com/business/coinkite-releases-fixed-firmware-after-coldcard-bug-ai-likely-involved-in-the-hack) lo recoge como creencia del sector. **Va etiquetado como tal en el post.**
 
 ---
 
@@ -31,49 +30,45 @@ Un fallo puede estar cinco años dentro de un sistema sin dar un solo error.
 
 Y luego costar 70 millones de dólares en 41 minutos.
 
-Pasó la semana pasada. Lo explico entero, porque el mecanismo no es de bitcoin: lo tienes tú también.
+Pasó la semana pasada, y creo que es la mejor forma de explicar el problema que tenemos ahora mismo con la IA.
 
 **Qué pasó**
 
-Hay unos aparatos, del tamaño de una calculadora, que sirven para guardar la llave de tus bitcoins sin conectarse a internet. Son de lo más seguro que existe, y por eso los usa quien tiene cantidades serias.
+Los aparatos que guardan la llave de tus bitcoins tienen que elegir, al crearla, un número al azar enorme, imposible de adivinar probando.
 
-Para crear tu llave, el aparato tiene que elegir un número al azar. Enorme. Tan grande que nadie pueda adivinarlo probando.
+Desde 2021 no lo elegían tan al azar como debían: escogían entre muchísimas menos posibilidades de las prometidas. Alguien se dio cuenta, generó todas esas posibilidades y fue abriendo. 41 minutos, unos 70 millones.
 
-Ahí estaba el fallo: desde 2021 no elegía tan al azar como creía. Escogía entre muchísimas menos posibilidades de las prometidas. Como una caja fuerte que por fuera es idéntica a las demás pero por dentro solo tiene unos cientos de combinaciones.
+**El detalle que importa**
 
-Alguien lo descubrió, generó todas esas combinaciones y fue abriendo. 41 minutos, unos 70 millones.
+El aparato nunca dio un resultado erróneo.
 
-**Por qué nadie lo vio antes**
+Daba resultados perfectamente plausibles: llaves que parecían aleatorias, que funcionaban, que guardaban y devolvían el dinero. Cinco años así. Si lo revisabas, no veías nada, porque no había nada que ver.
 
-Esta es la parte que merece la pena aprenderse.
+Ese es el fallo más caro que existe: el que no produce errores, produce resultados creíbles.
 
-Durante cinco años, el aparato funcionó. Se encendía, guardaba, devolvía el dinero cuando tocaba, no dio ni un error. Podías revisarlo cada mañana y no habrías visto nada, porque no había nada que ver.
+**Y esto es exactamente la IA**
 
-Funcionar y estar bien no son lo mismo.
+Un modelo no te devuelve un error cuando se equivoca. Te devuelve una respuesta bien escrita, segura y con el formato correcto. Una cifra inventada tiene el mismo aspecto que una cifra buena. No hay pantalla roja.
 
-Un sistema roto que además falla es el caso fácil: te avisa. El problema es el sistema roto que funciona, porque entonces el silencio se interpreta como que todo va bien. Y no es una señal de nada.
+Si tu forma de validar la IA es leer lo que sale y ver si suena bien, no estás validando: estás midiendo lo plausible que es. Que es justo lo que el modelo está optimizando.
 
-**Dónde tienes tú exactamente lo mismo**
+**Cómo se valida de verdad**
 
-Un informe que suma mal desde que alguien tocó una fórmula, y con el que llevas meses decidiendo.
+1. Contra la fuente, no contra tu criterio. Coge 50 casos reales, resuélvelos a mano y compara. Ahora tienes una tasa de acierto. Antes tenías una sensación.
 
-Una copia de seguridad que se hace cada noche sin fallar y que nadie ha restaurado nunca.
+2. Vuelve a medirlo cada cierto tiempo. Esto se lo salta casi todo el mundo: el proveedor actualiza el modelo por debajo y nadie te avisa. Mismo prompt, mismo proceso, resultados distintos. Lo que iba al 95% en marzo puede ir al 80% en julio sin que hayas tocado nada.
 
-Un proceso automático que dejó de ejecutarse en marzo. Cuando funcionaba no mandaba correos; cuando dejó de hacerlo, tampoco.
+3. Deja que pueda decir "no lo sé". Si la única salida posible es una respuesta, siempre habrá respuesta, también cuando no la hay. Un sistema que puede parar y pasarle el caso a una persona se equivoca muchísimo menos que uno obligado a contestar.
 
-Ninguno da error. Por eso siguen ahí.
+4. Cruza por otro camino. Si el número importa, sácalo también por una vía distinta. Si las dos coinciden, te lo crees. Si no, acabas de encontrar algo.
 
-**Tres comprobaciones para esta semana**
+**Un apunte para terminar**
 
-1. Restaura una copia de verdad. Que se haga no significa nada. Coge la de anoche, recupera un fichero en otro sitio y ábrelo. Hasta que no has recuperado algo, no tienes una copia: tienes un proceso que dice que sí.
+Sobre cómo se descubrió el fallo de esas carteras no hay confirmación, pero el cofundador de la empresa apunta a algo que ya se está viendo en el sector: la revisión de código con IA encuentra fallos latentes más rápido que los mejores expertos humanos.
 
-2. Recalcula a mano tu número más importante. Ese con el que decides cada mes. Sácalo otra vez desde el origen y por otro camino. Si no cuadra, ya has encontrado uno.
+Así que la IA es las dos cosas a la vez. Lo que más cuidado hay que tener en validar, y lo que mejor está encontrando lo que llevaba años sin que nadie lo validara.
 
-3. Haz que te avise el silencio. Casi todas las alertas saltan cuando algo falla. Casi ninguna salta cuando algo deja de ocurrir. Si tienes un proceso que debe ejecutarse cada lunes, lo que necesitas es un aviso el lunes que no se ejecute.
-
-La tercera es la más barata de montar y la que casi nadie tiene puesta.
-
-¿Cuál de las tres no habéis hecho nunca?
+¿Cómo estáis comprobando hoy que lo que os devuelve la IA es correcto?
 
 ---
 
