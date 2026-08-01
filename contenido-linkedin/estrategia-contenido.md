@@ -22,6 +22,13 @@ Por tanto: **un único perfil de LinkedIn**, con esta regla de contenido:
 - **Caso real**: qué problema tenía [empresa/situación], qué hizo Alberto, qué cambió (usar `materia-prima/evidencia-experiencia.md`, traducido a lenguaje pyme, sin tecnicismos innecesarios).
 - **Detrás del dato**: explicar en lenguaje llano un concepto (qué es un datalake, por qué "automatizar con Jira/Notion" no es magia, etc.) — construye autoridad sin vender directamente.
 - **Diagnóstico en público**: compartir (de forma anónima/generalizada) el propio proceso de definir el problema/oferta de la consultora — meta, pero coherente con "esto no es teoría, lo estoy haciendo".
+- **Actualidad comentada** (línea añadida el 2026-08-01, a petición de Alberto): coger una noticia real de tecnología/IA y traducirla a lo que significa para una pyme. Es la única línea que **no** se apoya en evidencia propia de Alberto, así que tiene reglas extra para no chocar con la regla de fondo del repo:
+  - **Los hechos se verifican contra la fuente primaria** (el aviso de la empresa, la nota oficial, la transcripción), no contra titulares de medios. Los enlaces se dejan escritos en la cabecera del `post.md`.
+  - **Lo que es hipótesis se etiqueta como hipótesis** dentro del propio post, no se cuela como hecho.
+  - **Sin cifras no confirmadas**: si un precio o una cantidad es especulación de analistas, no entra (o entra dicho como lo que es).
+  - **Alberto no se atribuye implicación en el caso**: comenta una noticia pública, no se pone como afectado ni como usuario de un producto que no sabemos que use.
+  - **Caducan**: un post de actualidad vale para esa semana. Si se cae del calendario, se revisa o se tira — no se publica un mes después con datos viejos.
+  - **La noticia es la excusa, no el tema**: el post tiene que aterrizar en algo que un dueño de pyme pueda hacer o decidir. Si no aterriza, no es un post nuestro, es un recorte de prensa.
 
 ## Cadencia
 
@@ -30,6 +37,8 @@ Publicación: martes, miércoles y jueves, a partir de septiembre 2026 (Módulo 
 **Hora recomendada: 8:00-9:00 (hora de Madrid).** Es cuando más se revisa LinkedIn antes de empezar el día — válido tanto para dueños de pyme como para reclutadores (la otra audiencia del mismo perfil). Es una recomendación estándar, no basada en datos propios todavía — se ajusta en cuanto haya unas semanas de métricas reales de Alberto.
 
 **Semana de prueba (14-18 julio 2026):** solo martes y jueves, sin miércoles, para tener una primera muestra de datos antes de decidir si se amplía a los 3 días — ver resultados en `contenido-linkedin/calendario.md` (Inventario) y decisión la semana siguiente.
+
+**Semana del 3 de agosto de 2026 — cuatro posts (aviso abierto).** Con los dos posts de actualidad encargados el 01/08, la semana queda en lunes, martes, miércoles y jueves. Es un salto de 2 a 4 publicaciones **sin tener todavía ni una sola métrica** de los dos ya publicados. Riesgos concretos: (1) se compite consigo mismo por el alcance, y con cuatro posts sin datos no se podrá saber qué funcionó; (2) el propio documento marca como riesgo que el volumen empiece a leerse como "está montando su negocio", justo lo que hay que evitar hasta febrero de 2027. **Recomendación de Raúl**: mover el post de departamentos (`posts/2026-07-16-herramientas-desconectadas/`, atemporal, no caduca) a la semana siguiente y dejar lunes-miércoles-jueves. Decisión de Alberto, pendiente — si decide mantener los cuatro, se mantiene y se anota el resultado.
 
 ## Fuente de material: búsqueda automática diaria (activa desde 2026-07-12)
 
