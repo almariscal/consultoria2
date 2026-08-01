@@ -33,6 +33,18 @@ Por tanto: **un único perfil de LinkedIn**, con esta regla de contenido:
   - **El puente tiene que ser verdad, no sonar bien** (misma sesión): al traducir una noticia a la realidad de una pyme, comprobar que el paralelismo se sostiene de verdad. Se descartó una versión que equiparaba un robo de criptomonedas con "a tu Excel no te mandan un aviso de seguridad": a una pyme no le van a robar el Excel, así que la analogía era falsa y hacía inverosímil el post entero. Lo transferible era el **silencio** (algo roto durante años sin dar un error), no la amenaza. Si el paralelismo solo funciona como frase, se tira.
   - **Una idea por post**: en un post de actualidad que ya tiene que explicar la noticia, no caben dos tesis. Lo que sobre se guarda como post propio.
 
+## Formato didáctico (decidido 2026-08-01)
+
+Alberto pide contenido **más educativo y didáctico, pero que el algoritmo premie**. No son dos objetivos en conflicto: en LinkedIn lo que más pesa es que la gente **guarde** el post y **comente**, y eso lo consigue la utilidad, no el truco. El formato que se adopta:
+
+- **Gancho en las dos primeras líneas.** Es lo único que se ve antes del corte de "ver más". Va el dato más fuerte, en frases cortas, sin preámbulo.
+- **Secciones cortas con titulillo** ("Qué pasó", "Por qué nadie lo vio", "Qué puedes hacer"). Escanear es lo que hace la gente en el móvil; si el post se puede escanear, se lee entero, y el tiempo de lectura es señal para el algoritmo.
+- **Termina en algo aplicable**, mejor si es una lista corta y numerada. Una lista de tres comprobaciones se guarda; una reflexión bonita no.
+- **La pregunta final tiene que poder responderse en tres palabras.** "¿Cuál de las tres no habéis hecho nunca?" genera comentarios; "¿qué opináis?" no genera ninguno.
+- **La imagen acompaña al formato**: si el post enseña algo, la tarjeta lleva el resumen guardable (la lista, el esquema), no una frase para citar. Y se alterna fondo oscuro / fondo claro para que el perfil no parezca una sola plantilla repetida.
+
+**Registro de tono a evitar** (el error que hubo que corregir en el post del 03/08): escribir como ensayo en vez de como clase. Analogía literaria de apertura, giros retóricos de transición ("y aquí es donde…", "la parte que me interesa…"), párrafos en tríada simétrica. Se lee como texto construido para producir un efecto y suena artificial. **Explicar, no sugerir.**
+
 ## Cadencia
 
 Publicación: martes, miércoles y jueves, a partir de septiembre 2026 (Módulo 6, `03-gtm/modulo-6-canal.md`).
