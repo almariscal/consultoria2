@@ -29,6 +29,9 @@ Por tanto: **un único perfil de LinkedIn**, con esta regla de contenido:
   - **Alberto no se atribuye implicación en el caso**: comenta una noticia pública, no se pone como afectado ni como usuario de un producto que no sabemos que use.
   - **Caducan**: un post de actualidad vale para esa semana. Si se cae del calendario, se revisa o se tira — no se publica un mes después con datos viejos.
   - **La noticia es la excusa, no el tema**: el post tiene que aterrizar en algo que un dueño de pyme pueda hacer o decidir. Si no aterriza, no es un post nuestro, es un recorte de prensa.
+  - **Mascado desde la primera línea** (regla de Alberto, 01/08): si la noticia viene de un mundo que el lector no pisa (cripto, infraestructura, seguridad), el post arranca con una **analogía cotidiana** y no usa ni una palabra técnica sin haberla explicado antes. Nada de dar por sabido qué es una cartera física, un modelo, un token o una API. Quien lee es un dueño de pyme, no alguien del sector.
+  - **El puente tiene que ser verdad, no sonar bien** (misma sesión): al traducir una noticia a la realidad de una pyme, comprobar que el paralelismo se sostiene de verdad. Se descartó una versión que equiparaba un robo de criptomonedas con "a tu Excel no te mandan un aviso de seguridad": a una pyme no le van a robar el Excel, así que la analogía era falsa y hacía inverosímil el post entero. Lo transferible era el **silencio** (algo roto durante años sin dar un error), no la amenaza. Si el paralelismo solo funciona como frase, se tira.
+  - **Una idea por post**: en un post de actualidad que ya tiene que explicar la noticia, no caben dos tesis. Lo que sobre se guarda como post propio.
 
 ## Cadencia
 
