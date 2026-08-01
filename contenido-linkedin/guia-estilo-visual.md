@@ -46,6 +46,21 @@ Colores que transmiten confianza y tecnología, sin caer en lo genérico-corpora
 
 **HTML/CSS renderizado con Chromium headless (Playwright), capturado a PNG.** Es gratuito y ya integrado en el flujo de trabajo. Se probó generación vía API de Google (Nano Banana / Nano Banana Pro / Nano Banana 2 / Imagen 4) y **se descartó**: todos esos modelos tienen cuota gratuita de 0 peticiones — requieren facturación activada en Google Cloud, con coste real por imagen. Mermaid se integra con el mismo mecanismo (se carga la librería vía CDN dentro del HTML y se captura igual), así que no hace falta una herramienta nueva.
 
+## Cómo se escribe el titular de una tarjeta (regla añadida 2026-08-01)
+
+Feedback real de Alberto sobre un borrador (*"El fallo llevaba cinco años ahí. Y el aparato funcionaba perfectamente"*): **sonaba a IA**. El diagnóstico, para no repetirlo:
+
+- **La antítesis simétrica de dos tiempos es el tic delatador.** "No es X. Es Y." / "A no pasó. Y B sí." Escrita una vez tiene fuerza; usada en todas las tarjetas, se reconoce como plantilla de modelo de lenguaje. Se puede usar, pero no siempre.
+- **Sujeto abstracto = ninguna imagen mental.** "El fallo", "el aparato", "el software" no le pasan a nadie. "Tu Excel", "la copia que nunca has restaurado", "lo que hoy automatizas" sí.
+- **Regla de reparto**: el **titular habla de la realidad del lector**; el **caso de la noticia va en la bajada**, como prueba de lo que afirma el titular. No al revés. Si la tarjeta se lee sola en el feed, quien pasa tiene que reconocerse en ella antes de saber de qué noticia va.
+- **Prueba rápida**: si el titular podría ir en la tarjeta de cualquier otra persona del sector sin cambiar una palabra, no sirve. Tiene que oler a alguien que se ha peleado con eso.
+
+## Tira de datos (elemento nuevo, 2026-08-01)
+
+Bajo la bajada, separada por una línea fina, una fila de 2-3 pares **cifra + etiqueta** (cifra en azul de acento peso 800; etiqueta en gris, mayúsculas pequeñas con tracking). Ejemplo: `5 AÑOS oculto · 41 MIN de robo · ~70 M$ en bitcoin`.
+
+Para qué sirve: ancla la tarjeta en hechos verificables y da variedad visual sin romper la sobriedad. **Solo con cifras reales y contrastadas** — es la misma línea roja de siempre. Si no hay dato que poner, la tarjeta va sin tira, no se rellena por rellenar.
+
 ## Qué evitar (para no parecer genérico o "hecho con IA sin criterio")
 
 - Nada de iconos de banco de imágenes ni ilustraciones tipo clipart.

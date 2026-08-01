@@ -3,7 +3,7 @@
 **Estado:** Listo para publicar
 **Fecha prevista:** lunes 2026-08-03
 **Línea de contenido:** **Actualidad comentada** (línea nueva, ver `estrategia-contenido.md`). No es un post de cripto ni de seguridad informática: el caso Coldcard es la excusa para hablar de **fallos silenciosos** — los que no dan señal porque el sistema sigue funcionando. Doble lectura: reclutador lee criterio de riesgo y juicio de ingeniería; dueño de pyme se lleva una acción concreta (probar una restauración). No es pitch de venta.
-**Imágenes:** `frase.png` — tarjeta-cita azul noche, siguiendo `contenido-linkedin/guia-estilo-visual.md`.
+**Imágenes:** `frase.png` — *"Nadie te va a mandar un aviso de seguridad por **tu Excel**"*, con una tira de datos reales debajo (5 años oculto · 41 min de robo · ~70 M$). Segunda versión: la primera (*"El fallo llevaba cinco años ahí y el aparato funcionaba perfectamente"*) se descartó porque sonaba a frase generada por IA — antítesis simétrica, sujeto abstracto y ninguna conexión con el mundo del lector. La regla que sale de ahí, aplicable a todas las tarjetas: **el titular habla de la realidad del lector (su Excel, su copia, su proceso), y el caso de la noticia va en la bajada como prueba.**
 **Aviso de encuadre:** Alberto **no** aparece como usuario de Coldcard ni de ningún dispositivo concreto — no lo sabemos y no se inventa. El post comenta una noticia pública, sin atribuirse experiencia propia en el caso.
 
 ## Hechos verificados (2026-08-01)

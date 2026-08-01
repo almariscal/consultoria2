@@ -3,7 +3,7 @@
 **Estado:** Listo para publicar
 **Fecha prevista:** miércoles 2026-08-05
 **Línea de contenido:** **Actualidad comentada** (línea nueva, ver `estrategia-contenido.md`). El anuncio de Apple es la excusa para una idea que sí importa a una pyme: la fase de IA gratis o casi gratis se está acabando, y quien haya montado procesos encima tiene que empezar a tratarla como un coste variable. Doble lectura: reclutador lee criterio de coste/arquitectura (on-device vs. nube); dueño de pyme se lleva una cuenta que hacer. No es pitch de venta.
-**Imágenes:** `frase.png` — tarjeta-cita azul noche, siguiendo `contenido-linkedin/guia-estilo-visual.md`.
+**Imágenes:** `frase.png` — *"Lo que hoy automatizas gratis **va a tener tarifa**"*, con tira de datos debajo (en el móvil: gratis · en la nube: con cuota · el precio: sin confirmar). Misma regla que el post del lunes: el titular apunta a lo que el lector ya está haciendo ("automatizas"), no a Apple; Apple va en la bajada como prueba.
 **Relación con el resto:** cierra el arco de las últimas semanas — el post del DNI decía "hoy te montas tu herramienta por ~20 €/mes", el de APIs/MCP decía "y vas a querer tus datos fuera para hacerlo". Este pone la factura encima de la mesa. Coherente, no repetitivo.
 
 ## Hechos verificados (2026-08-01)
