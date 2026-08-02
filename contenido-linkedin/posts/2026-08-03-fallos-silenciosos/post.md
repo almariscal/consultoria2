@@ -2,8 +2,20 @@
 
 **Estado:** Listo para publicar
 **Fecha prevista:** lunes 2026-08-03
-**Línea de contenido:** **Actualidad comentada**, en formato **didáctico** (ver `estrategia-contenido.md`). El caso Coldcard es el arranque, pero el cuerpo del post es **cómo se valida y se corrige la IA**. Doble lectura: reclutador lee criterio serio de evaluación y observabilidad de modelos (competencia directa de Head of Data); dueño de pyme se lleva un método aplicable. No es pitch de venta.
-**Imágenes:** `frase.png` — fondo claro, cuatro pasos de validación numerados. Tarjeta pensada para **guardarse**.
+**Línea de contenido:** **Actualidad comentada**, en formato **didáctico** (ver `estrategia-contenido.md`). El caso Coldcard es el arranque; el cuerpo del post es **cómo desconfiar bien de la IA sin ser técnico**. Doble lectura: el reclutador lee criterio real sobre modos de fallo de los modelos; el dueño de pyme se lleva tres hábitos que puede aplicar el lunes. No es pitch de venta.
+**Imágenes:** `frase.png` — fondo claro. Titular *"La IA no tiene **pantalla roja**"* + los 3 hábitos numerados + tira de datos del caso (5 años oculto · 41 min de robo · ~70 M$) con el pie que dice de dónde salen. Tarjeta pensada para **guardarse**: quien la ve suelta en el feed ya se lleva algo aplicable sin leer el post.
+**Revisión editorial (2026-08-02):** una sola corrección al copy entregado — *"Lo general casi siempre está bien"* → *"Lo general suele estar bien"*. La primera formulación afirmaba más de lo que se puede sostener sobre cómo fallan los modelos, y la regla del repo es no afirmar de más aunque suene mejor.
+
+## Quinta versión: bajar el listón técnico (feedback de Alberto, 2026-08-02)
+
+Alberto: *"lo de cómo validar algo es una chapuza, nadie se siente identificado con eso"*. Correcto. La cuarta versión acababa en una metodología de evaluación de modelos (50 casos etiquetados, tasa de acierto, deriva del proveedor). Un dueño de gestoría no va a montar eso jamás: era lenguaje de ingeniero disfrazado de consejo.
+
+- **El punto de entrada humano no es un método, es una experiencia**: todo el mundo ha visto a una IA afirmar con total seguridad algo falso. Eso pasa a la primera línea del post, y la noticia queda como prueba, no como protagonista.
+- **El cierre son hábitos, no procesos**: ¿me daría cuenta si estuviera mal? / comprobar el dato exacto, no lo general / pedir la fuente y abrirla. Cero herramientas, cero equipo técnico.
+- **Punto de criterio final** (el que construye autoridad sin tecnicismos): desconfiar de una IA que nunca dice "no lo sé", porque el tono no cambia sepa o se lo invente.
+- **Se cortan los titulillos en negrita y los giros retóricos de transición** ("y aquí es donde…", "la parte que me interesa"): son el tic que delata texto generado. El post va en párrafos cortos seguidos.
+- **Se saca del post la hipótesis de la revisión de código con IA.** Añadía un concepto que a la audiencia objetivo no le dice nada y pisaba el cierre. Va como **primer comentario** del post (texto abajo), etiquetada como hipótesis.
+- **Pregunta final cambiada** a una que se contesta en cinco palabras y que invita a contar una anécdota propia, en vez de a confesar que no validas nada.
 
 ## Cuarta versión: el giro a IA (feedback de Alberto, 2026-08-01)
 
@@ -26,49 +38,53 @@ Fuente primaria: [aviso de seguridad de Coinkite](https://blog.coinkite.com/cold
 
 ---
 
-Un fallo puede estar cinco años dentro de un sistema sin dar un solo error.
+Todos hemos preguntado algo a una IA y nos ha contestado, con una seguridad absoluta, algo que era mentira.
 
-Y luego costar 70 millones de dólares en 41 minutos.
+La semana pasada ese mismo tipo de fallo costó 70 millones de dólares en 41 minutos.
 
-Pasó la semana pasada, y creo que es la mejor forma de explicar el problema que tenemos ahora mismo con la IA.
+Te lo cuento sin tecnicismos, porque es la mejor forma que conozco de explicar el problema que tenemos con la IA.
 
-**Qué pasó**
+Existen unos aparatos del tamaño de una calculadora, sin conexión a internet, donde se guarda la llave de tus bitcoins. De lo más seguro que hay.
 
-Los aparatos que guardan la llave de tus bitcoins tienen que elegir, al crearla, un número al azar enorme, imposible de adivinar probando.
+Al crear esa llave, el aparato tiene que elegir un número al azar gigantesco, tan grande que nadie pueda dar con él probando.
 
-Desde 2021 no lo elegían tan al azar como debían: escogían entre muchísimas menos posibilidades de las prometidas. Alguien se dio cuenta, generó todas esas posibilidades y fue abriendo. 41 minutos, unos 70 millones.
+Durante cinco años lo eligió entre muchísimas menos opciones de las que prometía.
 
-**El detalle que importa**
+El 30 de julio alguien generó todas esas opciones, las fue probando y vació las carteras. Entre la 01:10 y la 01:51 de la madrugada. Unos 70 millones de dólares.
 
-El aparato nunca dio un resultado erróneo.
+En esos cinco años el aparato no dio ni un error. Se encendía, guardaba la llave, devolvía el dinero. Si lo revisabas no veías nada raro, porque no había nada raro que ver.
 
-Daba resultados perfectamente plausibles: llaves que parecían aleatorias, que funcionaban, que guardaban y devolvían el dinero. Cinco años así. Si lo revisabas, no veías nada, porque no había nada que ver.
+Los fallos que salen caros son estos: los que no rompen nada y siguen dando resultados creíbles.
 
-Ese es el fallo más caro que existe: el que no produce errores, produce resultados creíbles.
+La IA falla igual.
 
-**Y esto es exactamente la IA**
+Cuando se equivoca no salta una alarma ni una pantalla roja. Sale un párrafo bien escrito, ordenado y seguro de sí mismo. Una cifra inventada tiene exactamente la misma pinta que una cifra buena. Un artículo de una ley que no existe se lee igual que uno que sí.
 
-Un modelo no te devuelve un error cuando se equivoca. Te devuelve una respuesta bien escrita, segura y con el formato correcto. Una cifra inventada tiene el mismo aspecto que una cifra buena. No hay pantalla roja.
+Y si tu manera de comprobarlo es leerlo y ver si suena bien, no estás comprobando nada. Sonar bien es justo lo que mejor se le da.
 
-Si tu forma de validar la IA es leer lo que sale y ver si suena bien, no estás validando: estás midiendo lo plausible que es. Que es justo lo que el modelo está optimizando.
+Tres cosas que puedes hacer el lunes, sin herramientas ni saber nada de tecnología:
 
-**Cómo se valida de verdad**
+1. Antes de usar la respuesta, pregúntate si te darías cuenta en caso de que estuviera mal. Si la respuesta es no, no la uses todavía.
 
-1. Contra la fuente, no contra tu criterio. Coge 50 casos reales, resuélvelos a mano y compara. Ahora tienes una tasa de acierto. Antes tenías una sensación.
+2. Comprueba el dato exacto. Nombres, fechas, importes, plazos, artículos, referencias. Lo general suele estar bien; donde falla es en el detalle.
 
-2. Vuelve a medirlo cada cierto tiempo. Esto se lo salta casi todo el mundo: el proveedor actualiza el modelo por debajo y nadie te avisa. Mismo prompt, mismo proceso, resultados distintos. Lo que iba al 95% en marzo puede ir al 80% en julio sin que hayas tocado nada.
+3. Pídele de dónde lo ha sacado y ábrelo tú. Si no puedes abrir la fuente, lo que tienes es un rumor muy bien redactado.
 
-3. Deja que pueda decir "no lo sé". Si la única salida posible es una respuesta, siempre habrá respuesta, también cuando no la hay. Un sistema que puede parar y pasarle el caso a una persona se equivoca muchísimo menos que uno obligado a contestar.
+Y una de criterio, que vale más que las tres: desconfía de una IA que nunca dice "no lo sé". Cuando una persona duda, se le nota. Aquí el tono es idéntico lo sepa o se lo esté inventando.
 
-4. Cruza por otro camino. Si el número importa, sácalo también por una vía distinta. Si las dos coinciden, te lo crees. Si no, acabas de encontrar algo.
+¿Cuál es la última mentira que os ha colado una IA con total seguridad?
 
-**Un apunte para terminar**
+---
 
-Sobre cómo se descubrió el fallo de esas carteras no hay confirmación, pero el cofundador de la empresa apunta a algo que ya se está viendo en el sector: la revisión de código con IA encuentra fallos latentes más rápido que los mejores expertos humanos.
+## Primer comentario (opcional, se publica junto al post)
 
-Así que la IA es las dos cosas a la vez. Lo que más cuidado hay que tener en validar, y lo que mejor está encontrando lo que llevaba años sin que nadie lo validara.
+> Un apunte que no cabía arriba: no hay confirmación de cómo se descubrió este fallo después de cinco años. El cofundador de la empresa apunta a la revisión de código con IA, que está encontrando cosas enterradas durante años más rápido que los mejores expertos humanos. Es una hipótesis, no un hecho, pero encaja con lo que se está viendo en el sector.
 
-¿Cómo estáis comprobando hoy que lo que os devuelve la IA es correcto?
+## Ganchos alternativos (por si se quiere probar otra apertura)
+
+- *Un fallo puede pasar cinco años dentro de un sistema sin dar un solo error. / Y luego costar 70 millones de dólares en 41 minutos.*
+- *El 30 de julio, entre la 01:10 y la 01:51 de la madrugada, alguien se llevó 70 millones de dólares. / El fallo que se lo permitió llevaba cinco años funcionando de maravilla.*
+- *La IA no te avisa cuando se equivoca: te contesta igual de segura que cuando acierta. / La semana pasada, un fallo con esa misma forma costó 70 millones de dólares en 41 minutos.*
 
 ---
 
