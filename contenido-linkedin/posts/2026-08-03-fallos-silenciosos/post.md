@@ -1,90 +1,83 @@
-# Post — Cómo validar algo que siempre parece correcto
+# Post — Esa nunca fue tu comparación (código hecho a mano vs. código con IA)
 
 **Estado:** Listo para publicar
 **Fecha prevista:** lunes 2026-08-03
-**Línea de contenido:** **Actualidad comentada**, en formato **didáctico** (ver `estrategia-contenido.md`). El caso Coldcard es el arranque; el cuerpo del post es **cómo desconfiar bien de la IA sin ser técnico**. Doble lectura: el reclutador lee criterio real sobre modos de fallo de los modelos; el dueño de pyme se lleva tres hábitos que puede aplicar el lunes. No es pitch de venta.
-**Imágenes:** `frase.png` — fondo claro. Titular *"La IA no tiene **pantalla roja**"* + los 3 hábitos numerados + tira de datos del caso (5 años oculto · 41 min de robo · ~70 M$) con el pie que dice de dónde salen. Tarjeta pensada para **guardarse**: quien la ve suelta en el feed ya se lleva algo aplicable sin leer el post.
-**Revisión editorial (2026-08-02):** una sola corrección al copy entregado — *"Lo general casi siempre está bien"* → *"Lo general suele estar bien"*. La primera formulación afirmaba más de lo que se puede sostener sobre cómo fallan los modelos, y la regla del repo es no afirmar de más aunque suene mejor.
+**Línea de contenido:** **Actualidad comentada** + **opinión con criterio**. Primer post del perfil que defiende una tesis discutible en vez de explicar un concepto. El caso Coldcard es la prueba, no el tema.
+**Imágenes:** `frase.png` — azul noche. Titular con los dos datos del caso + bloque de comparación ("la comparación que todos hacen" vs. "la comparación real"), que es la tesis del post en una imagen.
 
-## Quinta versión: bajar el listón técnico (feedback de Alberto, 2026-08-02)
+## Sexta versión: el giro de Alberto (2026-08-02)
 
-Alberto: *"lo de cómo validar algo es una chapuza, nadie se siente identificado con eso"*. Correcto. La cuarta versión acababa en una metodología de evaluación de modelos (50 casos etiquetados, tasa de acierto, deriva del proveedor). Un dueño de gestoría no va a montar eso jamás: era lenguaje de ingeniero disfrazado de consejo.
+Alberto reenfoca el post entero: *"hace 5 años era impensable que esto lo hiciera una IA y aún hay reticencia a que desarrolle el código, pero creemos que lo que hace la gente a mano es súper bueno y ya el nivel del desarrollo con IA es en muchos casos superior, porque se tiende a contratar barato"*. Encarga un segundo especialista en copywriting.
 
-- **El punto de entrada humano no es un método, es una experiencia**: todo el mundo ha visto a una IA afirmar con total seguridad algo falso. Eso pasa a la primera línea del post, y la noticia queda como prueba, no como protagonista.
-- **El cierre son hábitos, no procesos**: ¿me daría cuenta si estuviera mal? / comprobar el dato exacto, no lo general / pedir la fuente y abrirla. Cero herramientas, cero equipo técnico.
-- **Punto de criterio final** (el que construye autoridad sin tecnicismos): desconfiar de una IA que nunca dice "no lo sé", porque el tono no cambia sepa o se lo invente.
-- **Se cortan los titulillos en negrita y los giros retóricos de transición** ("y aquí es donde…", "la parte que me interesa"): son el tic que delata texto generado. El post va en párrafos cortos seguidos.
-- **Se saca del post la hipótesis de la revisión de código con IA.** Añadía un concepto que a la audiencia objetivo no le dice nada y pisaba el cierre. Va como **primer comentario** del post (texto abajo), etiquetada como hipótesis.
-- **Pregunta final cambiada** a una que se contesta en cinco palabras y que invita a contar una anécdota propia, en vez de a confesar que no validas nada.
+**Por qué el giro funciona**: es la primera vez que el post defiende una opinión propia y discutible en lugar de divulgar. Eso construye autoridad de verdad y, además, genera comentarios (la gente quiere opinar sobre esto).
 
-## Cuarta versión: el giro a IA (feedback de Alberto, 2026-08-01)
+**Tres correcciones aplicadas a la tesis antes de escribir** (si no, el post se vuelve en contra de Alberto):
 
-Alberto: *"floja la reflexión, igual mejor enlazarlo con la IA, y cómo se valida y corrige"*. Tenía razón y el giro mejora el post entero:
+1. **"El código con IA es superior" es indefendible tal cual** — cualquier ingeniero lo tumba en el primer comentario y un reclutador lee hype. La comparación que Alberto quiere hacer es otra y es mucho más fuerte: **no es IA contra el mejor ingeniero, es IA contra lo que ibas a contratar de verdad con tu presupuesto de verdad**. Ese es el giro del post.
+2. **El pilar es un hecho confirmado, no la hipótesis.** Que la IA encontrara el fallo lo apunta el cofundador de Coldcard, pero **no está confirmado** y no puede sostener el argumento. El hecho que sí lo sostiene: **ese código lo escribieron humanos expertos, en una empresa cuyo negocio entero es la seguridad, y el fallo estuvo cinco años sin que nadie lo viera.** Eso desmonta el "lo hecho a mano es más fiable" sin depender de ninguna hipótesis. La hipótesis aparece en el post, etiquetada como tal.
+3. **Límite honesto obligatorio.** Sin una frase que diga dónde el desarrollo con IA *no* es mejor, el post es humo y destruye la autoridad que pretende construir. El límite elegido es el bueno: la IA no conoce tu negocio, y a más riesgo (dinero, datos personales, nóminas) más falta hace alguien que sepa leer lo que ha salido.
 
-- **El puente es real, no forzado**, y esto es lo que lo sostiene: el fallo de Coldcard **no producía errores, producía resultados plausibles**. Llaves que parecían aleatorias, funcionaban y restauraban bien. Ese es, exactamente, el modo de fallo de un modelo de lenguaje: no devuelve un error, devuelve una respuesta bien escrita y segura. Una cifra inventada tiene el mismo aspecto que una buena. **No hay pantalla roja en ninguno de los dos casos.**
-- **La reflexión anterior era floja porque era genérica** ("revisa tus copias, recalcula tus números"). Servía para cualquiera y no usaba nada de lo que Alberto sabe. El cuerpo ahora es evaluación de modelos, que es terreno suyo: medir contra verdad conocida, volver a medir por deriva del proveedor, permitir la abstención, y cruzar por una segunda vía.
-- **Se recupera el apunte sobre IA que se había cortado**, ahora sí con función: cierra el círculo (la IA es lo que hay que validar y a la vez lo que está encontrando fallos latentes de años). Sigue **etiquetado como hipótesis**, porque no está confirmado.
-- **Punto 2, el que más se salta la gente**: el proveedor actualiza el modelo por debajo y nadie avisa. Mismo prompt, mismo proceso, resultados distintos. Es un fallo silencioso idéntico al de Coldcard, y por eso encaja tan bien con el arranque.
+**Aviso de encuadre para la búsqueda de empleo**: Alberto dirigirá equipos técnicos y busca Head of Data desde febrero de 2027. El marco es **"la IA ha subido el mínimo"**, nunca "los desarrolladores sobran". El post lo dice explícitamente ("la IA no ha hecho mejores a los mejores").
+
+### Correcciones editoriales al copy entregado (2026-08-02)
+
+- **Fuera la mención a la app de inversiones.** Alberto pidió dejar `seguimiento_economico` al margen, y además el post del jueves 06/08 va entero sobre ese proyecto: mencionarlo el lunes y el jueves es repetirse en la misma semana. Se queda solo la herramienta del DNI, que ya es pública y ya se contó en el post del 23/07 (da continuidad al perfil).
+- **Se quita "con revisiones"** de la frase sobre Coinkite: no consta verificado que hubiera un proceso de revisión formal, y el argumento se sostiene igual sin ese detalle. Regla del repo: no afirmar de más aunque suene mejor.
+- **Corregido un tiempo verbal** ("hace cinco años eso no existe" → "no habría sido posible").
 
 ## Hechos verificados (2026-08-01)
 
 Fuente primaria: [aviso de seguridad de Coinkite](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/) y su [análisis técnico](https://blog.coinkite.com/entropy-technical-backgrounder/).
 
-- **Qué falló**: el generador de números aleatorios de las carteras físicas COLDCARD no era lo bastante aleatorio al crear la semilla (~72 bits de entropía efectiva en Mk4/Mk5/Q frente a los 128 de una semilla BIP-39 de 12 palabras; peor en Mk2/Mk3).
+- **Qué falló**: el generador de números aleatorios de las carteras COLDCARD no era lo bastante aleatorio al crear la semilla (~72 bits de entropía efectiva en Mk4/Mk5/Q frente a los 128 de una semilla BIP-39 de 12 palabras; peor en Mk2/Mk3).
 - **Desde cuándo**: firmware posterior a marzo de 2021 — unos cinco años.
 - **El robo**: 30 de julio, 01:10–01:51 UTC (41 minutos).
 - **Cifra**: se movió de ~594 BTC (~38 M$) a [~1.158 BTC (~75 M$) según Galaxy Research](https://www.cryptotimes.io/2026/08/01/coldcard-hack-hits-75m-after-alleged-second-attack-wave-galaxy-research/) tras una segunda oleada. **Se usa "unos 70 millones". Revisar el lunes antes de publicar.**
-- **Hipótesis, no hecho**: NVK, cofundador de Coldcard, apunta a que la revisión de código asistida por IA encuentra fallos latentes más rápido que los expertos humanos. [Bitcoin Magazine](https://bitcoinmagazine.com/business/coinkite-releases-fixed-firmware-after-coldcard-bug-ai-likely-involved-in-the-hack) lo recoge como creencia del sector. **Va etiquetado como tal en el post.**
+- **Hipótesis, no hecho**: NVK, cofundador de Coldcard, apunta a que la revisión de código con IA encuentra fallos latentes más rápido que los expertos humanos ([Bitcoin Magazine](https://bitcoinmagazine.com/business/coinkite-releases-fixed-firmware-after-coldcard-bug-ai-likely-involved-in-the-hack)). **Va etiquetada como hipótesis en el post.**
 
 ---
 
-Todos hemos preguntado algo a una IA y nos ha contestado, con una seguridad absoluta, algo que era mentira.
+El 30 de julio alguien robó 70 millones de dólares en 41 minutos.
 
-La semana pasada ese mismo tipo de fallo costó 70 millones de dólares en 41 minutos.
+El fallo que lo permitió llevaba cinco años ahí y lo escribieron humanos expertos.
 
-Te lo cuento sin tecnicismos, porque es la mejor forma que conozco de explicar el problema que tenemos con la IA.
+Hay unos aparatos que se llaman COLDCARD. Del tamaño de una calculadora. Guardan las llaves de tus bitcoins fuera de internet y se supone que son de lo más seguro que existe. Hay gente que tiene ahí sus ahorros.
 
-Existen unos aparatos del tamaño de una calculadora, sin conexión a internet, donde se guarda la llave de tus bitcoins. De lo más seguro que hay.
+Para crear tu llave, el aparato elige un número al azar entre una cantidad brutal de opciones. Tan brutal que no puedes probarlas todas ni en mil años. Ese es todo el truco.
 
-Al crear esa llave, el aparato tiene que elegir un número al azar gigantesco, tan grande que nadie pueda dar con él probando.
+Desde 2021 elegía entre muchísimas menos de las que prometía. Un cajón pequeño. Y un cajón pequeño sí se vacía probando.
 
-Durante cinco años lo eligió entre muchísimas menos opciones de las que prometía.
+Nadie lo vio en cinco años. Ni la empresa, ni sus clientes, ni la gente de fuera que busca estos fallos por deporte.
 
-El 30 de julio alguien generó todas esas opciones, las fue probando y vació las carteras. Entre la 01:10 y la 01:51 de la madrugada. Unos 70 millones de dólares.
+Ese código lo escribieron programadores buenos, en una empresa cuyo negocio entero es la seguridad y con su reputación en juego.
 
-En esos cinco años el aparato no dio ni un error. Se encendía, guardaba la llave, devolvía el dinero. Si lo revisabas no veías nada raro, porque no había nada raro que ver.
+Lo cuento porque me encuentro mucha desconfianza con el código escrito con IA. Y detrás casi siempre está la misma comparación: la IA contra un ingeniero excelente.
 
-Los fallos que salen caros son estos: los que no rompen nada y siguen dando resultados creíbles.
+Esa no es la comparación de casi nadie.
 
-La IA falla igual.
+Si tienes una empresa de veinte personas y necesitas una herramienta interna, tú nunca ibas a contratar a un ingeniero excelente. Ibas a contratar lo más barato que encontraras, sin nadie dentro capaz de revisar lo que te entregan. Contra eso, hoy, la IA gana muchas veces.
 
-Cuando se equivoca no salta una alarma ni una pantalla roja. Sale un párrafo bien escrito, ordenado y seguro de sí mismo. Una cifra inventada tiene exactamente la misma pinta que una cifra buena. Un artículo de una ley que no existe se lee igual que uno que sí.
+Yo me he montado alguna cosa para mí en un rato. Una utilidad para ponerle marca de agua a mi DNI antes de mandarlo por ahí. Hace cinco años eso no habría sido posible: o le dedicaba tres fines de semana o me quedaba sin ello.
 
-Y si tu manera de comprobarlo es leerlo y ver si suena bien, no estás comprobando nada. Sonar bien es justo lo que mejor se le da.
+Ahora, lo que no me trago.
 
-Tres cosas que puedes hacer el lunes, sin herramientas ni saber nada de tecnología:
+La IA no sabe cómo funciona tu negocio. No sabe que las facturas de ese cliente van aparte porque lleváis quince años haciéndolo así. Eso se lo explicas tú, y si se lo explicas mal, hace la chapuza rapidísimo y con una seguridad enorme.
 
-1. Antes de usar la respuesta, pregúntate si te darías cuenta en caso de que estuviera mal. Si la respuesta es no, no la uses todavía.
+Y cuanto más te juegas, más falta hace alguien que sepa leer lo que ha salido y responda de ello. Dinero, datos personales, nóminas: ahí no basta con que funcione en la demo.
 
-2. Comprueba el dato exacto. Nombres, fechas, importes, plazos, artículos, referencias. Lo general suele estar bien; donde falla es en el detalle.
+El cofundador de COLDCARD apunta a que revisar código con IA está sacando fallos escondidos más rápido que los mejores expertos. Es una hipótesis suya, no un hecho, y me la tomo como tal.
 
-3. Pídele de dónde lo ha sacado y ábrelo tú. Si no puedes abrir la fuente, lo que tienes es un rumor muy bien redactado.
+Lo que sí tengo claro es que la IA no ha hecho mejores a los mejores. Ha subido el mínimo. Y el mínimo es lo que compra la mayoría de las empresas.
 
-Y una de criterio, que vale más que las tres: desconfía de una IA que nunca dice "no lo sé". Cuando una persona duda, se le nota. Aquí el tono es idéntico lo sepa o se lo esté inventando.
-
-¿Cuál es la última mentira que os ha colado una IA con total seguridad?
+Dime en una línea: para una herramienta de tu empresa, ¿de quién te fías más hoy — del desarrollador más barato que puedas contratar, o de alguien con criterio trabajando con IA?
 
 ---
-
-## Primer comentario (opcional, se publica junto al post)
-
-> Un apunte que no cabía arriba: no hay confirmación de cómo se descubrió este fallo después de cinco años. El cofundador de la empresa apunta a la revisión de código con IA, que está encontrando cosas enterradas durante años más rápido que los mejores expertos humanos. Es una hipótesis, no un hecho, pero encaja con lo que se está viendo en el sector.
 
 ## Ganchos alternativos (por si se quiere probar otra apertura)
 
-- *Un fallo puede pasar cinco años dentro de un sistema sin dar un solo error. / Y luego costar 70 millones de dólares en 41 minutos.*
-- *El 30 de julio, entre la 01:10 y la 01:51 de la madrugada, alguien se llevó 70 millones de dólares. / El fallo que se lo permitió llevaba cinco años funcionando de maravilla.*
-- *La IA no te avisa cuando se equivoca: te contesta igual de segura que cuando acierta. / La semana pasada, un fallo con esa misma forma costó 70 millones de dólares en 41 minutos.*
+- *Un fallo tardó cinco años en aparecer y 41 minutos en costar 70 millones de dólares. / Lo escribieron humanos expertos, en una empresa que vive de la seguridad.*
+- *Cinco años. Ese es el tiempo que un fallo estuvo escondido en uno de los cacharros más seguros del mundo. / El 30 de julio alguien lo encontró y se llevó 70 millones de dólares.*
+- *Se supone que lo hecho a mano por expertos es más fiable. / El 30 de julio ese argumento perdió 70 millones de dólares en 41 minutos.*
 
 ---
 
