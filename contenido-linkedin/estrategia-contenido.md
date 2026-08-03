@@ -45,6 +45,15 @@ Alberto pide contenido **más educativo y didáctico, pero que el algoritmo prem
 
 **Registro de tono a evitar** (el error que hubo que corregir en el post del 03/08): escribir como ensayo en vez de como clase. Analogía literaria de apertura, giros retóricos de transición ("y aquí es donde…", "la parte que me interesa…"), párrafos en tríada simétrica. Se lee como texto construido para producir un efecto y suena artificial. **Explicar, no sugerir.**
 
+### El staccato: por qué se hace, por qué aquí no (decidido 2026-08-02)
+
+Alberto pregunta si el estilo de frases cortas una debajo de otra "es así por algo". Sí lo es, pero se ha pasado de rosca y en este perfil nos estaba perjudicando. Conviene tenerlo claro:
+
+- **La razón real**: LinkedIn se lee en el móvil, en un feed y con una mano. Los saltos de línea dan descanso visual y mejoran la lectura hasta el final. Cierto.
+- **Por qué ha dejado de funcionar**: de tanto usarse, ha pasado de técnica a **firma**. Hoy una frase por párrafo es el rasgo que identifica el contenido generado por IA y el contenido de gurú de LinkedIn. Lo que servía para leer mejor ahora señala "esto está fabricado" — es exactamente lo que Alberto detectaba al decir "suena artificial".
+- **Y es contraproducente para una audiencia no técnica**: trocear elimina los conectores ("porque", "pero", "así que", "si… entonces"), que son justamente lo que permite seguir un razonamiento a quien no es del sector. Un texto troceado no es más fácil: obliga al lector a reconstruir él solo la relación entre las frases.
+- **Cómo se escribe aquí**: párrafos normales de 2-4 líneas, con conectores, y el salto de línea **reservado para los dos o tres momentos que de verdad pesan**. Una frase corta solo golpea si contrasta con las largas. Si todo es corto, no destaca nada.
+
 ## Cadencia
 
 Publicación: martes, miércoles y jueves, a partir de septiembre 2026 (Módulo 6, `03-gtm/modulo-6-canal.md`).
