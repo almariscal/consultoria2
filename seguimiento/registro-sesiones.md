@@ -315,3 +315,16 @@ Tres apuntes de Alberto. El tercero es el más valioso porque no va de este post
   - Sí hay una razón real (móvil, feed, descanso visual, llegar al final), **pero se ha pasado de rosca**: de tanto usarse, el staccato ha dejado de ser una técnica y se ha convertido en la **firma** del contenido generado por IA y del gurú de LinkedIn. Lo que servía para leer mejor hoy señala "esto está fabricado". Es lo mismo que Alberto venía detectando desde la tercera versión al decir "suena artificial", solo que ahora sabemos nombrarlo.
   - **Además choca con lo que pide**: trocear elimina los conectores ("porque", "pero", "así que"), que son justo lo que hace seguible un razonamiento para quien no es del sector. Troceado no es más para dummies: obliga al lector a reconstruir solo la relación entre frases. **Los puntos 2 y 3 se arreglan con el mismo cambio.**
   - **Regla nueva del perfil**: párrafos de 2-4 líneas con conectores y el salto de línea reservado a los dos o tres momentos que pesan. Una frase corta solo golpea si contrasta con las largas.
+
+### 2026-08-02 (cierre) — Post aprobado, guías actualizadas y paso a `main`
+Alberto aprueba la séptima versión (*"buah, mucho mejor"*), pide la tarjeta en el azul de siempre, dice que **le gusta este tipo de publicación** y que la automatiza para que salga mañana lunes 03/08.
+
+- **Tarjeta pasada a azul noche**, mismo diseño sobrio (pregunta + bajada + datos pequeños). El fondo claro se reserva para las tarjetas de lista aplicable.
+- **`guia-estilo-visual.md` ampliada** con dos plantillas nuevas y una regla de fondo:
+  - **Tarjeta-pregunta**: una pregunta abierta como único titular, bajada con el hecho, datos en pequeño. **La imagen pregunta, el post argumenta.**
+  - **Lista aplicable**: titular + 3-4 puntos accionables, pensada para guardarse.
+  - **"Menos énfasis = más autoridad"**: cuanto más discutible es lo que afirma un post, más sobria tiene que ser su imagen. El énfasis visual sobre un argumento opinable se lee como hype, y el hype resta justo la autoridad que el post busca. Si la tarjeta necesita gritar, el texto no se sostiene solo.
+- **`estrategia-contenido.md`: línea de contenido nueva, "opinión con criterio"** — la que Alberto quiere repetir. Las otras líneas explican; esta posiciona. Con cuatro requisitos innegociables sacados de esta sesión: tesis apoyada en hecho confirmado; nada de overclaims (buscar siempre la reformulación precisa, que además es más potente); límite honesto obligatorio; y nunca despectivo con un colectivo profesional.
+- **Aprendizaje de método, para no repetir siete versiones**: los seis primeros intentos fallaron por explicar mejor algo que no era el tema. El post solo funcionó cuando Alberto puso su propia tesis encima de la mesa. **Antes de escribir un post de actualidad, preguntarle a Alberto qué opina él del asunto** — no qué hay que explicar.
+- **Pasado a `main`** y publicación programada por Alberto para el lunes 03/08.
+- **Sigue sin resolver** (tres veces planteado, sin respuesta): métricas de los dos posts publicados; si el post del miércoles pasa a formato didáctico; y si la semana se queda en cuatro publicaciones.

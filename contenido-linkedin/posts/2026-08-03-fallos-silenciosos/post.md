@@ -3,7 +3,7 @@
 **Estado:** Listo para publicar
 **Fecha prevista:** lunes 2026-08-03
 **Línea de contenido:** **Actualidad comentada + opinión con criterio**. Primer post del perfil que defiende una tesis discutible en vez de explicar un concepto. El caso Coldcard es la prueba, no el tema.
-**Imágenes:** `frase.png` — fondo claro y deliberadamente **sobrio**. La pregunta de Alberto como titular, una bajada con el hecho, y los datos en letra pequeña abajo. Sin cifras gigantes ni bloques de comparación: la imagen **pregunta**, el post argumenta.
+**Imágenes:** `frase.png` — azul noche y deliberadamente **sobrio**. La pregunta de Alberto como titular, una bajada con el hecho, y los datos en letra pequeña abajo. Sin cifras gigantes ni bloques de comparación: la imagen **pregunta**, el post argumenta.
 **Longitud:** ~2.050 caracteres (venía de 2.650).
 
 ## Séptima versión (2026-08-02) — tres cosas de Alberto, y una de ellas es una pregunta de fondo

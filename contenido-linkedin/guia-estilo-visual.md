@@ -41,6 +41,16 @@ Colores que transmiten confianza y tecnología, sin caer en lo genérico-corpora
 2. **Concepto/comparación** — fondo claro, título + subtítulo + visual simple (antes/después, dos columnas). Para explicar algo con claridad.
 3. **Dato/cifra destacada** (a usar cuando haya una cifra real que mostrar) — número grande como protagonista, contexto breve alrededor.
 4. **Diagrama de proceso/flujo** — vía Mermaid (flowchart, sequence), útil para contenido de automatización (mostrar un pipeline, un antes/después de un proceso con pasos). Se aplica la misma paleta y tipografía que el resto — no el estilo por defecto de Mermaid.
+5. **Tarjeta-pregunta** (añadida 2026-08-02, la que más le gusta a Alberto) — **una pregunta abierta como único titular**, una bajada corta con el hecho que la provoca, y los datos en letra pequeña abajo. Casi todo el lienzo vacío. Para posts de opinión: la **imagen pregunta y el post argumenta**. Ejemplo: *"¿Habrían hackeado Coldcard si el código lo hubiera escrito una IA?"*.
+6. **Lista aplicable** (añadida 2026-08-02) — titular + 3-4 puntos numerados que se puedan poner en práctica. Es la plantilla para posts didácticos, y está pensada para **guardarse**: quien la ve suelta en el feed ya se lleva algo aunque no lea el post. Solo si los puntos son de verdad accionables; si no, es una lista de relleno.
+
+## Menos énfasis = más autoridad (regla añadida 2026-08-02)
+
+Alberto rechazó una tarjeta por **rimbombante**: cifra gigantesca, varios acentos y un bloque de comparación. El aprendizaje, que vale para todas:
+
+> Cuanto más discutible es lo que afirma un post, **más sobria** tiene que ser su imagen. El énfasis visual en un argumento opinable se lee como hype, y el hype resta exactamente la autoridad que el post pretende construir.
+
+En la práctica: un solo elemento protagonista por tarjeta, un único toque de acento, y espacio vacío sin miedo. Si la tarjeta necesita gritar, probablemente el texto no se sostiene solo.
 
 ## Motor de generación (decidido 2026-07-12)
 
